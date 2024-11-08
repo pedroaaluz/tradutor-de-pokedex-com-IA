@@ -1,0 +1,20 @@
+[
+  {
+    "pokemon": "Bidoof",
+    "biome": "selva",
+    "locations": [
+      {
+        "location": "ROTA 14",
+        "level": "2-4"
+      },
+      {
+        "location": "ROTA 1",
+        "level": "1-2"
+      }
+    ],
+    "description": "With nerves of steel, nothing can\nperturb it. It is more agile and\nactive than it appears.",
+    "pokedexId": 399,
+    "descriptionTranslated": "Com nervos de aço, nada pode perturbá-lo. É mais ágil e ativo do que parece. \n",
+    "translatedTime": 25.309
+  }
+]
