@@ -5,3 +5,7 @@ node_modules
 
 /dist
 /models
+
+/src/localizacaoPokemons.json
+/src/pokemonsWithError.json
+/src/pokedex.json
