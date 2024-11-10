@@ -1,0 +1,1670 @@
+[
+  {
+    "date": "2024-11-09T01:29:30.554Z",
+    "totalTranslationTime": 1029.3990000000006,
+    "averageTranslationTime": 34.31330000000002,
+    "p90TranslationTime": 37.171,
+    "translatedPokemonCount": 30,
+    "translationRange": {
+      "min": 1,
+      "max": 30
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+        "Name": "Bulbasaur",
+        "PokedexTranslated": "Bulbasaur pode ser visto dormindo sob luz solar brilhante. Há uma semente na sua costas. Ao absorver as radiações solares, a semente cresce progressivamente maior. \n",
+        "translatedTime": "30.274"
+      },
+      {
+        "Pokedex": "To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+        "Name": "Ivysaur",
+        "PokedexTranslated": "Para sustentar seu bulbo, as pernas do Ivysaur se tornam fortes. Se ele passar mais tempo deitado sob a luz solar, o botão florescerá em breve em uma grande flor. \n",
+        "translatedTime": "30.95"
+      },
+      {
+        "Pokedex": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+        "Name": "Venusaur",
+        "PokedexTranslated": "O flor de Venusaur é dito assumir cores vibrantes se receber uma boa quantidade de nutrição e luz solar. O aroma da flor acalma as emoções das pessoas. \n",
+        "translatedTime": "31.127"
+      },
+      {
+        "Pokedex": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
+        "Name": "Charmander",
+        "PokedexTranslated": "A chama que queima na ponta da cauda é um indicativo de suas emoções. A chama treme quando o Charmander está feliz, e arde quando está furioso. \n",
+        "translatedTime": "31.519"
+      },
+      {
+        "Pokedex": "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
+        "Name": "Charmeleon",
+        "PokedexTranslated": "Sem piedade, suas garras afiadas destroem inimigos. Se encontra um inimigo forte, fica agitado, e a chama na cauda se acende com uma cor azul-branca. \n",
+        "translatedTime": "31.756"
+      },
+      {
+        "Pokedex": "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+        "Name": "Charizard",
+        "PokedexTranslated": "O Charizard voa em busca de oponentes fortes. Ele respira chamas intensas que podem derreter qualquer material. No entanto, ele nunca incendiará um inimigo mais fraco. \n",
+        "translatedTime": "31.969"
+      },
+      {
+        "Pokedex": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
+        "Name": "Squirtle",
+        "PokedexTranslated": "Sua concha não é apenas para proteção. Sua forma arredondada e as ranhuras na superfície minimizam a resistência no meio aquático, permitindo que o Squirtle nadando a alta velocidade. \n",
+        "translatedTime": "32.612"
+      },
+      {
+        "Pokedex": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.",
+        "Name": "Wartortle",
+        "PokedexTranslated": "Seu grande cauda é coberto por pêlos ricos e grossos que se aprofundam em cor com a idade. As arranhões na concha são evidências da força deste Pokémon em batalha. \n",
+        "translatedTime": "32.575"
+      },
+      {
+        "Pokedex": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+        "Name": "Blastoise",
+        "PokedexTranslated": "As protuberâncias de água que saem da concha dele são altamente precisas. Seus projéteis de água podem acertar latas de alumínio a uma distância de mais de 160 pés. \n",
+        "translatedTime": "32.895"
+      },
+      {
+        "Pokedex": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+        "Name": "Caterpie",
+        "PokedexTranslated": "Seu apetite voraz o impulsiona a devorar folhas maiores que ele mesmo sem hesitação. Ele libera um odor terrible de suas antenas. \n",
+        "translatedTime": "32.309"
+      },
+      {
+        "Pokedex": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
+        "Name": "Metapod",
+        "PokedexTranslated": "Sua concha é tão dura quanto uma tábua de ferro. O Metapod não se move muito porque está se preparando para sua evolução interna dentro da concha. \n",
+        "translatedTime": "32.725"
+      },
+      {
+        "Pokedex": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+        "Name": "Butterfree",
+        "PokedexTranslated": "Tem uma capacidade superior para procurar mel delicioso de flores. Ele pode procurar, extrair e carregar mel de flores que estão em flor a mais de seis milhas de distância. \n",
+        "translatedTime": "33.552"
+      },
+      {
+        "Pokedex": "A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+        "Name": "Weedle",
+        "PokedexTranslated": "O Weedle tem um olfato extremamente acurado. Ele distingue os tipos de folhas que gosta de aqueles que não gosta por meio de um olfato com seu grande probosso (nariz vermelho). \n",
+        "translatedTime": "33.839"
+      },
+      {
+        "Pokedex": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
+        "Name": "Kakuna",
+        "PokedexTranslated": "Ele permanece virtualmente imóvel enquanto se agarra a uma árvore. No entanto, dentro dele, ele se prepara para a evolução. Isso é evidente pela temperatura que sua concha alcança. \n",
+        "translatedTime": "33.572"
+      },
+      {
+        "Pokedex": "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+        "Name": "Beedrill",
+        "PokedexTranslated": "A Beedrill é extremamente territorial. Por razões de segurança, ninguém deve jamais se aproximar do seu ninho. Se irritado, atacarão em uma multidão. \n",
+        "translatedTime": "33.579"
+      },
+      {
+        "Pokedex": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+        "Name": "Pidgey",
+        "PokedexTranslated": "Tem um senso de direção extremamente afiado. Ele pode retornar sem errar para seu ninho, independentemente de quão distante esteja de seus arredores familiares. \n",
+        "translatedTime": "34.219"
+      },
+      {
+        "Pokedex": "This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+        "Name": "Pidgeotto",
+        "PokedexTranslated": "Este Pokémon voa por aí, patrulhando seu grande território. Se seu espaço de vida for violado, ele não mostra piedade em punir o inimigo com suas garras afiadas. \n",
+        "translatedTime": "34.887"
+      },
+      {
+        "Pokedex": "Pidgeot has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.",
+        "Name": "Pidgeot",
+        "PokedexTranslated": "O Pidgeot tem penas gorgeous e brilhantes. Muitos treinadores são tão encantados pelas penas bonitas na sua cabeça que escolhem o Pidgeot como seu Pokémon. \n",
+        "translatedTime": "33.998"
+      },
+      {
+        "Pokedex": "A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
+        "Name": "Rattata",
+        "PokedexTranslated": "A Rattata é extremamente cautelosa. Mesmo dormindo, ela constantemente move seus ouvidos e ouve por perigo. Ela fará seu ninho em qualquer lugar. \n",
+        "translatedTime": "34.816"
+      },
+      {
+        "Pokedex": "A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+        "Name": "Raticate",
+        "PokedexTranslated": "As fortes incisivos do Raticate crescem constantemente. Para mantê-los afiados, ele mastiga rochas e troncos. Ele pode até mesmo mastigar as paredes de casas. \n",
+        "translatedTime": "35.854"
+      },
+      {
+        "Pokedex": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+        "Name": "Spearow",
+        "PokedexTranslated": "Seu grito forte pode ser ouvido a mais de meio milhão de metros. Se seu grito alto e agudo ecoar por toda a área, é sinal de que estão avisando uns aos outros sobre perigo. \n",
+        "translatedTime": "41.013"
+      },
+      {
+        "Pokedex": "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
+        "Name": "Fearow",
+        "PokedexTranslated": "Seu pescoço longo e bico alongado são ideais para capturar presas no solo ou água. Ele move com destreza esse bico alongado e fino para pegar presas. \n",
+        "translatedTime": "34.866"
+      },
+      {
+        "Pokedex": "An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+        "Name": "Ekans",
+        "PokedexTranslated": "Um Ekans se enrolla em um espiral enquanto se deita. Essa posição permite que ele responda rapidamente a um inimigo de qualquer direção com um ataque de sua cabeça erguida. \n",
+        "translatedTime": "35.061"
+      },
+      {
+        "Pokedex": "This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
+        "Name": "Arbok",
+        "PokedexTranslated": "Este Pokémon tem uma força de constrição terrificamente forte. Ele pode até mesmo esmagar tambores de óleo de aço. Uma vez que envolve seu corpo ao redor do inimigo, escapar é impossível. \n",
+        "translatedTime": "37.171"
+      },
+      {
+        "Pokedex": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
+        "Name": "Pikachu",
+        "PokedexTranslated": "Ele armazena eletricidade nas bolsas elétricas nos seus maxilares. Quando libera a energia acumulada em um ataque explosivo, a energia elétrica é igual a um raio de trovão. \n",
+        "translatedTime": "36.422"
+      },
+      {
+        "Pokedex": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+        "Name": "Raichu",
+        "PokedexTranslated": "Se ele armazenar muita eletricidade, seu comportamento se torna agressivo. Para evitar isso, ele descarrega ocasionalmente a energia em excesso e se acalma. \n",
+        "translatedTime": "35.684"
+      },
+      {
+        "Pokedex": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+        "Name": "Sandshrew",
+        "PokedexTranslated": "Quando se enrola em uma bola, ele pode fazer qualquer ataque rebater sem causar dano. Sua pele se tornou dura e sólida como resultado de viver no deserto. \n",
+        "translatedTime": "36.32"
+      },
+      {
+        "Pokedex": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
+        "Name": "Sandslash",
+        "PokedexTranslated": "Ele se enrolla em uma bola para se proteger de ataques inimigos. Ele também se enrolla para evitar o calor excessivo durante o dia quando as temperaturas aumentam rapidamente. \n",
+        "translatedTime": "36.32"
+      },
+      {
+        "Pokedex": "Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+        "Name": "Nidoran♀",
+        "PokedexTranslated": "Suas barbatanas altamente tóxicas são consideradas como uma forma de proteção para este Pokémon de pequeno porte. Quando irritado, ele libera um veneno horrível de seu chifre. \n",
+        "translatedTime": "39.528"
+      },
+      {
+        "Pokedex": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+        "Name": "Nidorina",
+        "PokedexTranslated": "Quando está com seus amigos ou familiares, suas barbatanas são escondidas para evitar ferimentos. Parece ficar nervoso se estiver separado dos outros. \n",
+        "translatedTime": "37.987"
+      }
+    ],
+    "maxTranslatedTime": 41.013,
+    "minTranslatedTime": 30.274
+  },
+  {
+    "date": "2024-11-09T01:49:40.995Z",
+    "totalTranslationTime": 58.031,
+    "averageTranslationTime": 29.0155,
+    "p90TranslationTime": 30.07,
+    "translatedPokemonCount": 2,
+    "translationRange": {
+      "min": 31,
+      "max": 32
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It is adept at sending foes flying with harsh tackles using its tough, scaly body. This Pokémon is at its strongest when it is defending its young.",
+        "Name": "Nidoqueen",
+        "PokedexTranslated": "É habilidoso em enviar inimigos voando com tackles fortes usando seu corpo duro e escamoso. Este Pokémon está em sua força máxima quando está defendendo seus filhotes. \n",
+        "translatedTime": "30.07"
+      },
+      {
+        "Pokedex": "The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+        "Name": "Nidoran♂",
+        "PokedexTranslated": "O Nidoran macho desenvolveu músculos que podem mover seus ouvidos em qualquer direção. Mesmo o menor som não escapa a atenção deste Pokémon. \n",
+        "translatedTime": "27.961"
+      }
+    ],
+    "maxTranslatedTime": 30.07,
+    "minTranslatedTime": 27.961
+  },
+  {
+    "date": "2024-11-09T01:53:38.079Z",
+    "totalTranslationTime": 58.202,
+    "averageTranslationTime": 29.101,
+    "p90TranslationTime": 29.686,
+    "translatedPokemonCount": 2,
+    "translationRange": {
+      "min": 33,
+      "max": 34
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+        "Name": "Nidorino",
+        "PokedexTranslated": "O seu chifre é mais duro que um diamante. Se ele sentir uma presença hostil, todas as barbatanas na sua costas se erguem instantaneamente e o desafiam com toda a sua força. \n",
+        "translatedTime": "28.516"
+      },
+      {
+        "Pokedex": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
+        "Name": "Nidoking",
+        "PokedexTranslated": "O caule maciço do Nidoking possui uma enorme força destrutiva capaz de derrubar uma torre de transmissão de metal. Uma vez que ele se torna um monstro, não há como pará-lo. \n",
+        "translatedTime": "29.686"
+      }
+    ],
+    "maxTranslatedTime": 29.686,
+    "minTranslatedTime": 28.516
+  },
+  {
+    "date": "2024-11-09T01:59:33.839Z",
+    "totalTranslationTime": 28.692,
+    "averageTranslationTime": 28.692,
+    "p90TranslationTime": 28.692,
+    "translatedPokemonCount": 1,
+    "translationRange": {
+      "min": 35,
+      "max": 35
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
+        "Name": "Clefairy",
+        "PokedexTranslated": "Todos os noites de lua cheia, eles saem para brincar. Quando o amanhecer chega, as cansadas Clefairy vão para dormir, aconchegadas umas contra as outras em montanhas profundas e silenciosas. \n",
+        "translatedTime": "28.692"
+      }
+    ],
+    "maxTranslatedTime": 28.692,
+    "minTranslatedTime": 28.692
+  },
+  {
+    "date": "2024-11-09T02:01:30.732Z",
+    "totalTranslationTime": 33.003,
+    "averageTranslationTime": 33.003,
+    "p90TranslationTime": 33.003,
+    "translatedPokemonCount": 1,
+    "translationRange": {
+      "min": 36,
+      "max": 36
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
+        "Name": "Clefable",
+        "PokedexTranslated": "O Clefable voa levemente, usando suas asas como se estivesse voando. Seu passo leve o permite caminhar até mesmo sobre água. Em noites tranquilas e iluminadas por lua, ele passeia nos lagos. \n",
+        "translatedTime": "33.003"
+      }
+    ],
+    "maxTranslatedTime": 33.003,
+    "minTranslatedTime": 33.003
+  },
+  {
+    "date": "2024-11-09T02:03:58.600Z",
+    "totalTranslationTime": 30.214,
+    "averageTranslationTime": 30.214,
+    "p90TranslationTime": 30.214,
+    "translatedPokemonCount": 1,
+    "translationRange": {
+      "min": 37,
+      "max": 37
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
+        "Name": "Vulpix",
+        "PokedexTranslated": "Ele pode controlar o fogo livremente, fazendo bolas de fogo voarem como luzes de fogo.  Antes da evolução, suas seis caudas crescem quentes como se estivessem em brasa. \n",
+        "translatedTime": "30.214"
+      }
+    ],
+    "maxTranslatedTime": 30.214,
+    "minTranslatedTime": 30.214
+  },
+  {
+    "date": "2024-11-09T02:53:01.411Z",
+    "totalTranslationTime": 2256.9059999999995,
+    "averageTranslationTime": 35.82390476190476,
+    "p90TranslationTime": 40.726,
+    "translatedPokemonCount": 63,
+    "translationRange": {
+      "min": 38,
+      "max": 100
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
+        "Name": "Ninetales",
+        "PokedexTranslated": "Já se diz há muito tempo que cada uma das nove caudas contém um poder encantado. Um Ninetales de longa vida terá pelagem que brilha como ouro. \n",
+        "translatedTime": "28.843"
+      },
+      {
+        "Pokedex": "Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+        "Name": "Jigglypuff",
+        "PokedexTranslated": "Nada pode evitar o sono ao ouvir a música de um Jigglypuff. As ondas sonoras da sua voz se alinham com as ondas cerebrais de alguém em um sono profundo. \n",
+        "translatedTime": "28.833"
+      },
+      {
+        "Pokedex": "Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.",
+        "Name": "Wigglytuff",
+        "PokedexTranslated": "Seu pelo é o ápice da luxúria. Dormir ao lado de um Wigglytuff é simplesmente divino. Seu corpo parece expandir sem fim ao inhalar. \n",
+        "translatedTime": "28.992"
+      },
+      {
+        "Pokedex": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+        "Name": "Zubat",
+        "PokedexTranslated": "Embora vivam em cavernas escuras, seus olhos gradualmente se fecharam e os privaram da visão. Eles usam ondas ultrassônicas para detectar obstáculos. \n",
+        "translatedTime": "29.587"
+      },
+      {
+        "Pokedex": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.",
+        "Name": "Golbat",
+        "PokedexTranslated": "Suas incisões facilmente penetram até a pele animal grossa. Ela adora se alimentar do sangue de pessoas e Pokémon. Ela flutua na escuridão e ataca por trás. \n",
+        "translatedTime": "33.673"
+      },
+      {
+        "Pokedex": "It grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+        "Name": "Oddish",
+        "PokedexTranslated": "Ele cresce absorvendo a luz da lua. Durante o dia, ele se enclausura no solo, deixando apenas suas folhas expostas para evitar a detecção por seus inimigos. \n",
+        "translatedTime": "29.553"
+      },
+      {
+        "Pokedex": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+        "Name": "Gloom",
+        "PokedexTranslated": "Um mel extremamente nocivo goteja da boca. Um cheiro do mel pode causar perda de memória. Alguns fãs são dizimados por esse cheiro imenso, no entanto. \n",
+        "translatedTime": "30.506"
+      },
+      {
+        "Pokedex": "In seasons when it produces more pollen, the air around a Vileplume turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
+        "Name": "Vileplume",
+        "PokedexTranslated": "Em épocas em que produz mais pólen, o ar ao redor de um Vileplume fica amarelo com o pó enquanto ele caminha. O pólen é altamente tóxico e causa paralisia. \n",
+        "translatedTime": "31.008"
+      },
+      {
+        "Pokedex": "A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
+        "Name": "Paras",
+        "PokedexTranslated": "Uma Paras tem cogumelos tochucacos parasitas crescendo na sua costas. Eles crescem absorvendo nutrientes do hospedeiro. São valorizados como um remédio para a longevidade. \n",
+        "translatedTime": "30.951"
+      },
+      {
+        "Pokedex": "Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+        "Name": "Parasect",
+        "PokedexTranslated": "Parasect são conhecidos por infestarem as raízes de grandes árvores em massa e absorver nutrientes. Quando uma árvore infestada morre, elas se movem para outra árvore de forma simultânea. \n",
+        "translatedTime": "32.062"
+      },
+      {
+        "Pokedex": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+        "Name": "Venonat",
+        "PokedexTranslated": "Seu pelo fino e rígido que cobre todo o corpo é dito ter evoluído para proteção. Seus grandes olhos nunca falham em detectar presas minúsculas. \n",
+        "translatedTime": "31.249"
+      },
+      {
+        "Pokedex": "Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
+        "Name": "Venomoth",
+        "PokedexTranslated": "Venomoth são noturnos - eles só são ativos à noite. Suas presas favoritas são insetos que se reúnem ao redor de luzes de rua, atraídos pela luz na escuridão. \n",
+        "translatedTime": "31.879"
+      },
+      {
+        "Pokedex": "Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+        "Name": "Diglett",
+        "PokedexTranslated": "Diglett são criados em grande parte das fazendas. A razão é simples - onde eles escavam, o solo é deixado perfeitamente preparado para o cultivo de grãos deliciosos. \n",
+        "translatedTime": "32.099"
+      },
+      {
+        "Pokedex": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+        "Name": "Dugtrio",
+        "PokedexTranslated": "Por causa de sua origem em um único corpo, eles pensam exatamente da mesma forma. Eles trabalham cooperativamente para escavar infinitamente no solo. \n",
+        "translatedTime": "31.458"
+      },
+      {
+        "Pokedex": "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.",
+        "Name": "Meowth",
+        "PokedexTranslated": "Meowth retraem suas garras afiadas em suas patas para se esgueirar silenciosamente. Por algum motivo, este Pokémon ama moedas brilhantes que brilham com luz. \n",
+        "translatedTime": "32.466"
+      },
+      {
+        "Pokedex": "A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
+        "Name": "Persian",
+        "PokedexTranslated": "O pelo de um Persian, com seis pelos fortes, detecta movimentos de ar para determinar o que está ao seu redor. Ele se torna dócil se for agarrado pelos pelos. \n",
+        "translatedTime": "32.498"
+      },
+      {
+        "Pokedex": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+        "Name": "Psyduck",
+        "PokedexTranslated": "Quando sua dor de cabeça intensifica, ela começa a usar poderes estranhos. No entanto, ela não se lembra de seus poderes, então ela sempre parece confusa e confusa. \n",
+        "translatedTime": "32.627"
+      },
+      {
+        "Pokedex": "A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+        "Name": "Golduck",
+        "PokedexTranslated": "Um Golduck é um nadador habilidoso. Às vezes, ele se junta a nadadores competitivos em treinos. Ele usa poderes psíquicos quando seu rosto brilha com luz. \n",
+        "translatedTime": "31.928"
+      },
+      {
+        "Pokedex": "When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.",
+        "Name": "Mankey",
+        "PokedexTranslated": "Quando começa a tremer e sua respiração nasal fica áspera, é um sinal seguro de raiva. No entanto, já que isso acontece instantaneamente, não há tempo para fugir. \n",
+        "translatedTime": "32.817"
+      },
+      {
+        "Pokedex": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+        "Name": "Primeape",
+        "PokedexTranslated": "Quando fica furioso, sua circulação sanguínea se torna mais robusta e seus músculos se tornam mais fortes. Mas também se torna muito menos inteligente. \n",
+        "translatedTime": "32.642"
+      },
+      {
+        "Pokedex": "Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
+        "Name": "Growlithe",
+        "PokedexTranslated": "Seu excelente sentido de olfato garante que este Pokémon não vai esquecer qualquer cheiro, não importa o que seja. Ele usa seu sentido de olfato para detectar as emoções dos outros. \n",
+        "translatedTime": "34.087"
+      },
+      {
+        "Pokedex": "This fleet-footed Pokémon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+        "Name": "Arcanine",
+        "PokedexTranslated": "Este Pokémon ágil é dito correr mais de 6.200 milhas em um único dia e noite. O fogo que arde intensamente dentro do seu corpo é sua fonte de poder. \n",
+        "translatedTime": "38.532"
+      },
+      {
+        "Pokedex": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+        "Name": "Poliwag",
+        "PokedexTranslated": "É possível ver os órgãos espiralados desta criatura através da sua pele fina. No entanto, a pele também é muito flexível. Até mesmo dentes afiados podem ser desviados dela. \n",
+        "translatedTime": "34.467"
+      },
+      {
+        "Pokedex": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+        "Name": "Poliwhirl",
+        "PokedexTranslated": "Sua superfície corporal está sempre úmida e lisa com um fluido oleoso. Por causa dessa cobertura oleosa, ele pode facilmente deslizar e escapar das garras de qualquer inimigo em batalha. \n",
+        "translatedTime": "34.646"
+      },
+      {
+        "Pokedex": "Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.",
+        "Name": "Poliwrath",
+        "PokedexTranslated": "Seus músculos altamente desenvolvidos nunca se cansam, independentemente do exercício. Este Pokémon pode nadar de um lado para o outro pelo Oceano Pacífico sem esforço. \n",
+        "translatedTime": "34.368"
+      },
+      {
+        "Pokedex": "A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.",
+        "Name": "Abra",
+        "PokedexTranslated": "Um Pokémon que dorme 18 horas por dia. A observação revelou que ele usa Teletransporte para mudar de local a cada hora. \n",
+        "translatedTime": "34.12"
+      },
+      {
+        "Pokedex": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
+        "Name": "Kadabra",
+        "PokedexTranslated": "Diz-se que um garoto com habilidades psíquicas de repente se transformou em Kadabra enquanto estava auxiliando na pesquisa sobre poderes extrasensoriais. \n",
+        "translatedTime": "34.822"
+      },
+      {
+        "Pokedex": "While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.",
+        "Name": "Alakazam",
+        "PokedexTranslated": "Embora tenha fortes habilidades psíquicas e alta inteligência, os músculos de um Alakazam são muito fracos. Ele usa poderes psíquicos para se mover. \n",
+        "translatedTime": "35.27"
+      },
+      {
+        "Pokedex": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+        "Name": "Machop",
+        "PokedexTranslated": "Ele se dedica a treinos extenuantes para dominar todas as formas de artes marciais. Sua força permite que ele ele levante facilmente um lutador de sumo sobre seus ombros. \n",
+        "translatedTime": "35.31"
+      },
+      {
+        "Pokedex": "A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
+        "Name": "Machoke",
+        "PokedexTranslated": "Uma faixa é usada por um Machoke para manter seu poder imenso sob controle. Por ser tão perigoso, ninguém nunca removeu a faixa. \n",
+        "translatedTime": "35.29"
+      },
+      {
+        "Pokedex": "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
+        "Name": "Machamp",
+        "PokedexTranslated": "É impossível se defender de socos e golpes dados por seus quatro braços. Seu espírito de luta acende quando enfrenta um oponente difícil. \n",
+        "translatedTime": "34.515"
+      },
+      {
+        "Pokedex": "A Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
+        "Name": "Bellsprout",
+        "PokedexTranslated": "O corpo fino e flexível de um Bellsprout permite que ele se dobre e se incline para evitar qualquer ataque, independentemente de sua força. Da boca dele, ele exala um líquido que derrete até ferro. \n",
+        "translatedTime": "41.087"
+      },
+      {
+        "Pokedex": "At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+        "Name": "Weepinbell",
+        "PokedexTranslated": "À noite, uma Weepinbell se agarra a uma branch de árvore com sua cauda enroscada e dorme. Se ela se mover durante seu sono, pode acordar para se encontrar no chão. \n",
+        "translatedTime": "39.99"
+      },
+      {
+        "Pokedex": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+        "Name": "Victreebel",
+        "PokedexTranslated": "A longa viga que se estende da sua cabeça é agitada como se fosse uma criatura viva para atrair presas. Quando uma vítima desajeitada se aproxima, é engolida inteira. \n",
+        "translatedTime": "34.956"
+      },
+      {
+        "Pokedex": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
+        "Name": "Tentacool",
+        "PokedexTranslated": "Seu corpo é quase totalmente composto de água. Ele prende sua presa com suas duas longas tentáculos, e depois lança picos venenosos em suas pontas. \n",
+        "translatedTime": "36.214"
+      },
+      {
+        "Pokedex": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+        "Name": "Tentacruel",
+        "PokedexTranslated": "Ele vive em complexas formações rochosas no fundo do mar e captura presas usando suas 80 tentáculos. Seus olhos vermelhos brilham quando ele fica excitado ou agitado. \n",
+        "translatedTime": "36.838"
+      },
+      {
+        "Pokedex": "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
+        "Name": "Geodude",
+        "PokedexTranslated": "Ele escala caminhos montanhosos usando apenas o poder de seus braços. Porque eles parecem como rochas que alinham os caminhos, os caminhantes podem pisar neles sem perceber. \n",
+        "translatedTime": "36.483"
+      },
+      {
+        "Pokedex": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and huge boulders with thunderous tackles.",
+        "Name": "Graveler",
+        "PokedexTranslated": "Eles descem das montanhas caindo por encostas íngremes. São tão brutais que destroem árvores e enormes rochas com tackles explosivos. \n",
+        "translatedTime": "36.024"
+      },
+      {
+        "Pokedex": "It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.",
+        "Name": "Golem",
+        "PokedexTranslated": "Diz-se que ele vive em crateras vulcânicas em picos montanhosos. Uma vez por ano, ele descasca sua pele e cresce maior. A pele descascada se desfaz e volta ao solo. \n",
+        "translatedTime": "38.296"
+      },
+      {
+        "Pokedex": "A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.",
+        "Name": "Ponyta",
+        "PokedexTranslated": "Uma Ponyta é muito fraca ao nascer. Ela quase não consegue se levantar. Seus membros se tornam mais fortes enquanto tropeça e cai enquanto tenta acompanhar seu progenitor. \n",
+        "translatedTime": "37.118"
+      },
+      {
+        "Pokedex": "It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+        "Name": "Rapidash",
+        "PokedexTranslated": "Geralmente, ele anda com leveza nas planícies e campos. Mas quando um Rapidash se torna sério, seus cabelos ardente se acendem e explodem enquanto ele corre a 150 mph. \n",
+        "translatedTime": "42.895"
+      },
+      {
+        "Pokedex": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.",
+        "Name": "Slowpoke",
+        "PokedexTranslated": "Ele captura presas mergulhando sua cauda na água ao lado de um rio. Mas ele muitas vezes esquece o que está fazendo e passa dias inteiros apenas deitado à beira do rio. \n",
+        "translatedTime": "41.54"
+      },
+      {
+        "Pokedex": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
+        "Name": "Slowbro",
+        "PokedexTranslated": "A cauda tem um Shellder firmemente preso com uma mordida. Como resultado, a cauda não pode mais ser usada para pescar. Isso o força a nadar com desânimo e capturar presas. \n",
+        "translatedTime": "37.262"
+      },
+      {
+        "Pokedex": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+        "Name": "Magnemite",
+        "PokedexTranslated": "As unidades ao seu lado são extremamente poderosos campos magnéticos. Eles geram magnetismo suficiente para atrair objetos de ferro a mais de 300 pés de distância. \n",
+        "translatedTime": "36.948"
+      },
+      {
+        "Pokedex": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+        "Name": "Magneton",
+        "PokedexTranslated": "É realmente três Magnemite ligados pela magnetismo. Ele gera ondas de rádio poderosas que elevam a temperatura em 3,6 graus F dentro de um raio de 3.300 pés. \n",
+        "translatedTime": "38.811"
+      },
+      {
+        "Pokedex": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.",
+        "Name": "Farfetch'd",
+        "PokedexTranslated": "Ele é sempre visto com uma vara de uma planta. Aparentemente, existem varas boas e varas ruins. Este Pokémon ocasionalmente luta com outros por varas de escolha. \n",
+        "translatedTime": "38.123"
+      },
+      {
+        "Pokedex": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
+        "Name": "Doduo",
+        "PokedexTranslated": "Mesmo enquanto come ou dorme, uma das cabeças permanece sempre vigilante por qualquer sinal de perigo. Quando ameaçado, ele foge a mais de 60 milhas por hora. \n",
+        "translatedTime": "38.195"
+      },
+      {
+        "Pokedex": "A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
+        "Name": "Dodrio",
+        "PokedexTranslated": "Uma espécie peculiar de Pokémon com três cabeças. Ele corre vigorosamente por campos pastagens mesmo em épocas áridas com pouca chuva. \n",
+        "translatedTime": "37.357"
+      },
+      {
+        "Pokedex": "Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+        "Name": "Seel",
+        "PokedexTranslated": "Seel caçam presas em mares frios e cobertas de gelo. Quando precisa respirar, ele fura um buraco no gelo com a seção proeminente do seu cabeçote. \n",
+        "translatedTime": "39.175"
+      },
+      {
+        "Pokedex": "It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+        "Name": "Dewgong",
+        "PokedexTranslated": "Ele adora cochilar em gelo extremamente frio. A visão deste Pokémon dormindo em um glaciar foi mal interpretada como uma sereia por um marinheiro há muito tempo. \n",
+        "translatedTime": "38.472"
+      },
+      {
+        "Pokedex": "Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+        "Name": "Grimer",
+        "PokedexTranslated": "Nascido de esgoto poluído no mar, o Grimer prefere qualquer coisa suja. Eles se alimentam de esgoto despejado de fábricas. \n",
+        "translatedTime": "38.772"
+      },
+      {
+        "Pokedex": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.",
+        "Name": "Muk",
+        "PokedexTranslated": "Ele prefere habitats quentes e úmidos. No verão, as substâncias tóxicas em seu corpo intensificam, tornando o Muk reter o cheiro de lixo de cozinha podre. \n",
+        "translatedTime": "38.885"
+      },
+      {
+        "Pokedex": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+        "Name": "Shellder",
+        "PokedexTranslated": "À noite, ele escava um buraco no fundo do mar com sua língua larga para criar um lugar para dormir. Enquanto dorme, ele fecha sua concha, mas deixa sua língua para fora. \n",
+        "translatedTime": "39.545"
+      },
+      {
+        "Pokedex": "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
+        "Name": "Cloyster",
+        "PokedexTranslated": "Ele nada no mar engolido água, depois expelling-a para a parte traseira. O Cloyster lança espinhos de sua concha usando o mesmo sistema. \n",
+        "translatedTime": "38.868"
+      },
+      {
+        "Pokedex": "When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+        "Name": "Gastly",
+        "PokedexTranslated": "Quando exposto a um vento forte, o corpo gasoso do Gastly diminui rapidamente. Eles se agrupam sob as teias de casas para escapar das ravages do vento. \n",
+        "translatedTime": "39.995"
+      },
+      {
+        "Pokedex": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+        "Name": "Haunter",
+        "PokedexTranslated": "Se um Haunter te chamá-lo enquanto estiver flutuando na escuridão, não se aproxime dele. Este Pokémon tentará te lamber com sua língua e roubar sua vida. \n",
+        "translatedTime": "40.726"
+      },
+      {
+        "Pokedex": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+        "Name": "Gengar",
+        "PokedexTranslated": "Na noite profunda, sua sombra projetada por uma luminária pode repentinamente te alcançar. É realmente um Gengar correndo passando por você, fingindo ser sua sombra. \n",
+        "translatedTime": "39.277"
+      },
+      {
+        "Pokedex": "There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+        "Name": "Onix",
+        "PokedexTranslated": "Há um imã no seu cérebro que impede um Onix de perder direção enquanto escava. À medida que ele cresce, seu corpo se torna gradualmente mais redondo e mais suave. \n",
+        "translatedTime": "39.961"
+      },
+      {
+        "Pokedex": "If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.",
+        "Name": "Drowzee",
+        "PokedexTranslated": "Se seu nariz ficar irritado enquanto você estiver dormindo, é um sinal seguro de que um Drowzee está acima do seu travesseiro e tentando comer seu sonho através dos seus narizes. \n",
+        "translatedTime": "40.928"
+      },
+      {
+        "Pokedex": "The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
+        "Name": "Hypno",
+        "PokedexTranslated": "O movimento sinuoso e o brilho do pendular na mão de um Hypno induzem o inimigo em um profundo hipnose. Enquanto procura presas, ele poli o pendular. \n",
+        "translatedTime": "41.131"
+      },
+      {
+        "Pokedex": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+        "Name": "Krabby",
+        "PokedexTranslated": "Krabby vive em buracos escavados em praias. Em areias areias com pouca comida, podem ser vistos disputando território uns com os outros. \n",
+        "translatedTime": "40.412"
+      },
+      {
+        "Pokedex": "It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.",
+        "Name": "Kingler",
+        "PokedexTranslated": "Ele estica seu enorme e exagerado claw no ar para se comunicar com outros. Mas, dado que o claw é tão pesado, este Pokémon rapidamente se exausto. \n",
+        "translatedTime": "40.09"
+      },
+      {
+        "Pokedex": "It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.",
+        "Name": "Voltorb",
+        "PokedexTranslated": "Ele possui uma semelhança inusitada e inexplicável com uma Poké Bola. Por causa de sua explosão com o mínimo impacto, mesmo treinadores experientes o tratam com cautela. \n",
+        "translatedTime": "41.434"
+      }
+    ],
+    "maxTranslatedTime": 42.895,
+    "minTranslatedTime": 28.833
+  },
+  {
+    "date": "2024-11-09T03:33:49.606Z",
+    "totalTranslationTime": 1773.64,
+    "averageTranslationTime": 34.77725490196079,
+    "p90TranslationTime": 38.661,
+    "translatedPokemonCount": 51,
+    "translationRange": {
+      "min": 101,
+      "max": 151
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+        "Name": "Electrode",
+        "PokedexTranslated": "Eles aparecem em grandes quantidades nas usinas de energia elétrica. Porque eles se alimentam de eletricidade, causam apagões negros massivos e caóticos nas cidades próximas. \n",
+        "translatedTime": "28.199"
+      },
+      {
+        "Pokedex": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+        "Name": "Exeggcute",
+        "PokedexTranslated": "É composto por seis ovos que se cuidem mutuamente. Os ovos se atraem e giram. Quando as rachaduras aumentam, está próximo da evolução. \n",
+        "translatedTime": "28.793"
+      },
+      {
+        "Pokedex": "Originally from the tropics, Exeggutor's heads grow larger with exposure to bright sunlight. It is said that when the heads fall, they group to form an Exeggcute.",
+        "Name": "Exeggutor",
+        "PokedexTranslated": "Originário dos trópicos, o Exeggutor tem a cabeça que cresce maior com exposição a luz solar brilhante. Diz-se que quando as cabeças caem, elas se agrupam para formar um Exeggcute. \n",
+        "translatedTime": "30.003"
+      },
+      {
+        "Pokedex": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+        "Name": "Cubone",
+        "PokedexTranslated": "Ele anseia pela mãe que nunca mais verá. Ao ver uma semelhança da sua mãe na lua cheia, ele chora. As manchas no crânio que ele veste são de suas lágrimas. \n",
+        "translatedTime": "30.163"
+      },
+      {
+        "Pokedex": "A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+        "Name": "Marowak",
+        "PokedexTranslated": "O Marowak é a forma evoluída de um Cubone que se tornou forte ao superar o luto pela perda da mãe. Seu espírito temperado e endurecido não é facilmente quebrado. \n",
+        "translatedTime": "29.944"
+      },
+      {
+        "Pokedex": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+        "Name": "Hitmonlee",
+        "PokedexTranslated": "Seus membros se estendem e contraem livremente. Usando essas pernas como se fossem molas, ele derruba inimigos com chutes devastadores. Após a batalha, ele massageia suas pernas cansadas. \n",
+        "translatedTime": "31.651"
+      },
+      {
+        "Pokedex": "A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+        "Name": "Hitmonchan",
+        "PokedexTranslated": "A Hitmonchan é dita possuir o espírito de um boxeador que almejava se tornar campeão mundial. Ter um espírito indomável significa que ele nunca desistirá. \n",
+        "translatedTime": "31.342"
+      },
+      {
+        "Pokedex": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+        "Name": "Lickitung",
+        "PokedexTranslated": "Quando vê algo desconhecido, ele sempre beija o objeto porque memoriza coisas pela textura e sabor. Algo que é ácido o deixa um pouco desconfortável. \n",
+        "translatedTime": "31.234"
+      },
+      {
+        "Pokedex": "Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+        "Name": "Koffing",
+        "PokedexTranslated": "Se aproximar de um Koffing dá a chance de observar, através de sua pele fina, os gases tóxicos que se agitam dentro. Ele explode com a menor estimulação. \n",
+        "translatedTime": "31.739"
+      },
+      {
+        "Pokedex": "By diluting its toxic gases with a special process, the highest grade of perfume can be made. To Weezing, gases emanating from garbage are the ultimate feast.",
+        "Name": "Weezing",
+        "PokedexTranslated": "Por diluir seus gases tóxicos com um processo especial, a mais alta qualidade de perfume pode ser feita. Para Weezing, os gases provenientes de lixo são a refeição máxima. \n",
+        "translatedTime": "32.107"
+      },
+      {
+        "Pokedex": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
+        "Name": "Rhyhorn",
+        "PokedexTranslated": "Uma vez que começa a correr, não para. Seu pequeno cérebro faz com que ele seja tão estúpido que não consegue se lembrar do motivo pelo qual começou a correr no primeiro lugar. \n",
+        "translatedTime": "32.097"
+      },
+      {
+        "Pokedex": "Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.",
+        "Name": "Rhydon",
+        "PokedexTranslated": "Seu chifre, que gira como um furacão, destrói edifícios altos em um único golpe. Ele se mantém em suas patas traseiras e seu cérebro está bem desenvolvido. \n",
+        "translatedTime": "32.515"
+      },
+      {
+        "Pokedex": "Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those who have lost their appetite.",
+        "Name": "Chansey",
+        "PokedexTranslated": "Chansey posta ovos nutritivos todos os dias. Os ovos são tão deliciosos que são devorados com entusiasmo por aqueles que perderam apetite. \n",
+        "translatedTime": "31.608"
+      },
+      {
+        "Pokedex": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+        "Name": "Tangela",
+        "PokedexTranslated": "Seus galhos se rompem facilmente e sem dor se forem agarrados, permitindo que ele faça uma fuga rápida. Os galhos perdidos são substituídos por novos brotos no mesmo dia. \n",
+        "translatedTime": "32.473"
+      },
+      {
+        "Pokedex": "If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
+        "Name": "Kangaskhan",
+        "PokedexTranslated": "Se você encontrar um Kangaskhan jovem brincando sozinho, nunca tente capturá-lo. O pai do bebê está seguro na área e ele se tornará violentamente furioso. \n",
+        "translatedTime": "36.744"
+      },
+      {
+        "Pokedex": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+        "Name": "Horsea",
+        "PokedexTranslated": "Movendo os fins na sua parte de trás de lado para lado, ele se move em qualquer direção enquanto enfrenta a frente. Ele esfrega tinta para escapar se sentir perigo. \n",
+        "translatedTime": "32.321"
+      },
+      {
+        "Pokedex": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+        "Name": "Seadra",
+        "PokedexTranslated": "As barbas venenosas por toda a sua corpo são altamente valorizadas como ingredientes para fazer remédios tradicionais de ervas. Não mostra piedade a qualquer coisa que se aproxime do seu ninho. \n",
+        "translatedTime": "33.322"
+      },
+      {
+        "Pokedex": "In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
+        "Name": "Goldeen",
+        "PokedexTranslated": "Nas épocas de primavera, escolas de Goldeen podem ser vistas nadando em cachoeiras e rios. Ele causa danos impressionantes com seu único chifre. \n",
+        "translatedTime": "32.927"
+      },
+      {
+        "Pokedex": "It punches holes in boulders on stream- beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+        "Name": "Seaking",
+        "PokedexTranslated": "Ele fura pedras em riachos. Esta é uma inovação inteligente que previne seus ovos de serem atacados ou arrastados pela correnteza. \n",
+        "translatedTime": "32.133"
+      },
+      {
+        "Pokedex": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+        "Name": "Staryu",
+        "PokedexTranslated": "Ele se reúne com outros à noite e faz seu núcleo vermelho piscar e brilhar com as estrelas que piscam. Ele pode regenerar membros se forem separados do seu corpo. \n",
+        "translatedTime": "33.101"
+      },
+      {
+        "Pokedex": "People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.",
+        "Name": "Starmie",
+        "PokedexTranslated": "As pessoas na antiguidade imaginavam que Starmie eram transformados a partir das reflexões de estrelas que brilhavam em ondas suaves à noite. \n",
+        "translatedTime": "32.774"
+      },
+      {
+        "Pokedex": "A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+        "Name": "Mr. Mime",
+        "PokedexTranslated": "O Mr. Mime é um mestre de pantomima. Ele pode convencer outras pessoas de que algo invisível realmente existe. Uma vez acreditado, o objeto imaginário se torna real. \n",
+        "translatedTime": "33.75"
+      },
+      {
+        "Pokedex": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+        "Name": "Scyther",
+        "PokedexTranslated": "Sua velocidade imensa aumenta a nitidez de suas duas lâminas de braço. As lâminas podem cortar troncos grossos em um golpe sinistro. \n",
+        "translatedTime": "32.425"
+      },
+      {
+        "Pokedex": "A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+        "Name": "Jynx",
+        "PokedexTranslated": "A Jynx dança ritmicamente como se estivesse dançando. Seus movimentos são tão cativantes e dançantes que as pessoas que vê-la são compelidas a dançar sem perceber. \n",
+        "translatedTime": "34.303"
+      },
+      {
+        "Pokedex": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.",
+        "Name": "Electabuzz",
+        "PokedexTranslated": "Quando uma tempestade se aproxima, ele compete com outros para escalar alturas que provavelmente serão atingidas por raio. Algumas cidades usam Electabuzz como eletrodos de raio. \n",
+        "translatedTime": "33.964"
+      },
+      {
+        "Pokedex": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.",
+        "Name": "Magmar",
+        "PokedexTranslated": "Em batalha, ele expulsa chamas intensas de todo o seu corpo para intimidar seu inimigo. Essas explosões de fogo criam ondas de calor que incendeiam grama e árvores. \n",
+        "translatedTime": "34.783"
+      },
+      {
+        "Pokedex": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.",
+        "Name": "Pinsir",
+        "PokedexTranslated": "Seus pinças são fortes o suficiente para quebrar troncos grossos. Porque eles desgostam do frio, os Pinsir cavam e dormem sob o solo em noites frias. \n",
+        "translatedTime": "34.783"
+      },
+      {
+        "Pokedex": "It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+        "Name": "Tauros",
+        "PokedexTranslated": "Ele não está satisfeito a menos que esteja em fúria constante. Se não houver um oponente para o Tauros lutar, ele vai atacar árvores grossas e derrubá-las para acalmar-se. \n",
+        "translatedTime": "39.409"
+      },
+      {
+        "Pokedex": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
+        "Name": "Magikarp",
+        "PokedexTranslated": "Seus músculos de natação são fracos, então é facilmente arrastado por correntes. Em lugares onde a água se acumula, você pode ver muitos Magikarp depositados lá pelo fluxo. \n",
+        "translatedTime": "35.488"
+      },
+      {
+        "Pokedex": "It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.",
+        "Name": "Gyarados",
+        "PokedexTranslated": "É um Pokémon extremamente violento e impetuoso. Quando os humanos começam a lutar, ele aparece e queima tudo ao chão com chamas intensas. \n",
+        "translatedTime": "34.334"
+      },
+      {
+        "Pokedex": "People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+        "Name": "Lapras",
+        "PokedexTranslated": "As pessoas levaram o Lapras quase ao ponto de extinção. À noite, é dito que ele canta com tristeza enquanto procura o que poucos outros de sua espécie ainda restam. \n",
+        "translatedTime": "35.399"
+      },
+      {
+        "Pokedex": "A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+        "Name": "Ditto",
+        "PokedexTranslated": "Um Ditto reorganiza sua estrutura celular para se transformar. No entanto, se ele tentar mudar com base em sua memória, ele vai errar os detalhes. \n",
+        "translatedTime": "34.851"
+      },
+      {
+        "Pokedex": "An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.",
+        "Name": "Eevee",
+        "PokedexTranslated": "Um Eevee possui uma estrutura genética instável que se muta repentinamente devido ao seu ambiente. A radiação de pedras causa esse Pokémon a evoluir. \n",
+        "translatedTime": "35.184"
+      },
+      {
+        "Pokedex": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+        "Name": "Vaporeon",
+        "PokedexTranslated": "Vaporeon sofreu uma mutação espontânea e cresceu fins e branquias que permitem que eles vivam debaixo d'água. Eles têm a capacidade de controlar o mar livremente. \n",
+        "translatedTime": "35.694"
+      },
+      {
+        "Pokedex": "Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+        "Name": "Jolteon",
+        "PokedexTranslated": "Seus células geram uma energia fraca que é amplificada pela eletricidade estática do seu pelo para soltar trovões. O pelo enrugado é feito de agulhas eletricamente carregadas. \n",
+        "translatedTime": "36.416"
+      },
+      {
+        "Pokedex": "Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.",
+        "Name": "Flareon",
+        "PokedexTranslated": "O pelo macio do Flareon libera calor para o ar, para que seu corpo não fique excessivamente quente. Sua temperatura corporal pode chegar a um máximo de 1.650 graus Fahrenheit. \n",
+        "translatedTime": "40.836"
+      },
+      {
+        "Pokedex": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.",
+        "Name": "Porygon",
+        "PokedexTranslated": "Ele é capaz de reverter-se totalmente para os dados de programa para entrar no ciberespaço. O Porygon é protegido por cópia, para que não possa ser duplicado. \n",
+        "translatedTime": "36.244"
+      },
+      {
+        "Pokedex": "One of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+        "Name": "Omanyte",
+        "PokedexTranslated": "Um dos Pokémon antigos e extinto há muito tempo que foram regenerados a partir de fósseis por humanos. Se atacado, ele se retira em sua casca dura. \n",
+        "translatedTime": "35.927"
+      },
+      {
+        "Pokedex": "An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
+        "Name": "Omastar",
+        "PokedexTranslated": "Um Omastar usa seus tentáculos para capturar sua presa. É acreditado que ele se tornou extinto porque sua concha cresceu muito, tornando seus movimentos lentos e ponderosos. \n",
+        "translatedTime": "37.412"
+      },
+      {
+        "Pokedex": "This Pokémon has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.",
+        "Name": "Kabuto",
+        "PokedexTranslated": "Este Pokémon foi regenerado a partir de um fóssil. No entanto, em casos raros, exemplos vivos foram descobertos. Kabuto não mudou há 300 milhões de anos. \n",
+        "translatedTime": "37.692"
+      },
+      {
+        "Pokedex": "Kabutops once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.",
+        "Name": "Kabutops",
+        "PokedexTranslated": "Kabutops navegava debaixo d'água para caçar presas. Era aparentemente evoluindo de ser um habitante de água para viver na terra, como evidenciado por mudanças em seus branquias e pernas. \n",
+        "translatedTime": "38.311"
+      },
+      {
+        "Pokedex": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
+        "Name": "Aerodactyl",
+        "PokedexTranslated": "Aerodactyl é um Pokémon da era dos dinossauros. Ele foi regenerado a partir de DNA extraído de ámbar. É imaginado ter sido o rei do céu. \n",
+        "translatedTime": "37.558"
+      },
+      {
+        "Pokedex": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its big belly as a place to play.",
+        "Name": "Snorlax",
+        "PokedexTranslated": "O dia típico do Snorlax consiste em nada mais que comer e dormir. É um Pokémon tão dócil que há crianças que usam seu grande abdômen como um lugar para brincar. \n",
+        "translatedTime": "38.257"
+      },
+      {
+        "Pokedex": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+        "Name": "Articuno",
+        "PokedexTranslated": "Articuno é um Pokémon de ave lendária que pode controlar o gelo. O flapping de suas asas resfria o ar. Como resultado, é dito que quando este Pokémon voa, neve cai. \n",
+        "translatedTime": "43.122"
+      },
+      {
+        "Pokedex": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
+        "Name": "Zapdos",
+        "PokedexTranslated": "Zapdos é um Pokémon de ave lendária que tem a capacidade de controlar a eletricidade. Ele geralmente vive em nuvens de trovões. Ele ganha poder se for atingido por raios. \n",
+        "translatedTime": "38.454"
+      },
+      {
+        "Pokedex": "Moltres is a legendary bird Pokémon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+        "Name": "Moltres",
+        "PokedexTranslated": "Moltres é um Pokémon de ave lendária que pode controlar o fogo. Se ferido, é dito que ele mergulha seu corpo no magma derretido de um vulcão para curar e se curar. \n",
+        "translatedTime": "38.529"
+      },
+      {
+        "Pokedex": "A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+        "Name": "Dratini",
+        "PokedexTranslated": "O Dratini continua a descascar e descascar sua pele velha. Isso ocorre porque a energia vital dentro de seu corpo aumenta constantemente para atingir níveis descontrolados. \n",
+        "translatedTime": "38.363"
+      },
+      {
+        "Pokedex": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+        "Name": "Dragonair",
+        "PokedexTranslated": "A Dragonair armazena uma quantidade enorme de energia dentro do seu corpo. É dito que ela altera o clima ao seu redor ao liberar energia de cristais na sua garganta e cauda. \n",
+        "translatedTime": "38.843"
+      },
+      {
+        "Pokedex": "It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+        "Name": "Dragonite",
+        "PokedexTranslated": "Ele pode circular o globo em apenas 16 horas. É um Pokémon bondoso que guia navios perdidos e desorientados em uma tempestade até a segurança da terra. \n",
+        "translatedTime": "38.661"
+      },
+      {
+        "Pokedex": "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+        "Name": "Mewtwo",
+        "PokedexTranslated": "Um Pokémon criado por manipulação genética. No entanto, mesmo que o poder científico dos humanos fez seu corpo, eles falharam em dar a ele um coração quente. \n",
+        "translatedTime": "38.496"
+      },
+      {
+        "Pokedex": "A Mew is said to possess the genes of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+        "Name": "Mew",
+        "PokedexTranslated": "A Mew é dita possuir os genes de todos os Pokémon. É capaz de se tornar invisível a vontade, para que evite ser notado mesmo se aproximar das pessoas. \n",
+        "translatedTime": "38.962"
+      }
+    ],
+    "maxTranslatedTime": 43.122,
+    "minTranslatedTime": 28.199
+  },
+  {
+    "date": "2024-11-09T17:15:43.658Z",
+    "totalTranslationTime": 1856.7050000000004,
+    "averageTranslationTime": 36.40598039215687,
+    "p90TranslationTime": 39.602,
+    "translatedPokemonCount": 51,
+    "translationRange": {
+      "min": 152,
+      "max": 202
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
+        "Name": "Chikorita",
+        "PokedexTranslated": "Ele estica sua folha para afastar inimigos. No entanto, um aroma doce também se espalha da folha, criando uma atmosfera amigável que acalma os combatientes. \n",
+        "translatedTime": "31.943"
+      },
+      {
+        "Pokedex": "A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+        "Name": "Bayleef",
+        "PokedexTranslated": "O pescoço da Bayleef é envolvido por folhas enroladas. Dentro de cada folha existe uma pequena brota de árvore. O aroma dessa brota faz as pessoas animadas. \n",
+        "translatedTime": "34.829"
+      },
+      {
+        "Pokedex": "The fragrance of a Meganium's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.",
+        "Name": "Meganium",
+        "PokedexTranslated": "O aroma da flor de Meganium acalma e acalma as emoções. Na batalha, ela emite mais desse aroma calmante para sufocar o espírito de luta do inimigo. \n",
+        "translatedTime": "32.212"
+      },
+      {
+        "Pokedex": "It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.",
+        "Name": "Cyndaquil",
+        "PokedexTranslated": "Ele lança brasas de sua parte de trás para se proteger. O fogo queima com vigor se o Pokémon estiver irritado. Quando está cansado, ele tosse com combustão incompleta. \n",
+        "translatedTime": "32.616"
+      },
+      {
+        "Pokedex": "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
+        "Name": "Quilava",
+        "PokedexTranslated": "Ele intimida os inimigos com ventos intensos de fogo e ar superaquecido. Sua agilidade rápida permite que ele evite ataques mesmo enquanto queima um inimigo. \n",
+        "translatedTime": "32.854"
+      },
+      {
+        "Pokedex": "It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.",
+        "Name": "Typhlosion",
+        "PokedexTranslated": "Ele pode se esconder atrás de uma névoa de calor que ele cria usando seus incêndios intensos. Typhlosion cria explosões de fogo que queimam tudo em cinzas. \n",
+        "translatedTime": "31.992"
+      },
+      {
+        "Pokedex": "Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
+        "Name": "Totodile",
+        "PokedexTranslated": "Apesar do seu pequeno corpo, os dentes do Totodile são muito poderosos. Enquanto ele pode achar que está apenas brincando de morder, sua mordida tem força suficiente para causar ferimentos sérios. \n",
+        "translatedTime": "32.502"
+      },
+      {
+        "Pokedex": "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
+        "Name": "Croconaw",
+        "PokedexTranslated": "Uma vez que seus dentes se prendem ao inimigo, ele não soltará. Porque as pontas dos seus dentes são bifurcadas como anzol de peixe, eles se fixam irremediavelmente. \n",
+        "translatedTime": "32.403"
+      },
+      {
+        "Pokedex": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+        "Name": "Feraligatr",
+        "PokedexTranslated": "Ele abre sua enorme boca para intimidar inimigos. Na batalha, ele corre usando suas patas traseiras grossas e poderosas para impulsionar o inimigo com uma velocidade incrível. \n",
+        "translatedTime": "32.263"
+      },
+      {
+        "Pokedex": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one gets separated, it turns sleepless with fear.",
+        "Name": "Sentret",
+        "PokedexTranslated": "Eles se alternam em vigília quando é hora de dormir. O sentinela acorda os outros se sentir perigo. Se um se separar, ele fica insônia com medo. \n",
+        "translatedTime": "32.381"
+      },
+      {
+        "Pokedex": "A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+        "Name": "Furret",
+        "PokedexTranslated": "O Furret tem um corpo muito fino. Quando sob ataque, ele pode se esgueirar por espaços estreitos e escapar. Apesar de suas pernas curtas, ele é muito ágil e ágil. \n",
+        "translatedTime": "36.715"
+      },
+      {
+        "Pokedex": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
+        "Name": "Hoothoot",
+        "PokedexTranslated": "Ele possui um órgão interno que detecta a rotação da Terra. Usando esse órgão especial, um Hoothoot começa a cantar no mesmo horário todos os dias. \n",
+        "translatedTime": "32.885"
+      },
+      {
+        "Pokedex": "It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
+        "Name": "Noctowl",
+        "PokedexTranslated": "Ele captura sempre presas na escuridão. Noctowl são bem-sucedidos por uma visão superior que permite-lhes ver em pouca luz, e por suas asas macias e silenciosas. \n",
+        "translatedTime": "33.562"
+      },
+      {
+        "Pokedex": "Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.",
+        "Name": "Ledyba",
+        "PokedexTranslated": "Ledyba se comunicam usando um líquido que secretam da junção das pernas e do corpo. São ditos que eles transmitem sentimentos aos outros alterando o cheiro do líquido. \n",
+        "translatedTime": "33.517"
+      },
+      {
+        "Pokedex": "It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.",
+        "Name": "Ledian",
+        "PokedexTranslated": "Diz-se que em terras com ar puro, onde as estrelas preenchem o céu, vivem muitos Ledian. Por uma boa razão, eles usam a luz das estrelas como energia. \n",
+        "translatedTime": "36.202"
+      },
+      {
+        "Pokedex": "The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.",
+        "Name": "Spinarak",
+        "PokedexTranslated": "A teia que ela tece pode ser considerada seu segundo sistema nervoso. Diz-se que um Spinarak determina sua presa por meio das pequenas vibrações que sente através da teia. \n",
+        "translatedTime": "34.716"
+      },
+      {
+        "Pokedex": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
+        "Name": "Ariados",
+        "PokedexTranslated": "Seus pés são terminados por garras pontiagudas que permitem que ele rasteje em telhados e paredes verticais. Ele constrói seu inimigo com uma teia fina e forte de seda. \n",
+        "translatedTime": "35.15"
+      },
+      {
+        "Pokedex": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
+        "Name": "Crobat",
+        "PokedexTranslated": "Ao longo da evolução, suas patas traseiras se transformaram em asas. Alternando o descanso de suas asas dianteiras e traseiras, ele pode voar o dia todo sem precisar parar. \n",
+        "translatedTime": "34.849"
+      },
+      {
+        "Pokedex": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+        "Name": "Chinchou",
+        "PokedexTranslated": "Quando sente perigo, ele descarrega eletricidade positiva e negativa de seus dois antenas. Ele vive em profundezas além do alcance da luz solar. \n",
+        "translatedTime": "34.427"
+      },
+      {
+        "Pokedex": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.",
+        "Name": "Lanturn",
+        "PokedexTranslated": "As esferas que emitam luz na sua parte dorsal são muito brilhantes. São formadas por uma parte de sua dorsal. Este Pokémon ilumina a escuridão densa das profundezas do mar. \n",
+        "translatedTime": "35.364"
+      },
+      {
+        "Pokedex": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+        "Name": "Pichu",
+        "PokedexTranslated": "Ele ainda é ineficiente em manter a eletricidade. Quando é assustado, ele descarrega energia acidentalmente. Ele fica melhor em manter a energia à medida que cresce. \n",
+        "translatedTime": "35.287"
+      },
+      {
+        "Pokedex": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+        "Name": "Cleffa",
+        "PokedexTranslated": "Em noites com muitas estrelas voadoras, Cleffa pode ser visto dançando em um círculo. Eles dançam até o amanhecer, quando se saciam de sede com a água da manhã. \n",
+        "translatedTime": "35.699"
+      },
+      {
+        "Pokedex": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+        "Name": "Igglybuff",
+        "PokedexTranslated": "Seu corpo macio e flexível é muito elástico. Quando canta continuamente com toda a sua força, seu corpo se torna gradualmente um tom mais profundo de rosa. \n",
+        "translatedTime": "35.471"
+      },
+      {
+        "Pokedex": "As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.",
+        "Name": "Togepi",
+        "PokedexTranslated": "Com sua energia, ele usa os sentimentos de compaixão e prazer emitidos pelas pessoas e Pokémon. Ele guarda sentimentos felizes em sua concha, e depois os compartilha. \n",
+        "translatedTime": "34.512"
+      },
+      {
+        "Pokedex": "It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
+        "Name": "Togetic",
+        "PokedexTranslated": "Diz-se que é um Pokémon que traz sorte. Quando ele vê alguém que é puro de coração, um Togetic aparece e compartilha sua felicidade com essa pessoa. \n",
+        "translatedTime": "34.828"
+      },
+      {
+        "Pokedex": "It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.",
+        "Name": "Natu",
+        "PokedexTranslated": "Ele corre em árvores curtas que crescem na savana para picar em novas brotas. Os olhos do Natu parecem estar sempre observando algo. \n",
+        "translatedTime": "34.705"
+      },
+      {
+        "Pokedex": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
+        "Name": "Xatu",
+        "PokedexTranslated": "Ele possui o poder enigmático de prever o futuro. Algumas pessoas em diferentes terras acreditam há muito tempo que os Xatu são emissários de outro mundo. \n",
+        "translatedTime": "35.636"
+      },
+      {
+        "Pokedex": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
+        "Name": "Mareep",
+        "PokedexTranslated": "Suas fibras macias se esfregam e acumulam uma carga estática. Quanto mais energia é carregada, mais brilhantemente a lâmpada na ponta da cauda brilha. \n",
+        "translatedTime": "35.024"
+      },
+      {
+        "Pokedex": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
+        "Name": "Flaaffy",
+        "PokedexTranslated": "Sua qualidade de lã muda para gerar uma eletricidade estática forte com um pequeno pedaço de lã. As partes vazias e lisas da sua pele são protegidas contra eletricidade. \n",
+        "translatedTime": "35.908"
+      },
+      {
+        "Pokedex": "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
+        "Name": "Ampharos",
+        "PokedexTranslated": "Ele emite tanta luz que pode ser visto até do espaço. As pessoas de tempos antigos usavam sua luz para enviar sinais um para o outro com pessoas distantes. \n",
+        "translatedTime": "36.783"
+      },
+      {
+        "Pokedex": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a sun-summoning ritual.",
+        "Name": "Bellossom",
+        "PokedexTranslated": "Seus pétalas de flor se intensificam em cor pela exposição à luz solar. Quando o tempo nublado persistir, ele faz um dançar que é considerado um ritual de convocação do sol. \n",
+        "translatedTime": "38.056"
+      },
+      {
+        "Pokedex": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.",
+        "Name": "Marill",
+        "PokedexTranslated": "Seu corpo é coberto de pelos repelentes de água. Por causa dos pelos, ele pode nadar na água a alta velocidade sem ser lento pela resistência da água. \n",
+        "translatedTime": "36.72"
+      },
+      {
+        "Pokedex": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+        "Name": "Azumarill",
+        "PokedexTranslated": "Ele vive na água quase o dia todo. Sua cor e padrão corporal servem como camuflagem que torna difícil para inimigos identificá-lo na água. \n",
+        "translatedTime": "36.732"
+      },
+      {
+        "Pokedex": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+        "Name": "Sudowoodo",
+        "PokedexTranslated": "Ele imita uma árvore para evitar ser atacado por inimigos. Mas, já que suas patas dianteiras permanecem verdes durante todo o ano, ele é facilmente identificado como falso no inverno. \n",
+        "translatedTime": "37.391"
+      },
+      {
+        "Pokedex": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+        "Name": "Politoed",
+        "PokedexTranslated": "O cabelo enrolado na cabeça prova seu status de rei. Diz-se que quanto mais longo e mais ondulado o cabelo, mais respeito ele ganha dos seus pares. \n",
+        "translatedTime": "37.416"
+      },
+      {
+        "Pokedex": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.",
+        "Name": "Hoppip",
+        "PokedexTranslated": "Este Pokémon flutua e flutua com o vento. Se ele sentir a aproximação de ventos fortes, um Hoppip liga folhas com outros para se preparar para não ser levado pela força do vento. \n",
+        "translatedTime": "40.608"
+      },
+      {
+        "Pokedex": "It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
+        "Name": "Skiploom",
+        "PokedexTranslated": "Ele floresce quando a temperatura ultrapassa 64 graus F. Porque o seu florescimento muda com a temperatura, às vezes é usado como termômetro. \n",
+        "translatedTime": "38.118"
+      },
+      {
+        "Pokedex": "Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pokémon lands when it encounters cold air while it is floating.",
+        "Name": "Jumpluff",
+        "PokedexTranslated": "Jumpluff viaja por ventos quentes do sul para cruzar o mar e voar para terras estrangeiras. Este Pokémon pousa quando encontra ar frio enquanto está flutuando. \n",
+        "translatedTime": "38.647"
+      },
+      {
+        "Pokedex": "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom's real hands have become rather clumsy.",
+        "Name": "Aipom",
+        "PokedexTranslated": "Seu rabo termina com um appendice, mão-como, dexterosa. No entanto, porque ele usa o rabo tanto, as mãos reais de Aipom se tornaram bastante desajeitadas. \n",
+        "translatedTime": "39.206"
+      },
+      {
+        "Pokedex": "Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+        "Name": "Sunkern",
+        "PokedexTranslated": "Sunkern tentam minimizar o movimento para conservar os nutrientes que armazenam em seus corpos para a evolução. Eles não comerão, subsistindo apenas de néctar da manhã. \n",
+        "translatedTime": "38.741"
+      },
+      {
+        "Pokedex": "Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
+        "Name": "Sunflora",
+        "PokedexTranslated": "Sunflora converte energia solar em nutrição. Eles são altamente ativos durante o dia quente, mas param de se mover assim que o sol se põe. \n",
+        "translatedTime": "38.209"
+      },
+      {
+        "Pokedex": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+        "Name": "Yanma",
+        "PokedexTranslated": "Ele pode ver 360 graus sem mover seus olhos. É um ótimo voador capaz de fazer paradas repentinas e virar no ar para perseguir presas alvos rapidamente. \n",
+        "translatedTime": "39.205"
+      },
+      {
+        "Pokedex": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+        "Name": "Wooper",
+        "PokedexTranslated": "Wooper geralmente vivem na água, mas saem para a terra em busca de alimento ocasionalmente. Na terra, eles cobrem seus corpos com um filme pegajoso e tóxico. \n",
+        "translatedTime": "46.064"
+      },
+      {
+        "Pokedex": "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
+        "Name": "Quagsire",
+        "PokedexTranslated": "Um Quagsire caça deixando sua boca aberta na água e esperando que sua presa se perca. Porque ele não se move, ele não fica muito faminto. \n",
+        "translatedTime": "39.156"
+      },
+      {
+        "Pokedex": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
+        "Name": "Espeon",
+        "PokedexTranslated": "Um Espeon é extremamente leal a qualquer treinador que ele considera digno. Diz-se que desenvolveu poderes precognitivos para proteger seu treinador de perigo. \n",
+        "translatedTime": "38.976"
+      },
+      {
+        "Pokedex": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+        "Name": "Umbreon",
+        "PokedexTranslated": "Umbreon evoluiu pela exposição a pulsos de energia da lua. Ele se esconde na escuridão e espera por seus inimigos se movimentarem. Os anéis do seu corpo brilham quando ele salta para atacar. \n",
+        "translatedTime": "45.169"
+      },
+      {
+        "Pokedex": "Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
+        "Name": "Murkrow",
+        "PokedexTranslated": "Murkrow eram considerados como os porta-mal-fe. Ele demonstra grande interesse em qualquer coisa que brilhe. Ele até tentará roubar anéis de mulheres. \n",
+        "translatedTime": "39.413"
+      },
+      {
+        "Pokedex": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
+        "Name": "Slowking",
+        "PokedexTranslated": "Ele realiza pesquisas todos os dias para resolver os mistérios do mundo. No entanto, aparentemente, ele esquece tudo se o Shellder na sua cabeça sair. \n",
+        "translatedTime": "41.364"
+      },
+      {
+        "Pokedex": "A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
+        "Name": "Misdreavus",
+        "PokedexTranslated": "Uma Misdreavus assusta as pessoas com um grito assustador e choro. Aparentemente, ele usa suas esferas vermelhas para absorver o medo de seus inimigos como nutrição. \n",
+        "translatedTime": "39.602"
+      },
+      {
+        "Pokedex": "This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.",
+        "Name": "Unown",
+        "PokedexTranslated": "Este Pokémon tem a forma de caracteres de texto antigos. Embora a pesquisa esteja em andamento, é um mistério qual veio primeiro, os escritos antigos ou os Unown. \n",
+        "translatedTime": "41.265"
+      },
+      {
+        "Pokedex": "Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+        "Name": "Wobbuffet",
+        "PokedexTranslated": "Geralmente dócil, um Wobbuffet ataca ferozmente se seu rabo preto for atacado. Ele faz seu labirinto em cavernas onde espera a noite. \n",
+        "translatedTime": "39.412"
+      }
+    ],
+    "maxTranslatedTime": 46.064,
+    "minTranslatedTime": 31.943
+  },
+  {
+    "date": "2024-11-09T18:46:53.145Z",
+    "totalTranslationTime": 1768.3600000000001,
+    "averageTranslationTime": 34.673725490196084,
+    "p90TranslationTime": 38.492,
+    "translatedPokemonCount": 51,
+    "translationRange": {
+      "min": 203,
+      "max": 253
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+        "Name": "Girafarig",
+        "PokedexTranslated": "A Girafarig é herbívoro, ou seja, come grama e galhos de árvores. Enquanto está comendo, seu rabo faz movimentos de mastigação e deglutição como se estivesse também comendo. \n",
+        "translatedTime": "29.119"
+      },
+      {
+        "Pokedex": "A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and explodes.",
+        "Name": "Pineco",
+        "PokedexTranslated": "A Pineco se agacha em uma branch de árvore e espera por presas. Enquanto está comendo, se alguém sacudir a árvore, ela cai no chão e explode. \n",
+        "translatedTime": "29.373"
+      },
+      {
+        "Pokedex": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.",
+        "Name": "Forretress",
+        "PokedexTranslated": "Ele se mantém dentro de sua concha de aço. A concha é aberta quando está caçando presas, mas é tão rápida que o interior da concha não pode ser visto. \n",
+        "translatedTime": "33.421"
+      },
+      {
+        "Pokedex": "Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+        "Name": "Dunsparce",
+        "PokedexTranslated": "Seu rabo com ponta de broca é usado para cavar no chão na direção oposta. Este Pokémon é conhecido por fazer seu ninho em formas complexas profundas sob o solo. \n",
+        "translatedTime": "30.032"
+      },
+      {
+        "Pokedex": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+        "Name": "Gligar",
+        "PokedexTranslated": "Ele voa sem fazer um único som. Ele agarra o rosto de seu oponente usando suas garras traseiras e grandes patas dianteiras, e depois lança um ataque com sua barbante venenoso. \n",
+        "translatedTime": "30.444"
+      },
+      {
+        "Pokedex": "Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.",
+        "Name": "Steelix",
+        "PokedexTranslated": "Steelix vive ainda mais profundamente sob o solo do que Onix. Este Pokémon é conhecido por cavar em direção ao núcleo da Terra, alcançando uma profundidade de mais de seis décimos de milha sob o solo. \n",
+        "translatedTime": "31.019"
+      },
+      {
+        "Pokedex": "By baring its fangs and making a scary face, it sends smaller Pokémon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.",
+        "Name": "Snubbull",
+        "PokedexTranslated": "Por expor seus dentes e fazer uma cara assustadora, ele faz com que os Pokémon menores corram em terror. O Snubbull parece um pouco triste ao fazer seus inimigos fugir. \n",
+        "translatedTime": "30.694"
+      },
+      {
+        "Pokedex": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+        "Name": "Granbull",
+        "PokedexTranslated": "Ele possui um mandíbula inferior particularmente bem desenvolvida. As enormes incisivos são pesados, fazendo com que ele incline a cabeça. A menos que seja assustado, ele não tentará morder. \n",
+        "translatedTime": "31.025"
+      },
+      {
+        "Pokedex": "A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+        "Name": "Qwilfish",
+        "PokedexTranslated": "O Qwilfish usa a pressão da água que ingere para disparar espinhos tóxicos de todas as partes do seu corpo de uma vez. Ele acha nadar um pouco desafiador. \n",
+        "translatedTime": "29.615"
+      },
+      {
+        "Pokedex": "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+        "Name": "Scizor",
+        "PokedexTranslated": "O Scizor tem um corpo com a dureza do aço. Não é facilmente afetado por ataques comuns. Ele flaps suas asas para regular sua temperatura corporal. \n",
+        "translatedTime": "31.251"
+      },
+      {
+        "Pokedex": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+        "Name": "Shuckle",
+        "PokedexTranslated": "O Shuckle se esconde sob rochas, mantendo seu corpo oculto dentro de sua concha enquanto come morangos armazenados. Os morangos misturam-se com seus fluidos corporais para se tornar um suco. \n",
+        "translatedTime": "31.865"
+      },
+      {
+        "Pokedex": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+        "Name": "Heracross",
+        "PokedexTranslated": "Eles se reúnem em florestas buscando o doce néctar das árvores. É completamente coberto por uma concha de aço-dura. Ele se orgulha de seu chifre, que usa para lançar inimigos. \n",
+        "translatedTime": "31.958"
+      },
+      {
+        "Pokedex": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+        "Name": "Sneasel",
+        "PokedexTranslated": "O Sneasel escala árvores com golpes de suas garras pontiagudas na casca. Ele procura ninhos desprotegidos e rouba ovos para alimentação enquanto os pais estão ausentes. \n",
+        "translatedTime": "31.894"
+      },
+      {
+        "Pokedex": "It licks its palms that are sweetened by being soaked in honey. A Teddiursa makes its own honey by blending fruits and pollen collected by Beedrill.",
+        "Name": "Teddiursa",
+        "PokedexTranslated": "Ele lacrimeja as palmas que são adoçadas por serem molhadas em mel. O Teddiursa faz seu próprio mel misturando frutas e pólen coletados por Beedrill. \n",
+        "translatedTime": "32.154"
+      },
+      {
+        "Pokedex": "In forests, it is said that there are many streams and towering trees where an Ursaring gathers food. It walks through its forest collecting food every day.",
+        "Name": "Ursaring",
+        "PokedexTranslated": "Em florestas, dizem que existem muitos riachos e árvores imponentes onde um Ursaring coleta comida. Ele caminha pela floresta, coletando comida todos os dias. \n",
+        "translatedTime": "32.531"
+      },
+      {
+        "Pokedex": "It is a species of Pokémon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+        "Name": "Slugma",
+        "PokedexTranslated": "É uma espécie de Pokémon que vive em áreas vulcânicas. Se seu corpo esfriar, sua pele endurece e imobiliza-o. Para evitar isso, ele dorme perto do magma. \n",
+        "translatedTime": "33.396"
+      },
+      {
+        "Pokedex": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma.",
+        "Name": "Magcargo",
+        "PokedexTranslated": "A concha na sua parte de trás é feita de magma endurecido. Dizi milênios de vida em crateras vulcânicas transformaram o corpo do Magcargo em magma. \n",
+        "translatedTime": "32.961"
+      },
+      {
+        "Pokedex": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+        "Name": "Swinub",
+        "PokedexTranslated": "Ele busca alimento roçando seu focinho no chão. Seu alimento favorito é um cogumelo que cresce sob grama seca. Às vezes, ele também busca por fontes termais. \n",
+        "translatedTime": "32.908"
+      },
+      {
+        "Pokedex": "A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+        "Name": "Piloswine",
+        "PokedexTranslated": "O Piloswine está coberto por um manto denso de pelos longos para resistir ao frio intenso. Ele usa seus chifres para escavar comida que foi enterrada sob gelo. \n",
+        "translatedTime": "33.274"
+      },
+      {
+        "Pokedex": "Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+        "Name": "Corsola",
+        "PokedexTranslated": "Corsola vive em mares quentes do sul. Se o mar se poluir, as belas hastes de coral se tornam desbotadas e se desfazem em pedaços. \n",
+        "translatedTime": "33.467"
+      },
+      {
+        "Pokedex": "A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
+        "Name": "Remoraid",
+        "PokedexTranslated": "O Remoraid usa seus músculos abdominais para expulsar água ingerida com força, e depois disparar presas voadoras. Quando a evolução se aproxima, ele viaja por rios. \n",
+        "translatedTime": "33.784"
+      },
+      {
+        "Pokedex": "It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+        "Name": "Octillery",
+        "PokedexTranslated": "Ele prende seu oponente com suas tentáculos com bico de sucção antes de aplicar o golpe final. Se o oponente for muito forte, ele expulsa tinta para escapar. \n",
+        "translatedTime": "34.084"
+      },
+      {
+        "Pokedex": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.",
+        "Name": "Delibird",
+        "PokedexTranslated": "Ele carrega comida enrolada em seu rabo. Um famoso explorador conseguiu escalar o Monte Everest graças a um Delibird compartilhando sua comida. \n",
+        "translatedTime": "33.581"
+      },
+      {
+        "Pokedex": "On sunny days, schools of Mantine can be seen elegantly leaping over the waves. It is not bothered by the Remoraid that hitches rides.",
+        "Name": "Mantine",
+        "PokedexTranslated": "Em dias ensolarados, escolas de Mantine podem ser vistas elegantemente saltando sobre as ondas. Não é incomodado pelo Remoraid que faz viagens. \n",
+        "translatedTime": "33.778"
+      },
+      {
+        "Pokedex": "A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
+        "Name": "Skarmory",
+        "PokedexTranslated": "Um Pokémon com um corpo e asas de aço. As pessoas no passado usavam penas caídas de Skarmory para fazer espadas e facas. \n",
+        "translatedTime": "34.311"
+      },
+      {
+        "Pokedex": "Houndour communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is simply unparalleled.",
+        "Name": "Houndour",
+        "PokedexTranslated": "O Houndour se comunica entre si usando uma variedade de gritos para encurralar a presa. Este Pokémon tem um trabalho em equipe simplesmente incomparável. \n",
+        "translatedTime": "33.976"
+      },
+      {
+        "Pokedex": "In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
+        "Name": "Houndoom",
+        "PokedexTranslated": "Em uma pack de Houndoom, aquele com seus chifres raiados de forma aguda assume um papel de liderança. Eles escolhem seu líder lutando entre si. \n",
+        "translatedTime": "34.387"
+      },
+      {
+        "Pokedex": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+        "Name": "Kingdra",
+        "PokedexTranslated": "Ele dorme tranquilamente, em profundidades profundas do fundo do mar. Quando ele surge à superfície, ele cria um grande turbilhão que pode engolir até navios. \n",
+        "translatedTime": "34.778"
+      },
+      {
+        "Pokedex": "Phanpy's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+        "Name": "Phanpy",
+        "PokedexTranslated": "As grandes orelhas do Phanpy servem como grandes abanicos. Quando ele fica quente, ele agita os ouvidos com fervor para se refrescar. Mesmo os jovens são muito fortes. \n",
+        "translatedTime": "35.284"
+      },
+      {
+        "Pokedex": "A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.",
+        "Name": "Donphan",
+        "PokedexTranslated": "O Donphan é tão forte que pode facilmente empurrar um caminhão de lixo. Sua pele se endureceu até um estado de rocha. Um ataque comum não deixará nem uma marca. \n",
+        "translatedTime": "39.329"
+      },
+      {
+        "Pokedex": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+        "Name": "Porygon2",
+        "PokedexTranslated": "Ele foi criado por humanos usando o poder da ciência. Foi dado inteligência artificial que permite que ele aprenda novos gestos e emoções por conta própria. \n",
+        "translatedTime": "35.055"
+      },
+      {
+        "Pokedex": "Stantler's magnificent antlers were once traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction.",
+        "Name": "Stantler",
+        "PokedexTranslated": "As magníficas antenas do Stantler eram negociadas a preços altos como obras de arte. Como resultado, este Pokémon foi caçado até à beira da extinção. \n",
+        "translatedTime": "35.629"
+      },
+      {
+        "Pokedex": "A Smeargle marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this Pokémon have been found.",
+        "Name": "Smeargle",
+        "PokedexTranslated": "O Smeargle marca seu território usando um líquido que sai da ponta da sua cauda. Cerca de 5.000 marcas deixadas por este Pokémon foram encontradas. \n",
+        "translatedTime": "36.266"
+      },
+      {
+        "Pokedex": "Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the trainer must establish a regular training schedule.",
+        "Name": "Tyrogue",
+        "PokedexTranslated": "O Tyrogue fica estressado se não treinar todos os dias. Ao criar este Pokémon, o treinador deve estabelecer um cronograma de treinamento regular. \n",
+        "translatedTime": "35.167"
+      },
+      {
+        "Pokedex": "Its technique of kicking while spinning is a remarkable mix of both offense and defense. Hitmontop travel faster spinning than they do walking.",
+        "Name": "Hitmontop",
+        "PokedexTranslated": "Sua técnica de chutes enquanto gira é uma mistura marcante de ofensiva e defensiva. Hitmontop viajam mais rápido girando do que caminhando. \n",
+        "translatedTime": "37.941"
+      },
+      {
+        "Pokedex": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
+        "Name": "Smoochum",
+        "PokedexTranslated": "Ele corre ativamente, mas também cai frequentemente. Sempre que cai, ele verificará sua reflexão em uma superfície de lago para se certificar de que seu rosto não ficou sujo. \n",
+        "translatedTime": "36.276"
+      },
+      {
+        "Pokedex": "If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.",
+        "Name": "Elekid",
+        "PokedexTranslated": "Se ele toca metal e descarrega a eletricidade armazenada em seu corpo, um Elekid começa a girar os braços em círculos para recarregar-se. \n",
+        "translatedTime": "36.25"
+      },
+      {
+        "Pokedex": "If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+        "Name": "Magby",
+        "PokedexTranslated": "Se um Magby estiver expelindo chamas amarelas da boca, está em boa saúde. Quando está exausto, fumaça preta será misturada com as chamas. \n",
+        "translatedTime": "36.531"
+      },
+      {
+        "Pokedex": "It gives over five gallons of milk daily. Its sweet milk is enjoyed by children and adults alike. People who can't drink milk turn it into yogurt and eat it instead.",
+        "Name": "Miltank",
+        "PokedexTranslated": "Ele produz mais de cinco galões de leite diariamente. Seu leite doce é apreciado por crianças e adultos. Pessoas que não podem beber leite o transformam em iogurte e o consomem. \n",
+        "translatedTime": "37.297"
+      },
+      {
+        "Pokedex": "If it senses sadness with its fluffy fur, a Blissey will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+        "Name": "Blissey",
+        "PokedexTranslated": "Se ele sentir tristeza com sua pelagem macia, um Blissey irá correr para a pessoa triste, independentemente de onde ela esteja, para compartilhar um ovo de felicidade que traz um sorriso em qualquer rosto. \n",
+        "translatedTime": "42.134"
+      },
+      {
+        "Pokedex": "Raikou embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+        "Name": "Raikou",
+        "PokedexTranslated": "Raikou personifica a velocidade da luz. Seus rugidos causam ondas de choque que vibram pelo ar e no chão como se raios de raio estivessem caindo. \n",
+        "translatedTime": "36.909"
+      },
+      {
+        "Pokedex": "Entei embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.",
+        "Name": "Entei",
+        "PokedexTranslated": "Entei personifica a paixão do magma. É pensado ter sido criado na erupção de um vulcão. Ele lança fogo que consome tudo que toca. \n",
+        "translatedTime": "36.992"
+      },
+      {
+        "Pokedex": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
+        "Name": "Suicune",
+        "PokedexTranslated": "Suicune personifica a compaixão de uma fonte de água pura. Ela corre pela terra com elegância deslizante. Tem o poder de purificar água suja. \n",
+        "translatedTime": "37.349"
+      },
+      {
+        "Pokedex": "A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.",
+        "Name": "Larvitar",
+        "PokedexTranslated": "O Larvitar nasce profundamente no solo. Ele precisa comer seu caminho através da terra acima e alcançar a superfície para ver os rostos de seus pais. \n",
+        "translatedTime": "37.888"
+      },
+      {
+        "Pokedex": "A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
+        "Name": "Pupitar",
+        "PokedexTranslated": "O Pupitar cria um gás dentro do seu corpo que ele expulsa sob compressão para se mover como um jet. Seu corpo pode resistir a um impacto com aço sólido. \n",
+        "translatedTime": "39.651"
+      },
+      {
+        "Pokedex": "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+        "Name": "Tyranitar",
+        "PokedexTranslated": "O Tyranitar é tão poderosamente dominante que pode derrubar uma montanha para criar seu ninho. Ele percorre montanhas em busca de novos oponentes para lutar. \n",
+        "translatedTime": "38.083"
+      },
+      {
+        "Pokedex": "Lugia is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
+        "Name": "Lugia",
+        "PokedexTranslated": "Lugia é tão poderoso que mesmo um leve movimento das suas asas pode destruir casas. Como resultado, ele escolhe viver fora do alcance do olhar, em profundezas do mar. \n",
+        "translatedTime": "38.492"
+      },
+      {
+        "Pokedex": "Its feathers--which glow in seven colors depending on the angle at which light strikes them--are thought to bring joy. It is said to live at the foot of a rainbow.",
+        "Name": "Ho-Oh",
+        "PokedexTranslated": "Suas penas - que brilham em sete cores dependendo do ângulo de luz que as atinge - são consideradas um símbolo de alegria. Diz-se que ele vive no pé de um arco-íris. \n",
+        "translatedTime": "39.371"
+      },
+      {
+        "Pokedex": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+        "Name": "Celebi",
+        "PokedexTranslated": "Este Pokémon veio do futuro atravessando o tempo. Diz-se que, enquanto Celebi aparecer, um futuro brilhante e brilhante nos espera. \n",
+        "translatedTime": "37.734"
+      },
+      {
+        "Pokedex": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the trees.",
+        "Name": "Treecko",
+        "PokedexTranslated": "Ele constrói seu ninho em um grande árvore na floresta. Ele protege ferozmente contra qualquer coisa que se aproxime de seu território. Diz-se que é o protetor das árvores. \n",
+        "translatedTime": "39.304"
+      },
+      {
+        "Pokedex": "Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
+        "Name": "Grovyle",
+        "PokedexTranslated": "Folhas crescem da sua pele. Elas ajudam a obscurecer um Grovyle dos olhos de seus inimigos enquanto ele está em uma floresta densamente arborizada. \n",
+        "translatedTime": "38.348"
+      }
+    ],
+    "maxTranslatedTime": 42.134,
+    "minTranslatedTime": 29.119
+  }
+]

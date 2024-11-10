@@ -25,6 +25,7 @@
     "postinstall": "npm run models:pull",
     "models:pull": "node-llama-cpp pull --dir ./models \"hf:mradermacher/Meta-Llama-3.1-8B-Instruct-GGUF/Meta-Llama-3.1-8B-Instruct.Q8_0.gguf\"",
     "start": "vite-node ./src/index.ts",
+    "test": "vite-node ./test.ts",
     "start:build": "node ./dist/index.ts",
     "prebuild": "rimraf ./dist ./tsconfig.tsbuildinfo",
     "build": "tsc --build tsconfig.json --force",
@@ -36,6 +37,7 @@
   },
   "dependencies": {
     "chalk": "^5.3.0",
+    "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
     "node-llama-cpp": "^3.2.0"
   },

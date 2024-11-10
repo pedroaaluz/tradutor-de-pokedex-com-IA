@@ -1,0 +1,287 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "InternalName": "BULBASAUR",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": "45,49,49,45,65,65",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "64",
+    "EffortPoints": "0,0,0,0,1,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 3,
+        "move": "GROWL"
+      },
+      {
+        "level": 7,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 9,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 13,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+      },
+      {
+        "level": 15,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 19,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 21,
+        "move": "SWEETSCENT"
+      },
+      {
+        "level": 25,
+        "move": "GROWTH"
+      },
+      {
+        "level": 27,
+        "move": "DOUBLEEDGE"
+      },
+      {
+        "level": 31,
+        "move": "WORRYSEED"
+      },
+      {
+        "level": 33,
+        "move": "SYNTHESIS"
+      },
+      {
+        "level": 37,
+        "move": "SEEDBOMB"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BIND",
+      "CELEBRATE",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GRASSKNOT",
+      "GRASSPLEDGE",
+      "HIDDENPOWER",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "NATUREPOWER",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "VENOSHOCK",
+      "WORKUP",
+      "WORRYSEED"
+    ],
+    "EggMoves": [
+      "AMNESIA",
+      "CHARM",
+      "CURSE",
+      "ENDURE",
+      "GIGADRAIN",
+      "GRASSWHISTLE",
+      "INGRAIN",
+      "LEAFSTORM",
+      "MAGICALLEAF",
+      "NATUREPOWER",
+      "PETALDANCE",
+      "POWERWHIP",
+      "SKULLBASH",
+      "SLUDGE"
+    ],
+    "Compatibility": "Monster,Grass",
+    "StepsToHatch": "5120",
+    "Height": "0.7",
+    "Weight": "6.9",
+    "Color": "Green",
+    "Shape": "Quadruped",
+    "Habitat": "Grassland",
+    "Kind": "Seed",
+    "Pokedex": "Bulbasaur pode ser visto dormindo sob luz solar brilhante. Há uma semente na sua costas. Ao absorver as radiações solares, a semente cresce progressivamente maior. \n",
+    "Generation": "1",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "4",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "IVYSAUR,Level,16",
+    "PokedexEn": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
+  },
+  {
+    "Name": "Ivysaur",
+    "InternalName": "IVYSAUR",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": "60,62,63,60,80,80",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": "0,0,0,0,1,1",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "GROWL"
+      },
+      {
+        "level": 1,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 3,
+        "move": "GROWL"
+      },
+      {
+        "level": 7,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 9,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 13,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+      },
+      {
+        "level": 15,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 20,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 23,
+        "move": "SWEETSCENT"
+      },
+      {
+        "level": 28,
+        "move": "GROWTH"
+      },
+      {
+        "level": 31,
+        "move": "DOUBLEEDGE"
+      },
+      {
+        "level": 36,
+        "move": "WORRYSEED"
+      },
+      {
+        "level": 39,
+        "move": "SYNTHESIS"
+      },
+      {
+        "level": 44,
+        "move": "SOLARBEAM"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BIND",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GRASSKNOT",
+      "GRASSPLEDGE",
+      "HIDDENPOWER",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "NATUREPOWER",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "VENOSHOCK",
+      "WORKUP",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Monster,Grass",
+    "StepsToHatch": "5120",
+    "Height": "1.0",
+    "Weight": "13.0",
+    "Color": "Green",
+    "Shape": "Quadruped",
+    "Habitat": "Grassland",
+    "Kind": "Seed",
+    "Pokedex": "Para sustentar seu bulbo, as pernas do Ivysaur se tornam fortes. Se ele passar mais tempo deitado sob a luz solar, o botão florescerá em breve em uma grande flor. \n",
+    "Generation": "1",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "6",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "8",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "VENUSAUR,Level,32",
+    "PokedexEn": "To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower."
+  }
+]
