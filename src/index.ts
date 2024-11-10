@@ -300,4 +300,4 @@ const main = async (range: { min: number; max: number }) => {
     saveAnalysis(statictics, range);
 };
 
-main({ min: 305, max: 350 });
+main({ min: 351, max: 400 });

@@ -2278,5 +2278,320 @@
     ],
     "maxTranslatedTime": 44.616,
     "minTranslatedTime": 30.981
+  },
+  {
+    "date": "2024-11-10T20:37:30.207Z",
+    "totalTranslationTime": 1621.126,
+    "averageTranslationTime": 32.42252,
+    "p90TranslationTime": 34.777,
+    "translatedPokemonCount": 50,
+    "translationRange": {
+      "min": 351,
+      "max": 400
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+        "Name": "Castform",
+        "PokedexTranslated": "Alterna sua forma de acordo com o clima. Mudanças no clima, como a temperatura e a umidade, parecem afetar sua estrutura celular. \n",
+        "translatedTime": "27.182"
+      },
+      {
+        "Pokedex": "A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.",
+        "Name": "Kecleon",
+        "PokedexTranslated": "Um Pokémon que pode alterar suas cores para combinar com seu ambiente. O Kecleon volta para suas cores originais se estiver assustado. \n",
+        "translatedTime": "27.384"
+      },
+      {
+        "Pokedex": "This Pokémon roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+        "Name": "Shuppet",
+        "PokedexTranslated": "Este Pokémon percorre as profundezas da noite em busca de emoções negativas, como ressentimentos e inveja. Ele se retira para seu ninho quando o sol começa a se pôr. \n",
+        "translatedTime": "28.679"
+      },
+      {
+        "Pokedex": "An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+        "Name": "Banette",
+        "PokedexTranslated": "Uma boneca de pelúcia abandonada se tornou este Pokémon. Diz-se que eles vivem em lixões e vagam em busca dos crianças que as jogaram fora. \n",
+        "translatedTime": "28.429"
+      },
+      {
+        "Pokedex": "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pokémon that roams about under the cloak of darkness.",
+        "Name": "Duskull",
+        "PokedexTranslated": "O brilho de seu único olho escarlate faz até os adultos mais corajosos congelarem em terror. É um Pokémon noturno que percorre o mundo sob a sombra da noite. \n",
+        "translatedTime": "27.553"
+      },
+      {
+        "Pokedex": "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
+        "Name": "Dusclops",
+        "PokedexTranslated": "É pensado que seu corpo é hueco, com apenas uma bola espectral de fogo que queima dentro. No entanto, ninguém conseguiu confirmar essa teoria como fato. \n",
+        "translatedTime": "28.929"
+      },
+      {
+        "Pokedex": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+        "Name": "Tropius",
+        "PokedexTranslated": "Ele voa pulando suas grandes folhas. O grupo de frutas que cresce ao redor do pescoço dele é doce demais. Na primavera, ele dispersa pólen do pescoço. \n",
+        "translatedTime": "29.421"
+      },
+      {
+        "Pokedex": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
+        "Name": "Chimecho",
+        "PokedexTranslated": "Eles voam muito ativamente quando a estação quente chega. Eles se comunicam entre si usando sete sons diferentes e distintivos. \n",
+        "translatedTime": "28.785"
+      },
+      {
+        "Pokedex": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pokémon that has a life-span of 100 years.",
+        "Name": "Absol",
+        "PokedexTranslated": "Ele sente com nitidez mesmo as pequenas mudanças no céu e na terra para prever desastres naturais. É um Pokémon de longa vida com uma expectativa de vida de 100 anos. \n",
+        "translatedTime": "30.43"
+      },
+      {
+        "Pokedex": "A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+        "Name": "Wynaut",
+        "PokedexTranslated": "Uma Wynaut adora comer frutas doces. Ela escolhe frutas com inteligência usando seus braços semelhantes a orelhas. Eles se reúnem em jardins de frutas, atraídos pelo aroma. \n",
+        "translatedTime": "30.152"
+      },
+      {
+        "Pokedex": "They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+        "Name": "Snorunt",
+        "PokedexTranslated": "Eles costumam se mover em grupos de cerca de cinco Snorunt. Em regiões nevadas, dizem que quando são vistos à noite, a neve chegará pela manhã. \n",
+        "translatedTime": "30.284"
+      },
+      {
+        "Pokedex": "A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+        "Name": "Glalie",
+        "PokedexTranslated": "Um Glalie tem a capacidade de congelar instantaneamente a umidade na atmosfera. Uma nuvem deslumbrante de cristais de gelo de diamante forma ao redor do seu corpo. \n",
+        "translatedTime": "30.177"
+      },
+      {
+        "Pokedex": "It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.",
+        "Name": "Spheal",
+        "PokedexTranslated": "É completamente coberto de pelos macios. Como resultado, nunca sente o frio mesmo quando está rolando sobre placas de gelo ou nadando no mar. \n",
+        "translatedTime": "28.609"
+      },
+      {
+        "Pokedex": "Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+        "Name": "Sealeo",
+        "PokedexTranslated": "Sealeo vive em rebanhos sobre placas de gelo. Usando suas poderosas pranchas, ele quebra gelo. Ele mergulha no mar para caçar presas cinco vezes por dia. \n",
+        "translatedTime": "31.008"
+      },
+      {
+        "Pokedex": "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
+        "Name": "Walrein",
+        "PokedexTranslated": "Para proteger sua manada, o líder enfrenta qualquer invasor em seu território, mesmo a custa de sua vida. Seus dentes podem se quebrar em batalha. \n",
+        "translatedTime": "30.44"
+      },
+      {
+        "Pokedex": "A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+        "Name": "Clamperl",
+        "PokedexTranslated": "Uma Clamperl fecha sua concha sobre a presa para impedir a fuga. A pérola que ela cria durante a evolução é dita ser infundida com uma energia misteriosa. \n",
+        "translatedTime": "31.024"
+      },
+      {
+        "Pokedex": "To withstand the crushing water pressure deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+        "Name": "Huntail",
+        "PokedexTranslated": "Para resistir à pressão da água esmagadora no fundo do mar, sua coluna vertebral é muito grossa e resistente. Seu cauda, que tem a forma de um pequeno peixe, tem olhos que se iluminam. \n",
+        "translatedTime": "31.704"
+      },
+      {
+        "Pokedex": "A Gorebyss siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+        "Name": "Gorebyss",
+        "PokedexTranslated": "Um Gorebyss aspira os fluidos corporais da presa através de sua boca tubular fina. Seu corpo rosa claro se torna vibrante quando termina de alimentar. \n",
+        "translatedTime": "31.367"
+      },
+      {
+        "Pokedex": "A Pokémon that was once believed to be extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
+        "Name": "Relicanth",
+        "PokedexTranslated": "Um Pokémon que era considerado extinto. A espécie não mudou sua forma há 100 milhões de anos. Ele caminha no fundo do mar usando suas pranchas pectorais. \n",
+        "translatedTime": "31.555"
+      },
+      {
+        "Pokedex": "Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.",
+        "Name": "Luvdisc",
+        "PokedexTranslated": "Luvdisc fazem as ramificações de Corsola seus ninhos. Há um costume de muito tempo de dar um Luvdisc como presente para expressar os sentimentos de amor. \n",
+        "translatedTime": "35.961"
+      },
+      {
+        "Pokedex": "Although it is small, this Pokémon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
+        "Name": "Bagon",
+        "PokedexTranslated": "Embora seja pequeno, este Pokémon é muito poderoso porque seu corpo é um conjunto de músculos. Ele lança cabeçadas com sua crânio de ferro. \n",
+        "translatedTime": "32.272"
+      },
+      {
+        "Pokedex": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+        "Name": "Shelgon",
+        "PokedexTranslated": "Ele mal se alimenta enquanto aguarda a evolução. Ele se torna mais resistente ao endurecer a fome. Sua concha descasca instantaneamente quando começa a evoluir. \n",
+        "translatedTime": "32.513"
+      },
+      {
+        "Pokedex": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+        "Name": "Salamence",
+        "PokedexTranslated": "Após muitos anos, sua estrutura celular sofreu uma mutação repentina para crescer asas. Quando irritado, ele perde toda a razão e se descontrola. \n",
+        "translatedTime": "32.605"
+      },
+      {
+        "Pokedex": "When Beldum gather in a swarm, they move in perfect unison as if they were but one Pokémon. They communicate with each other using brain waves.",
+        "Name": "Beldum",
+        "PokedexTranslated": "Quando Beldum se reúnem em um bando, eles se movem em perfeita união como se fossem apenas um Pokémon. Eles se comunicam entre si usando ondas cerebrais. \n",
+        "translatedTime": "33.424"
+      },
+      {
+        "Pokedex": "The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.",
+        "Name": "Metang",
+        "PokedexTranslated": "As garras que apontam seus braços carregam a força destrutiva para rasgarem através de folhas de ferro grossas como se fossem seda. Ele voa a mais de 60 milhas por hora. \n",
+        "translatedTime": "33.668"
+      },
+      {
+        "Pokedex": "Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.",
+        "Name": "Metagross",
+        "PokedexTranslated": "Metagross tem quatro cérebros que estão unidos por uma rede neural complexa. Como resultado da integração, este Pokémon é mais inteligente que um supercomputador. \n",
+        "translatedTime": "33.275"
+      },
+      {
+        "Pokedex": "A Pokémon that is made entirely of rocks and boulders. If parts of its body chip off in battle, Regirock repairs itself by adding new rocks.",
+        "Name": "Regirock",
+        "PokedexTranslated": "Um Pokémon feito completamente de rochas e rochas. Se partes de seu corpo se descascarem em batalha, Regirock se reparará adicionando novas rochas. \n",
+        "translatedTime": "33.311"
+      },
+      {
+        "Pokedex": "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
+        "Name": "Regice",
+        "PokedexTranslated": "Todo o seu corpo é feito de gelo antártico. Após estudos extensivos, os pesquisadores acreditam que o gelo foi formado durante uma era glacial. \n",
+        "translatedTime": "37.958"
+      },
+      {
+        "Pokedex": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+        "Name": "Registeel",
+        "PokedexTranslated": "Seu corpo é mais duro que qualquer outro metal. O metal do corpo é composto por uma substância misteriosa. Não só é duro, mas também se contrai e se estende de forma flexível. \n",
+        "translatedTime": "33.946"
+      },
+      {
+        "Pokedex": "They make a small herd of only several members. They rarely make contact with people or other Pokémon. They disappear if they sense enemies.",
+        "Name": "Latias",
+        "PokedexTranslated": "Eles formam um pequeno rebanho com apenas alguns membros. Eles raramente se cruzam com pessoas ou outros Pokémon. Eles desaparecem se sentirem inimigos. \n",
+        "translatedTime": "33.701"
+      },
+      {
+        "Pokedex": "Even in hiding, it can detect the locations of others and sense their emotions since it has telepathy. Its intelligence allows it to understand human languages.",
+        "Name": "Latios",
+        "PokedexTranslated": "Mesmo em esconderijo, ele pode detectar as posições de outros e sentir suas emoções, já que possui telepatia. Sua inteligência permite que ele entenda línguas humanas. \n",
+        "translatedTime": "33.493"
+      },
+      {
+        "Pokedex": "Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.",
+        "Name": "Kyogre",
+        "PokedexTranslated": "Kyogre apareceu na mitologia como o criador do mar. Após longos anos de disputas com Groudon, ele se refugiou no fundo do mar. \n",
+        "translatedTime": "33.758"
+      },
+      {
+        "Pokedex": "Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+        "Name": "Groudon",
+        "PokedexTranslated": "Groudon apareceu na mitologia como o criador da terra. Ele dorme em magma subterrâneo e é dito que ele faz erupções vulcânicas ao acordar. \n",
+        "translatedTime": "34.353"
+      },
+      {
+        "Pokedex": "A Pokémon that flies endlessly in the ozone layer. It is said it would descend to the ground if Kyogre and Groudon were to fight.",
+        "Name": "Rayquaza",
+        "PokedexTranslated": "Um Pokémon que voa sem parar na camada de ozônio. Diz-se que ele descerá para a terra se Kyogre e Groudon se encontrarem em batalha. \n",
+        "translatedTime": "34.653"
+      },
+      {
+        "Pokedex": "Jirachi is said to make wishes come true. While it sleeps, a tough crystalline shell envelops the body to protect it from enemies.",
+        "Name": "Jirachi",
+        "PokedexTranslated": "Jirachi é dito que realiza desejos. Enquanto dorme, uma concha cristalina dura protege o corpo para proteger de inimigos. \n",
+        "translatedTime": "33.503"
+      },
+      {
+        "Pokedex": "A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.",
+        "Name": "Deoxys",
+        "PokedexTranslated": "Um Pokémon que se mutado a partir de um vírus extraterrestre exposto a uma beam de laser. Seu corpo é configurado para maior agilidade e velocidade. \n",
+        "translatedTime": "34.139"
+      },
+      {
+        "Pokedex": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+        "Name": "Turtwig",
+        "PokedexTranslated": "Feito de solo, a concha na sua parte de trás endurece quando bebe água. Ele vive junto a lagos. \n",
+        "translatedTime": "33.62"
+      },
+      {
+        "Pokedex": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+        "Name": "Grotle",
+        "PokedexTranslated": "Ele vive junto a água em florestas. Durante o dia, ele deixa a floresta para tomar sol na sua concha de árvore. \n",
+        "translatedTime": "34.101"
+      },
+      {
+        "Pokedex": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+        "Name": "Torterra",
+        "PokedexTranslated": "Pokémon pequenos ocasionalmente se reúnem em sua parte traseira imóvel para começar a construir seus ninhos. \n",
+        "translatedTime": "33.551"
+      },
+      {
+        "Pokedex": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+        "Name": "Chimchar",
+        "PokedexTranslated": "Ele escalar acentuadamente as falésias íngremes para viver em cima de montanhas escarpadas. Seu fogo é apagado quando ele dorme. \n",
+        "translatedTime": "34.838"
+      },
+      {
+        "Pokedex": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+        "Name": "Monferno",
+        "PokedexTranslated": "Para intimidar atacantes, ele estica o fogo na sua cauda para fazê-lo parecer maior. \n",
+        "translatedTime": "33.972"
+      },
+      {
+        "Pokedex": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+        "Name": "Infernape",
+        "PokedexTranslated": "Ele usa um tipo especial de artes marciais que envolve todas as suas extremidades. Seu fogo nunca se apaga. \n",
+        "translatedTime": "34.211"
+      },
+      {
+        "Pokedex": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "Name": "Piplup",
+        "PokedexTranslated": "Por ser muito orgulhoso, ele odeia aceitar comida de pessoas. Seu pelo denso o protege do frio. \n",
+        "translatedTime": "34.289"
+      },
+      {
+        "Pokedex": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+        "Name": "Prinplup",
+        "PokedexTranslated": "Ele vive sozinho, longe dos outros. Aparentemente, todos acreditam que é o mais importante. \n",
+        "translatedTime": "34.375"
+      },
+      {
+        "Pokedex": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+        "Name": "Empoleon",
+        "PokedexTranslated": "As três crânios que se estendem da sua bico demonstram sua força. O líder tem os maiores crânios. \n",
+        "translatedTime": "34.879"
+      },
+      {
+        "Pokedex": "They flock in great numbers. Though small, they flap their wings with great power.",
+        "Name": "Starly",
+        "PokedexTranslated": "Eles se reúnem em grandes números. Apesar de pequenos, eles agitam suas asas com grande força. \n",
+        "translatedTime": "34.641"
+      },
+      {
+        "Pokedex": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+        "Name": "Staravia",
+        "PokedexTranslated": "Ele voa por florestas e campos em busca de Pokémon insetos. Ele permanece dentro de um grande bando. \n",
+        "translatedTime": "34.762"
+      },
+      {
+        "Pokedex": "It has a savage nature. It will courageously challenge foes that are much larger.",
+        "Name": "Staraptor",
+        "PokedexTranslated": "Ele tem uma natureza selvagem. Ele desafiará corajosamente inimigos que são muito maiores. \n",
+        "translatedTime": "34.517"
+      },
+      {
+        "Pokedex": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "Name": "Bidoof",
+        "PokedexTranslated": "Com nervos de aço, nada pode perturbá-lo. É mais ágil e ativo do que parece. \n",
+        "translatedTime": "34.777"
+      },
+      {
+        "Pokedex": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+        "Name": "Bibarel",
+        "PokedexTranslated": "Ele faz seu ninho damando rios com madeira e argila. É conhecido como um trabalhador dedicado. \n",
+        "translatedTime": "34.948"
+      }
+    ],
+    "maxTranslatedTime": 37.958,
+    "minTranslatedTime": 27.182
   }
 ]
