@@ -3,7 +3,7 @@
 Este projeto utiliza **Node.js**, **TypeScript** e **`node-llama-cpp`** para buscar e traduzir dados de Pokémon. Ele se conecta à [PokéAPI](https://pokeapi.co/) para obter descrições dos Pokémon e usa `node-llama-cpp` para traduzir essas descrições para o português.
 
 <p align="center"> 
-  <img src="./ludicolo.gif" alt="Demonstração do Ludicolo" width="300" />
+  <img src="./ludicolo.gif" alt="Demonstração do Ludicolo" width="150" />
 </p>
 
 ## Funcionalidades
