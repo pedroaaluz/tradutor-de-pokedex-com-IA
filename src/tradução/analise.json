@@ -2593,5 +2593,320 @@
     ],
     "maxTranslatedTime": 37.958,
     "minTranslatedTime": 27.182
+  },
+  {
+    "date": "2024-11-10T21:58:26.183Z",
+    "totalTranslationTime": 1581.2829999999997,
+    "averageTranslationTime": 31.625659999999993,
+    "p90TranslationTime": 34.317,
+    "translatedPokemonCount": 50,
+    "translationRange": {
+      "min": 401,
+      "max": 450
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+        "Name": "Kricketot",
+        "PokedexTranslated": "Ele estica a cabeça para trás, fazendo seus antenas baterem umas nas outras e produzir um som como um xylofone. \n",
+        "translatedTime": "25.508"
+      },
+      {
+        "Pokedex": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+        "Name": "Kricketune",
+        "PokedexTranslated": "Ele dobra seus braços afiados na frente do peito quando chora. Ele pode compor melodias à vontade. \n",
+        "translatedTime": "26.644"
+      },
+      {
+        "Pokedex": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+        "Name": "Shinx",
+        "PokedexTranslated": "Todo seu pelo brilha se perigo for sentido. Ele foge enquanto o inimigo está momentaneamente cego. \n",
+        "translatedTime": "27.31"
+      },
+      {
+        "Pokedex": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+        "Name": "Luxio",
+        "PokedexTranslated": "Seus garras liberam eletricidade com amperagem suficiente para causar tonturas. Eles vivem em pequenos grupos. \n",
+        "translatedTime": "27.527"
+      },
+      {
+        "Pokedex": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+        "Name": "Luxray",
+        "PokedexTranslated": "Ele tem olhos que podem ver através de tudo. Ele detecta e captura presas escondidas atrás de objetos. \n",
+        "translatedTime": "27.551"
+      },
+      {
+        "Pokedex": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+        "Name": "Budew",
+        "PokedexTranslated": "No inverno, ele fecha seu broto e aguenta o frio. Na primavera, o broto se abre e libera pólen. \n",
+        "translatedTime": "26.731"
+      },
+      {
+        "Pokedex": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+        "Name": "Roserade",
+        "PokedexTranslated": "Ele atrai presas com um aroma doce, depois as suga com whips espinhosas escondidas em seus braços. \n",
+        "translatedTime": "28.151"
+      },
+      {
+        "Pokedex": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+        "Name": "Cranidos",
+        "PokedexTranslated": "Ele viveu em florestas há 100 milhões de anos. Seu crânio é tão duro quanto o ferro. \n",
+        "translatedTime": "32.076"
+      },
+      {
+        "Pokedex": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+        "Name": "Rampardos",
+        "PokedexTranslated": "Seu poderoso cabeçada tem a força suficiente para quebrar até as coisas mais duráveis ao impacto. \n",
+        "translatedTime": "29.45"
+      },
+      {
+        "Pokedex": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+        "Name": "Shieldon",
+        "PokedexTranslated": "Um Pokémon que viveu em florestas há 100 milhões de anos. Seu rosto é extremamente duro. \n",
+        "translatedTime": "29.775"
+      },
+      {
+        "Pokedex": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+        "Name": "Bastiodon",
+        "PokedexTranslated": "Qualquer ataque frontal é repelido. É um Pokémon dócil que se alimenta de grama e morangos. \n",
+        "translatedTime": "28.258"
+      },
+      {
+        "Pokedex": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+        "Name": "Burmy",
+        "PokedexTranslated": "Para se proteger do frio e dos ventos gelados, ele se cobre com um manto feito de galhos e folhas. \n",
+        "translatedTime": "30.788"
+      },
+      {
+        "Pokedex": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+        "Name": "Wormadam",
+        "PokedexTranslated": "Quando o Burmy evolui, seu manto se torna parte do corpo deste Pokémon. O manto nunca é desfeito. \n",
+        "translatedTime": "30.652"
+      },
+      {
+        "Pokedex": "It loves the honey of flowers and steals honey collected by Combee.",
+        "Name": "Mothim",
+        "PokedexTranslated": "Ele ama o mel das flores e rouba o mel coletando por Combee. \n",
+        "translatedTime": "30.395"
+      },
+      {
+        "Pokedex": "A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen.",
+        "Name": "Combee",
+        "PokedexTranslated": "Um Pokémon formado por três outros. Ele carrega com zelo mel floral doce para Vespiquen. \n",
+        "translatedTime": "30.769"
+      },
+      {
+        "Pokedex": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+        "Name": "Vespiquen",
+        "PokedexTranslated": "Seu abdômen é um labirinto de abelhas para grubs. Ele eleva seus grubs com mel coletando por Combee. \n",
+        "translatedTime": "30.291"
+      },
+      {
+        "Pokedex": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+        "Name": "Pachirisu",
+        "PokedexTranslated": "Ele faz bolas de pelo que crackle com eletricidade estática. Ele as armazena com morangos em buracos de árvores. \n",
+        "translatedTime": "31.003"
+      },
+      {
+        "Pokedex": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+        "Name": "Buizel",
+        "PokedexTranslated": "Ele tem um saco de natação que é como um colar inflável. Ele flutua na água com a cabeça para fora. \n",
+        "translatedTime": "31.555"
+      },
+      {
+        "Pokedex": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+        "Name": "Floatzel",
+        "PokedexTranslated": "Ele flutua usando seu saco de natação bem desenvolvido. Ele auxilia em resgates de pessoas afogadas. \n",
+        "translatedTime": "30.769"
+      },
+      {
+        "Pokedex": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+        "Name": "Cherubi",
+        "PokedexTranslated": "A pequena bola contém os nutrientes necessários para a evolução. Aparentemente, é muito doce e gostoso. \n",
+        "translatedTime": "30.952"
+      },
+      {
+        "Pokedex": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+        "Name": "Cherrim",
+        "PokedexTranslated": "Ele floresce durante momentos de forte luz solar. Ele tenta compensar tudo o que passou como um broto. \n",
+        "translatedTime": "31.136"
+      },
+      {
+        "Pokedex": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+        "Name": "Shellos",
+        "PokedexTranslated": "Seus cores e formas diferem de região para região. Na região de Sinnoh, dois tipos são confirmados. \n",
+        "translatedTime": "31.142"
+      },
+      {
+        "Pokedex": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
+        "Name": "Gastrodon",
+        "PokedexTranslated": "Ele tem um corpo flexível sem ossos. Se qualquer parte do seu corpo for arrancada, ele cresce de volta. \n",
+        "translatedTime": "31.225"
+      },
+      {
+        "Pokedex": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+        "Name": "Ambipom",
+        "PokedexTranslated": "Para se alimentar, ele espreme castanhas com suas duas caudas com destreza. Ele raramente usa seus braços agora. \n",
+        "translatedTime": "31.852"
+      },
+      {
+        "Pokedex": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+        "Name": "Drifloon",
+        "PokedexTranslated": "Um Pokémon formado pelos espíritos de pessoas e Pokémon. Ele ama as estações úmidas e úmidas. \n",
+        "translatedTime": "31.629"
+      },
+      {
+        "Pokedex": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+        "Name": "Drifblim",
+        "PokedexTranslated": "Ele é sonolento durante o dia, mas voa à noite em grandes grupos. Ninguém sabe para onde eles vão. \n",
+        "translatedTime": "32.14"
+      },
+      {
+        "Pokedex": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+        "Name": "Buneary",
+        "PokedexTranslated": "Ele empurra inimigos ao desdobrar seus ouvidos enrolados com força. Ele picar é suficiente para fazer um adulto chorar de dor. \n",
+        "translatedTime": "32.482"
+      },
+      {
+        "Pokedex": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+        "Name": "Lopunny",
+        "PokedexTranslated": "Um Pokémon extremamente cauteloso. Ele cobre seu corpo com seu pelo de orelha macio quando sente perigo. \n",
+        "translatedTime": "32.058"
+      },
+      {
+        "Pokedex": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+        "Name": "Mismagius",
+        "PokedexTranslated": "Seus gritos soam como incantations. Aqueles que ouvem são atormentados por dores de cabeça e alucinações. \n",
+        "translatedTime": "31.517"
+      },
+      {
+        "Pokedex": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+        "Name": "Honchkrow",
+        "PokedexTranslated": "Tornando-se ativo à noite, é conhecido por se aglomerar com vários Murkrow ao seu lado. \n",
+        "translatedTime": "32.555"
+      },
+      {
+        "Pokedex": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+        "Name": "Glameow",
+        "PokedexTranslated": "Ele arranha se insatisfeito e ronronar quando é afetivo. Sua fickleza é muito popular entre alguns. \n",
+        "translatedTime": "34.121"
+      },
+      {
+        "Pokedex": "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
+        "Name": "Purugly",
+        "PokedexTranslated": "É um bruto impetuoso que invade o ninho de outro Pokémon e o reivindica como seu. \n",
+        "translatedTime": "32.209"
+      },
+      {
+        "Pokedex": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+        "Name": "Chingling",
+        "PokedexTranslated": "Ele emite gritos agitando uma esfera na parte de trás da garganta. Ele se move com saltos flutuantes. \n",
+        "translatedTime": "32.945"
+      },
+      {
+        "Pokedex": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+        "Name": "Stunky",
+        "PokedexTranslated": "Ele se protege pulverizando um líquido nocivo de sua cauda. O odor persiste por 24 horas. \n",
+        "translatedTime": "33.174"
+      },
+      {
+        "Pokedex": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+        "Name": "Skuntank",
+        "PokedexTranslated": "Ele pulveriza um líquido nauseante da ponta da cauda para atacar. Seu alcance é superior a 160 pés. \n",
+        "translatedTime": "33.076"
+      },
+      {
+        "Pokedex": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+        "Name": "Bronzor",
+        "PokedexTranslated": "Implementos em forma de serem descobertos em tumbas antigas. É desconhecido se eles estão relacionados. \n",
+        "translatedTime": "33.56"
+      },
+      {
+        "Pokedex": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+        "Name": "Bronzong",
+        "PokedexTranslated": "Um causou uma sensação de notícia quando foi escavado em um local de construção após um sono de 2.000 anos. \n",
+        "translatedTime": "33.512"
+      },
+      {
+        "Pokedex": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
+        "Name": "Bonsly",
+        "PokedexTranslated": "Parece que está sempre chorando. Na verdade, está ajustando os níveis de fluido do seu corpo eliminando o excesso. \n",
+        "translatedTime": "33.999"
+      },
+      {
+        "Pokedex": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+        "Name": "Mime Jr.",
+        "PokedexTranslated": "Ele habitualmente imita inimigos. Uma vez imitado, o inimigo não consegue tirar os olhos deste Pokémon. \n",
+        "translatedTime": "33.729"
+      },
+      {
+        "Pokedex": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
+        "Name": "Happiny",
+        "PokedexTranslated": "Ele ama coisas brancas redondas. Ele carrega uma rocha em forma de ovo em imitação de Chansey. \n",
+        "translatedTime": "33.418"
+      },
+      {
+        "Pokedex": "It can learn and speak human words. If they gather, they all learn the same saying.",
+        "Name": "Chatot",
+        "PokedexTranslated": "Ele pode aprender e falar palavras humanas. Se se juntarem, todos aprendem a mesma frase. \n",
+        "translatedTime": "33.322"
+      },
+      {
+        "Pokedex": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+        "Name": "Spiritomb",
+        "PokedexTranslated": "Um Pokémon formado por 108 espíritos. Está ligado a uma fissura em uma chave de pedra. \n",
+        "translatedTime": "34.576"
+      },
+      {
+        "Pokedex": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+        "Name": "Gible",
+        "PokedexTranslated": "Ele ninho em pequenos buracos horizontais nas paredes de cavernas. Ele pounce para capturar presas que se aproximarem demais. \n",
+        "translatedTime": "33.924"
+      },
+      {
+        "Pokedex": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+        "Name": "Gabite",
+        "PokedexTranslated": "Há uma crença antiga de que a medicina feita com suas escamas cura até doenças incurabis. \n",
+        "translatedTime": "36.009"
+      },
+      {
+        "Pokedex": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+        "Name": "Garchomp",
+        "PokedexTranslated": "Quando ele dobra seu corpo e estende suas asas, parece um avião de combate. Ele voa a velocidade do som. \n",
+        "translatedTime": "33.928"
+      },
+      {
+        "Pokedex": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+        "Name": "Munchlax",
+        "PokedexTranslated": "Ele consome seu peso em comida em um único dia, engoliu a comida inteira quase sem mastigar. \n",
+        "translatedTime": "34.43"
+      },
+      {
+        "Pokedex": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+        "Name": "Riolu",
+        "PokedexTranslated": "A aura que emanam do seu corpo intensifica para alertar os outros se estiver com medo ou triste. \n",
+        "translatedTime": "33.91"
+      },
+      {
+        "Pokedex": "It has the ability to sense the auras of all things. It understands human speech.",
+        "Name": "Lucario",
+        "PokedexTranslated": "Ele tem a capacidade de sentir as auras de todas as coisas. Ele entende a linguagem humana. \n",
+        "translatedTime": "34.317"
+      },
+      {
+        "Pokedex": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+        "Name": "Hippopotas",
+        "PokedexTranslated": "Ele vive em lugares áridos. Em vez de suor, expulsa areia granulada do seu corpo. \n",
+        "translatedTime": "34.499"
+      },
+      {
+        "Pokedex": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+        "Name": "Hippowdon",
+        "PokedexTranslated": "Ele expulsa areia armazenada internamente de portas no seu corpo para criar um tornado imponente para ataque. \n",
+        "translatedTime": "34.734"
+      }
+    ],
+    "maxTranslatedTime": 36.009,
+    "minTranslatedTime": 25.508
   }
 ]
