@@ -68052,5 +68052,7963 @@
     "BattlerShadowX": "0",
     "BattlerShadowSize": "2",
     "PokedexEn": "It blasts internally stored sand from ports on its body to create a towering twister for attack."
+  },
+  {
+    "id": 451,
+    "Name": "Skorupi",
+    "InternalName": "SKORUPI",
+    "Type1": "VENENOSO",
+    "Type2": "INSETO",
+    "BaseStats": "40,50,90,65,30,55",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": "0,0,1,0,0,0",
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "BATTLEARMOR,SNIPER",
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "BITE"
+      },
+      {
+        "level": 1,
+        "move": "POISONSTING"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 5,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 9,
+        "move": "PINMISSILE"
+      },
+      {
+        "level": 13,
+        "move": "ACUPRESSURE"
+      },
+      {
+        "level": 16,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 20,
+        "move": "BUGBITE"
+      },
+      {
+        "level": 23,
+        "move": "POISONFANG"
+      },
+      {
+        "level": 27,
+        "move": "VENOSHOCK"
+      },
+      {
+        "level": 30,
+        "move": "HONECLAWS"
+      },
+      {
+        "level": 34,
+        "move": "TOXICSPIKES"
+      },
+      {
+        "level": 38,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 41,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 45,
+        "move": "CRUNCH"
+      },
+      {
+        "level": 47,
+        "move": "FELLSTINGER"
+      },
+      {
+        "level": 49,
+        "move": "CROSSPOISON"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BRICKBREAK",
+      "BUGBITE",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "FACADE",
+      "FALSESWIPE",
+      "FLING",
+      "FRUSTRATION",
+      "HIDDENPOWER",
+      "INFESTATION",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "PAYBACK",
+      "POISONJAB",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "STRENGTH",
+      "STRUGGLEBUG",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "THIEF",
+      "TORMENT",
+      "TOXIC",
+      "VENOSHOCK",
+      "XSCISSOR"
+    ],
+    "EggMoves": [
+      "AGILITY",
+      "CONFUSERAY",
+      "FEINTATTACK",
+      "IRONTAIL",
+      "NIGHTSLASH",
+      "POISONTAIL",
+      "PURSUIT",
+      "SANDATTACK",
+      "SCREECH",
+      "SLASH",
+      "TWINEEDLE",
+      "WHIRLWIND"
+    ],
+    "Compatibility": "Bug,Water3",
+    "StepsToHatch": "5120",
+    "Height": "0.8",
+    "Weight": "12.0",
+    "Color": "Purple",
+    "Shape": "Insectoid",
+    "Kind": "Scorpion",
+    "Pokedex": "Ele agarra a presa com suas garras de cauda e injeta veneno. Ele se agarra tenaciously até que o veneno atinja. \n",
+    "Generation": "4",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "14",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "17",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "DRAPION,Level,40",
+    "PokedexEn": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes."
+  },
+  {
+    "id": 452,
+    "Name": "Drapion",
+    "InternalName": "DRAPION",
+    "Type1": "VENENOSO",
+    "Type2": "NOTURNO",
+    "BaseStats": "70,90,110,95,60,75",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "175",
+    "EffortPoints": "0,0,2,0,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BATTLEARMOR,SNIPER",
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "THUNDERFANG"
+      },
+      {
+        "level": 1,
+        "move": "ICEFANG"
+      },
+      {
+        "level": 1,
+        "move": "FIREFANG"
+      },
+      {
+        "level": 1,
+        "move": "BITE"
+      },
+      {
+        "level": 1,
+        "move": "POISONSTING"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 5,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 9,
+        "move": "PINMISSILE"
+      },
+      {
+        "level": 13,
+        "move": "ACUPRESSURE"
+      },
+      {
+        "level": 16,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 20,
+        "move": "BUGBITE"
+      },
+      {
+        "level": 23,
+        "move": "POISONFANG"
+      },
+      {
+        "level": 27,
+        "move": "VENOSHOCK"
+      },
+      {
+        "level": 30,
+        "move": "HONECLAWS"
+      },
+      {
+        "level": 34,
+        "move": "TOXICSPIKES"
+      },
+      {
+        "level": 38,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 43,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 49,
+        "move": "CRUNCH"
+      },
+      {
+        "level": 53,
+        "move": "FELLSTINGER"
+      },
+      {
+        "level": 57,
+        "move": "CROSSPOISON"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BRICKBREAK",
+      "BRUTALSWING",
+      "BUGBITE",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "EARTHQUAKE",
+      "FACADE",
+      "FALSESWIPE",
+      "FLING",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "INFESTATION",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "PAYBACK",
+      "POISONJAB",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNARL",
+      "SNORE",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "STRUGGLEBUG",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "THIEF",
+      "THROATCHOP",
+      "TORMENT",
+      "TOXIC",
+      "VENOSHOCK",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Bug,Water3",
+    "StepsToHatch": "5120",
+    "Height": "1.3",
+    "Weight": "61.5",
+    "Color": "Purple",
+    "Shape": "Insectoid",
+    "Kind": "Ogre Scorpion",
+    "Pokedex": "Ele tem o poder em suas garras para fazer um carro de lixo. As pontas de suas garras liberam veneno. \n",
+    "Generation": "4",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "13",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "17",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison."
+  },
+  {
+    "id": 453,
+    "Name": "Croagunk",
+    "InternalName": "CROAGUNK",
+    "Type1": "VENENOSO",
+    "Type2": "LUTADOR",
+    "BaseStats": "48,61,40,50,61,40",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": "0,1,0,0,0,0",
+    "Rareness": "140",
+    "Happiness": "100",
+    "Abilities": "ANTICIPATION,DRYSKIN",
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 3,
+        "move": "MUDSLAP"
+      },
+      {
+        "level": 8,
+        "move": "POISONSTING"
+      },
+      {
+        "level": 10,
+        "move": "TAUNT"
+      },
+      {
+        "level": 15,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 17,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 22,
+        "move": "REVENGE"
+      },
+      {
+        "level": 24,
+        "move": "SWAGGER"
+      },
+      {
+        "level": 29,
+        "move": "MUDBOMB"
+      },
+      {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+      },
+      {
+        "level": 36,
+        "move": "VENOSHOCK"
+      },
+      {
+        "level": 38,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 43,
+        "move": "POISONJAB"
+      },
+      {
+        "level": 45,
+        "move": "SLUDGEBOMB"
+      },
+      {
+        "level": 47,
+        "move": "BELCH"
+      },
+      {
+        "level": 50,
+        "move": "FLATTER"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BOUNCE",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CONFIDE",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "DUALCHOP",
+      "EARTHQUAKE",
+      "EMBARGO",
+      "FACADE",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GUNKSHOT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "ICEPUNCH",
+      "ICYWIND",
+      "KNOCKOFF",
+      "LOWKICK",
+      "LOWSWEEP",
+      "PAYBACK",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROLEPLAY",
+      "ROUND",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SLUDGEWAVE",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERFANG",
+      "SWAGGER",
+      "TAUNT",
+      "THIEF",
+      "THUNDERPUNCH",
+      "TORMENT",
+      "TOXIC",
+      "VENOSHOCK",
+      "WORKUP",
+      "XSCISSOR"
+    ],
+    "EggMoves": [
+      "ACUPRESSURE",
+      "BULLETPUNCH",
+      "COUNTER",
+      "CROSSCHOP",
+      "DRAINPUNCH",
+      "DYNAMICPUNCH",
+      "FAKEOUT",
+      "FEINT",
+      "HEADBUTT",
+      "MEFIRST",
+      "MEDITATE",
+      "QUICKGUARD",
+      "SMELLINGSALTS",
+      "VACUUMWAVE",
+      "WAKEUPSLAP"
+    ],
+    "Compatibility": "Humanlike",
+    "StepsToHatch": "2560",
+    "Height": "0.7",
+    "Weight": "23.0",
+    "Color": "Blue",
+    "Shape": "Bipedal",
+    "Kind": "Toxic Mouth",
+    "Pokedex": "Seus maxilares guardam bolsas de veneno. Ele tenta capturar inimigos de surpresa para jabá-los com dedos tóxicos. \n",
+    "Generation": "4",
+    "WildItemUncommon": "BLACKSLUDGE",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "TOXICROAK,Level,37",
+    "PokedexEn": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers."
+  },
+  {
+    "id": 454,
+    "Name": "Toxicroak",
+    "InternalName": "TOXICROAK",
+    "Type1": "VENENOSO",
+    "Type2": "LUTADOR",
+    "BaseStats": "83,106,65,85,86,65",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": "0,2,0,0,0,0",
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "ANTICIPATION,DRYSKIN",
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 1,
+        "move": "MUDSLAP"
+      },
+      {
+        "level": 1,
+        "move": "POISONSTING"
+      },
+      {
+        "level": 3,
+        "move": "MUDSLAP"
+      },
+      {
+        "level": 8,
+        "move": "POISONSTING"
+      },
+      {
+        "level": 10,
+        "move": "TAUNT"
+      },
+      {
+        "level": 15,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 17,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 22,
+        "move": "REVENGE"
+      },
+      {
+        "level": 24,
+        "move": "SWAGGER"
+      },
+      {
+        "level": 29,
+        "move": "MUDBOMB"
+      },
+      {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+      },
+      {
+        "level": 36,
+        "move": "VENOSHOCK"
+      },
+      {
+        "level": 41,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 49,
+        "move": "POISONJAB"
+      },
+      {
+        "level": 54,
+        "move": "SLUDGEBOMB"
+      },
+      {
+        "level": 58,
+        "move": "BELCH"
+      },
+      {
+        "level": 62,
+        "move": "FLATTER"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BOUNCE",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "DUALCHOP",
+      "EARTHQUAKE",
+      "EMBARGO",
+      "FACADE",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GUNKSHOT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "KNOCKOFF",
+      "LOWKICK",
+      "LOWSWEEP",
+      "PAYBACK",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROLEPLAY",
+      "ROUND",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SLUDGEWAVE",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERFANG",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "THIEF",
+      "THROATCHOP",
+      "THUNDERPUNCH",
+      "TORMENT",
+      "TOXIC",
+      "VENOSHOCK",
+      "WORKUP",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Humanlike",
+    "StepsToHatch": "5120",
+    "Height": "1.3",
+    "Weight": "44.4",
+    "Color": "Blue",
+    "Shape": "Bipedal",
+    "Kind": "Toxic Mouth",
+    "Pokedex": "Seus garras de cotovelo secretam um veneno tão vil que até um arranhão poderia ser fatal. \n",
+    "Generation": "4",
+    "WildItemUncommon": "BLACKSLUDGE",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "5",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "8",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal."
+  },
+  {
+    "id": 455,
+    "Name": "Carnivine",
+    "InternalName": "CARNIVINE",
+    "Type1": "GRAMA",
+    "BaseStats": "74,100,72,46,90,72",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "159",
+    "EffortPoints": "0,2,0,0,0,0",
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "BIND"
+      },
+      {
+        "level": 1,
+        "move": "GROWTH"
+      },
+      {
+        "level": 7,
+        "move": "BITE"
+      },
+      {
+        "level": 11,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 17,
+        "move": "SWEETSCENT"
+      },
+      {
+        "level": 21,
+        "move": "INGRAIN"
+      },
+      {
+        "level": 27,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 31,
+        "move": "LEAFTORNADO"
+      },
+      {
+        "level": 37,
+        "move": "STOCKPILE"
+      },
+      {
+        "level": 37,
+        "move": "SPITUP"
+      },
+      {
+        "level": 37,
+        "move": "SWALLOW"
+      },
+      {
+        "level": 41,
+        "move": "CRUNCH"
+      },
+      {
+        "level": 47,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 50,
+        "move": "POWERWHIP"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BIND",
+      "BUGBITE",
+      "CONFIDE",
+      "CUT",
+      "DEFOG",
+      "DOUBLETEAM",
+      "ENERGYBALL",
+      "FACADE",
+      "FLING",
+      "FRUSTRATION",
+      "GASTROACID",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "INFESTATION",
+      "KNOCKOFF",
+      "NATUREPOWER",
+      "PAYBACK",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "THIEF",
+      "THROATCHOP",
+      "TOXIC",
+      "WORRYSEED"
+    ],
+    "EggMoves": [
+      "ACIDSPRAY",
+      "GIGADRAIN",
+      "GRASSWHISTLE",
+      "LEECHSEED",
+      "MAGICALLEAF",
+      "RAGEPOWDER",
+      "RAZORLEAF",
+      "SLAM",
+      "SLEEPPOWDER",
+      "STUNSPORE",
+      "SYNTHESIS",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Grass",
+    "StepsToHatch": "6400",
+    "Height": "1.4",
+    "Weight": "27.0",
+    "Color": "Green",
+    "Shape": "Multiped",
+    "Kind": "Bug Catcher",
+    "Pokedex": "Ele atrai presas com sua saliva doce, depois mastiga. Leva um dia inteiro para comer a presa. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "15",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "19",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey."
+  },
+  {
+    "id": 456,
+    "Name": "Finneon",
+    "InternalName": "FINNEON",
+    "Type1": "AGUA",
+    "BaseStats": "49,49,56,66,49,61",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "66",
+    "EffortPoints": "0,0,0,1,0,0",
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM,STORMDRAIN",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "POUND"
+      },
+      {
+        "level": 6,
+        "move": "WATERGUN"
+      },
+      {
+        "level": 10,
+        "move": "ATTRACT"
+      },
+      {
+        "level": 13,
+        "move": "RAINDANCE"
+      },
+      {
+        "level": 17,
+        "move": "GUST"
+      },
+      {
+        "level": 22,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 26,
+        "move": "CAPTIVATE"
+      },
+      {
+        "level": 29,
+        "move": "SAFEGUARD"
+      },
+      {
+        "level": 33,
+        "move": "AQUARING"
+      },
+      {
+        "level": 38,
+        "move": "WHIRLPOOL"
+      },
+      {
+        "level": 42,
+        "move": "UTURN"
+      },
+      {
+        "level": 45,
+        "move": "BOUNCE"
+      },
+      {
+        "level": 49,
+        "move": "SILVERWIND"
+      },
+      {
+        "level": 54,
+        "move": "SOAK"
+      }
+    ],
+    "TutorMoves": [
+      "AQUATAIL",
+      "ATTRACT",
+      "BLIZZARD",
+      "BOUNCE",
+      "CONFIDE",
+      "DEFOG",
+      "DIVE",
+      "DOUBLETEAM",
+      "FACADE",
+      "FRUSTRATION",
+      "HAIL",
+      "HIDDENPOWER",
+      "ICEBEAM",
+      "ICYWIND",
+      "NATUREPOWER",
+      "PAYBACK",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SCALD",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SURF",
+      "SWAGGER",
+      "TAILWIND",
+      "TOXIC",
+      "UTURN",
+      "WATERFALL",
+      "WATERPULSE"
+    ],
+    "EggMoves": [
+      "AGILITY",
+      "AQUATAIL",
+      "AURORABEAM",
+      "BRINE",
+      "CHARM",
+      "CONFUSERAY",
+      "FLAIL",
+      "PSYBEAM",
+      "SIGNALBEAM",
+      "SPLASH",
+      "SWEETKISS",
+      "TICKLE"
+    ],
+    "Compatibility": "Water2",
+    "StepsToHatch": "5120",
+    "Height": "0.4",
+    "Weight": "7.0",
+    "Color": "Blue",
+    "Shape": "Finned",
+    "Kind": "Wing Fish",
+    "Pokedex": "Após longos períodos de exposição ao sol, os padrões nas suas caudas brilham com clareza quando a noite chega. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "21",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "26",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "LUMINEON,Level,31",
+    "PokedexEn": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives."
+  },
+  {
+    "id": 457,
+    "Name": "Lumineon",
+    "InternalName": "LUMINEON",
+    "Type1": "AGUA",
+    "BaseStats": "69,69,76,91,69,86",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "161",
+    "EffortPoints": "0,0,0,2,0,0",
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM,STORMDRAIN",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "SOAK"
+      },
+      {
+        "level": 1,
+        "move": "GUST"
+      },
+      {
+        "level": 1,
+        "move": "POUND"
+      },
+      {
+        "level": 1,
+        "move": "WATERGUN"
+      },
+      {
+        "level": 1,
+        "move": "ATTRACT"
+      },
+      {
+        "level": 6,
+        "move": "WATERGUN"
+      },
+      {
+        "level": 10,
+        "move": "ATTRACT"
+      },
+      {
+        "level": 13,
+        "move": "RAINDANCE"
+      },
+      {
+        "level": 17,
+        "move": "GUST"
+      },
+      {
+        "level": 22,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 26,
+        "move": "CAPTIVATE"
+      },
+      {
+        "level": 29,
+        "move": "SAFEGUARD"
+      },
+      {
+        "level": 35,
+        "move": "AQUARING"
+      },
+      {
+        "level": 42,
+        "move": "WHIRLPOOL"
+      },
+      {
+        "level": 48,
+        "move": "UTURN"
+      },
+      {
+        "level": 53,
+        "move": "BOUNCE"
+      },
+      {
+        "level": 59,
+        "move": "SILVERWIND"
+      },
+      {
+        "level": 66,
+        "move": "SOAK"
+      }
+    ],
+    "TutorMoves": [
+      "AQUATAIL",
+      "ATTRACT",
+      "BLIZZARD",
+      "BOUNCE",
+      "CONFIDE",
+      "DEFOG",
+      "DIVE",
+      "DOUBLETEAM",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "PAYBACK",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SCALD",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SURF",
+      "SWAGGER",
+      "TAILWIND",
+      "TOXIC",
+      "UTURN",
+      "WATERFALL",
+      "WATERPULSE"
+    ],
+    "Compatibility": "Water2",
+    "StepsToHatch": "5120",
+    "Height": "1.2",
+    "Weight": "24.0",
+    "Color": "Blue",
+    "Shape": "Finned",
+    "Kind": "Neon",
+    "Pokedex": "Ele vive no fundo do mar. Atrai presas exibindo os padrões nas suas quatro caudas. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "13",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "19",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins."
+  },
+  {
+    "id": 458,
+    "Name": "Mantyke",
+    "InternalName": "MANTYKE",
+    "Type1": "AGUA",
+    "Type2": "VOADOR",
+    "BaseStats": "45,20,50,50,60,120",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "69",
+    "EffortPoints": "0,0,0,0,0,1",
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM,WATERABSORB",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 3,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 7,
+        "move": "BUBBLEBEAM"
+      },
+      {
+        "level": 11,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 14,
+        "move": "WINGATTACK"
+      },
+      {
+        "level": 16,
+        "move": "HEADBUTT"
+      },
+      {
+        "level": 19,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 23,
+        "move": "WIDEGUARD"
+      },
+      {
+        "level": 27,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 32,
+        "move": "AGILITY"
+      },
+      {
+        "level": 36,
+        "move": "AIRSLASH"
+      },
+      {
+        "level": 39,
+        "move": "AQUARING"
+      },
+      {
+        "level": 46,
+        "move": "BOUNCE"
+      },
+      {
+        "level": 49,
+        "move": "HYDROPUMP"
+      }
+    ],
+    "TutorMoves": [
+      "ACROBATICS",
+      "AERIALACE",
+      "ATTRACT",
+      "BLIZZARD",
+      "BOUNCE",
+      "BULLDOZE",
+      "CONFIDE",
+      "DIVE",
+      "DOUBLETEAM",
+      "EARTHQUAKE",
+      "FACADE",
+      "FRUSTRATION",
+      "HAIL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "ICEBEAM",
+      "ICYWIND",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROUND",
+      "SCALD",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SURF",
+      "SWAGGER",
+      "TAILWIND",
+      "TOXIC",
+      "WATERFALL",
+      "WATERPULSE"
+    ],
+    "EggMoves": [
+      "AMNESIA",
+      "HAZE",
+      "HYDROPUMP",
+      "MIRRORCOAT",
+      "MUDSPORT",
+      "SIGNALBEAM",
+      "SLAM",
+      "SPLASH",
+      "TAILWIND",
+      "TWISTER",
+      "WATERSPORT",
+      "WIDEGUARD"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "6400",
+    "Height": "1.0",
+    "Weight": "65.0",
+    "Color": "Blue",
+    "Shape": "Winged",
+    "Kind": "Kite",
+    "Pokedex": "Um Pokémon amigável que captura os sutis fluxos de água do mar usando seus dois antenas. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "8",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "7",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "MANTINE,HasInParty,REMORAID",
+    "Incense": "WAVEINCENSE",
+    "PokedexEn": "A friendly Pokémon that captures the subtle flows of seawater using its two antennae."
+  },
+  {
+    "id": 459,
+    "Name": "Snover",
+    "InternalName": "SNOVER",
+    "Type1": "GRAMA",
+    "Type2": "GELO",
+    "BaseStats": "60,62,50,40,62,60",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "67",
+    "EffortPoints": "0,1,0,0,0,0",
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SNOWWARNING",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "POWDERSNOW"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 5,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 9,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 13,
+        "move": "GRASSWHISTLE"
+      },
+      {
+        "level": 17,
+        "move": "SWAGGER"
+      },
+      {
+        "level": 21,
+        "move": "MIST"
+      },
+      {
+        "level": 26,
+        "move": "ICESHARD"
+      },
+      {
+        "level": 31,
+        "move": "INGRAIN"
+      },
+      {
+        "level": 36,
+        "move": "WOODHAMMER"
+      },
+      {
+        "level": 41,
+        "move": "BLIZZARD"
+      },
+      {
+        "level": 46,
+        "move": "SHEERCOLD"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BLIZZARD",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "ENERGYBALL",
+      "FACADE",
+      "FROSTBREATH",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GRASSKNOT",
+      "HAIL",
+      "HIDDENPOWER",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONTAIL",
+      "LIGHTSCREEN",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "WATERPULSE",
+      "WORRYSEED"
+    ],
+    "EggMoves": [
+      "AVALANCHE",
+      "BULLETSEED",
+      "DOUBLEEDGE",
+      "GROWTH",
+      "LEECHSEED",
+      "MAGICALLEAF",
+      "MIST",
+      "NATURALGIFT",
+      "SEEDBOMB",
+      "SKULLBASH",
+      "STOMP"
+    ],
+    "Compatibility": "Monster,Grass",
+    "StepsToHatch": "5120",
+    "Height": "1.0",
+    "Weight": "50.5",
+    "Color": "White",
+    "Shape": "BipedalTail",
+    "Kind": "Frost Tree",
+    "Pokedex": "Ele vive nas montanhas nevadas. Tendo pouco contato com humanos, é inquisitivo e corajoso. \n",
+    "Generation": "4",
+    "WildItemUncommon": "NEVERMELTICE",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "13",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "15",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "ABOMASNOW,Level,40",
+    "PokedexEn": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive."
+  },
+  {
+    "id": 460,
+    "Name": "Abomasnow",
+    "InternalName": "ABOMASNOW",
+    "Type1": "GRAMA",
+    "Type2": "GELO",
+    "BaseStats": "90,92,75,60,92,85",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "173",
+    "EffortPoints": "0,1,0,0,1,0",
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SNOWWARNING",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "ICEPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "POWDERSNOW"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 1,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 5,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 9,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 13,
+        "move": "GRASSWHISTLE"
+      },
+      {
+        "level": 17,
+        "move": "SWAGGER"
+      },
+      {
+        "level": 21,
+        "move": "MIST"
+      },
+      {
+        "level": 26,
+        "move": "ICESHARD"
+      },
+      {
+        "level": 31,
+        "move": "INGRAIN"
+      },
+      {
+        "level": 36,
+        "move": "WOODHAMMER"
+      },
+      {
+        "level": 47,
+        "move": "BLIZZARD"
+      },
+      {
+        "level": 58,
+        "move": "SHEERCOLD"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BLIZZARD",
+      "BLOCK",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "EARTHQUAKE",
+      "ENERGYBALL",
+      "FACADE",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FROSTBREATH",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONTAIL",
+      "LIGHTSCREEN",
+      "OUTRAGE",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "WATERPULSE",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Monster,Grass",
+    "StepsToHatch": "5120",
+    "Height": "2.2",
+    "Weight": "135.5",
+    "Color": "White",
+    "Shape": "BipedalTail",
+    "Kind": "Frost Tree",
+    "Pokedex": "Ele cria tempestades de neve nas montanhas que estão sempre cobertas de neve. É o abominable snowman. \n",
+    "Generation": "4",
+    "WildItemUncommon": "NEVERMELTICE",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "10",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "13",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman."
+  },
+  {
+    "id": 461,
+    "Name": "Weavile",
+    "InternalName": "WEAVILE",
+    "Type1": "NOTURNO",
+    "Type2": "GELO",
+    "BaseStats": "70,120,65,125,45,85",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": "0,1,0,1,0,0",
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "PICKPOCKET",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "EMBARGO"
+      },
+      {
+        "level": 1,
+        "move": "REVENGE"
+      },
+      {
+        "level": 1,
+        "move": "ASSURANCE"
+      },
+      {
+        "level": 1,
+        "move": "SCRATCH"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "TAUNT"
+      },
+      {
+        "level": 1,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 8,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 10,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 14,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 16,
+        "move": "FURYSWIPES"
+      },
+      {
+        "level": 20,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 22,
+        "move": "METALCLAW"
+      },
+      {
+        "level": 25,
+        "move": "HONECLAWS"
+      },
+      {
+        "level": 28,
+        "move": "FLING"
+      },
+      {
+        "level": 32,
+        "move": "SCREECH"
+      },
+      {
+        "level": 35,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 40,
+        "move": "SNATCH"
+      },
+      {
+        "level": 44,
+        "move": "PUNISHMENT"
+      },
+      {
+        "level": 47,
+        "move": "DARKPULSE"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ATTRACT",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "CALMMIND",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "EMBARGO",
+      "FACADE",
+      "FALSESWIPE",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LOWKICK",
+      "LOWSWEEP",
+      "PAYBACK",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROUND",
+      "SHADOWBALL",
+      "SHADOWCLAW",
+      "SLEEPTALK",
+      "SNARL",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SURF",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "THIEF",
+      "THROATCHOP",
+      "TORMENT",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "5120",
+    "Height": "1.1",
+    "Weight": "34.0",
+    "Color": "Black",
+    "Shape": "BipedalTail",
+    "Kind": "Sharp Claw",
+    "Pokedex": "Eles vivem em regiões frias, formando grupos de quatro ou cinco que caçam presas com impressionante coordenação. \n",
+    "Generation": "4",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "4",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+  },
+  {
+    "id": 462,
+    "Name": "Magnezone",
+    "InternalName": "MAGNEZONE",
+    "Type1": "ELÉTRICO",
+    "Type2": "AÇO",
+    "BaseStats": "70,70,115,60,130,90",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "241",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "MAGNETPULL,STURDY",
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "ZAPCANNON"
+      },
+      {
+        "level": 1,
+        "move": "TRIATTACK"
+      },
+      {
+        "level": 1,
+        "move": "BARRIER"
+      },
+      {
+        "level": 1,
+        "move": "MAGNETICFLUX"
+      },
+      {
+        "level": 1,
+        "move": "MIRRORCOAT"
+      },
+      {
+        "level": 1,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERWAVE"
+      },
+      {
+        "level": 5,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 7,
+        "move": "THUNDERWAVE"
+      },
+      {
+        "level": 11,
+        "move": "MAGNETBOMB"
+      },
+      {
+        "level": 13,
+        "move": "LIGHTSCREEN"
+      },
+      {
+        "level": 17,
+        "move": "SONICBOOM"
+      },
+      {
+        "level": 19,
+        "move": "SPARK"
+      },
+      {
+        "level": 23,
+        "move": "MIRRORSHOT"
+      },
+      {
+        "level": 25,
+        "move": "METALSOUND"
+      },
+      {
+        "level": 29,
+        "move": "ELECTROBALL"
+      },
+      {
+        "level": 33,
+        "move": "FLASHCANNON"
+      },
+      {
+        "level": 39,
+        "move": "SCREECH"
+      },
+      {
+        "level": 43,
+        "move": "DISCHARGE"
+      },
+      {
+        "level": 49,
+        "move": "LOCKON"
+      },
+      {
+        "level": 53,
+        "move": "MAGNETRISE"
+      },
+      {
+        "level": 59,
+        "move": "GYROBALL"
+      },
+      {
+        "level": 63,
+        "move": "ZAPCANNON"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "ELECTROWEB",
+      "EXPLOSION",
+      "FACADE",
+      "FLASHCANNON",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "GYROBALL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "IRONDEFENSE",
+      "IRONHEAD",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "MAGNETRISE",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "VOLTSWITCH",
+      "WILDCHARGE"
+    ],
+    "Compatibility": "Mineral",
+    "StepsToHatch": "5120",
+    "Height": "1.2",
+    "Weight": "180.0",
+    "Color": "Gray",
+    "Shape": "HeadArms",
+    "Kind": "Magnet Area",
+    "Pokedex": "Ele evoluiu por exposição a um campo magnético especial. Três unidades geram magnetismo. \n",
+    "Generation": "4",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "15",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "17",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It evolved from exposure to a special magnetic field. Three units generate magnetism."
+  },
+  {
+    "id": 463,
+    "Name": "Lickilicky",
+    "InternalName": "LICKILICKY",
+    "Type1": "NORMAL",
+    "BaseStats": "110,85,95,50,80,95",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "180",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "OWNTEMPO,OBLIVIOUS",
+    "HiddenAbility": "CLOUDNINE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 1,
+        "move": "POWERWHIP"
+      },
+      {
+        "level": 1,
+        "move": "LICK"
+      },
+      {
+        "level": 5,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 9,
+        "move": "DEFENSECURL"
+      },
+      {
+        "level": 13,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 17,
+        "move": "WRAP"
+      },
+      {
+        "level": 21,
+        "move": "STOMP"
+      },
+      {
+        "level": 25,
+        "move": "DISABLE"
+      },
+      {
+        "level": 29,
+        "move": "SLAM"
+      },
+      {
+        "level": 33,
+        "move": "ROLLOUT"
+      },
+      {
+        "level": 37,
+        "move": "CHIPAWAY"
+      },
+      {
+        "level": 41,
+        "move": "MEFIRST"
+      },
+      {
+        "level": 45,
+        "move": "REFRESH"
+      },
+      {
+        "level": 49,
+        "move": "SCREECH"
+      },
+      {
+        "level": 53,
+        "move": "POWERWHIP"
+      },
+      {
+        "level": 57,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 61,
+        "move": "GYROBALL"
+      }
+    ],
+    "TutorMoves": [
+      "AQUATAIL",
+      "ATTRACT",
+      "BIND",
+      "BLIZZARD",
+      "BLOCK",
+      "BRICKBREAK",
+      "BRUTALSWING",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "DRAGONTAIL",
+      "DREAMEATER",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPUNCH",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GYROBALL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SANDSTORM",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SURF",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "THIEF",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "TOXIC",
+      "WATERPULSE",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Monster",
+    "StepsToHatch": "5120",
+    "Height": "1.7",
+    "Weight": "140.0",
+    "Color": "Pink",
+    "Shape": "Bipedal",
+    "Kind": "Licking",
+    "Pokedex": "Ele envolve coisas com sua língua extenível. Se aproximar demais dele te deixará encharcado de saliva. \n",
+    "Generation": "4",
+    "WildItemUncommon": "LAGGINGTAIL",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool."
+  },
+  {
+    "id": 464,
+    "Name": "Rhyperior",
+    "InternalName": "RHYPERIOR",
+    "Type1": "TERRA",
+    "Type2": "PEDRA",
+    "BaseStats": "115,140,130,40,55,55",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "241",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "LIGHTNINGROD,SOLIDROCK",
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "HAMMERARM"
+      },
+      {
+        "level": 1,
+        "move": "ROCKWRECKER"
+      },
+      {
+        "level": 1,
+        "move": "HORNDRILL"
+      },
+      {
+        "level": 1,
+        "move": "POISONJAB"
+      },
+      {
+        "level": 1,
+        "move": "HORNATTACK"
+      },
+      {
+        "level": 1,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 1,
+        "move": "FURYATTACK"
+      },
+      {
+        "level": 1,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 5,
+        "move": "FURYATTACK"
+      },
+      {
+        "level": 9,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 13,
+        "move": "SMACKDOWN"
+      },
+      {
+        "level": 17,
+        "move": "STOMP"
+      },
+      {
+        "level": 21,
+        "move": "BULLDOZE"
+      },
+      {
+        "level": 25,
+        "move": "CHIPAWAY"
+      },
+      {
+        "level": 29,
+        "move": "ROCKBLAST"
+      },
+      {
+        "level": 33,
+        "move": "DRILLRUN"
+      },
+      {
+        "level": 37,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 41,
+        "move": "STONEEDGE"
+      },
+      {
+        "level": 48,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 55,
+        "move": "MEGAHORN"
+      },
+      {
+        "level": 62,
+        "move": "HORNDRILL"
+      },
+      {
+        "level": 69,
+        "move": "ROCKWRECKER"
+      }
+    ],
+    "TutorMoves": [
+      "AQUATAIL",
+      "ATTRACT",
+      "BLIZZARD",
+      "BLOCK",
+      "BRICKBREAK",
+      "BRUTALSWING",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "DRAGONPULSE",
+      "DRAGONTAIL",
+      "DRILLRUN",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ENDEAVOR",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPUNCH",
+      "FLAMETHROWER",
+      "FLASHCANNON",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONHEAD",
+      "IRONTAIL",
+      "OUTRAGE",
+      "PAYBACK",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKPOLISH",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SANDSTORM",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SMACKDOWN",
+      "SMARTSTRIKE",
+      "SNORE",
+      "SPITE",
+      "STEALTHROCK",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERPOWER",
+      "SURF",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "THIEF",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "TOXIC",
+      "UPROAR"
+    ],
+    "Compatibility": "Monster,Field",
+    "StepsToHatch": "5120",
+    "Height": "2.4",
+    "Weight": "282.8",
+    "Color": "Gray",
+    "Shape": "BipedalTail",
+    "Kind": "Drill",
+    "Pokedex": "Ele coloca rochas em buracos nas palmas das suas mãos e usa seus músculos para dispará-las. Geodude são disparados com raridade. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "14",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "11",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times."
+  },
+  {
+    "id": 465,
+    "Name": "Tangrowth",
+    "InternalName": "TANGROWTH",
+    "Type1": "GRAMA",
+    "BaseStats": "100,100,125,50,110,50",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "187",
+    "EffortPoints": "0,0,2,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL,LEAFGUARD",
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "BLOCK"
+      },
+      {
+        "level": 1,
+        "move": "INGRAIN"
+      },
+      {
+        "level": 1,
+        "move": "CONSTRICT"
+      },
+      {
+        "level": 4,
+        "move": "SLEEPPOWDER"
+      },
+      {
+        "level": 7,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 10,
+        "move": "ABSORB"
+      },
+      {
+        "level": 14,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 17,
+        "move": "BIND"
+      },
+      {
+        "level": 20,
+        "move": "GROWTH"
+      },
+      {
+        "level": 23,
+        "move": "MEGADRAIN"
+      },
+      {
+        "level": 27,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 30,
+        "move": "STUNSPORE"
+      },
+      {
+        "level": 33,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 36,
+        "move": "GIGADRAIN"
+      },
+      {
+        "level": 40,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 43,
+        "move": "SLAM"
+      },
+      {
+        "level": 46,
+        "move": "TICKLE"
+      },
+      {
+        "level": 49,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 53,
+        "move": "POWERWHIP"
+      },
+      {
+        "level": 56,
+        "move": "BLOCK"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ATTRACT",
+      "BIND",
+      "BLOCK",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "EARTHQUAKE",
+      "ENDEAVOR",
+      "ENERGYBALL",
+      "FACADE",
+      "FLING",
+      "FOCUSBLAST",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "INFESTATION",
+      "KNOCKOFF",
+      "NATUREPOWER",
+      "PAINSPLIT",
+      "PAYBACK",
+      "POISONJAB",
+      "PROTECT",
+      "PSYCHUP",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SEEDBOMB",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "THIEF",
+      "TOXIC",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Grass",
+    "StepsToHatch": "5120",
+    "Height": "2.0",
+    "Weight": "128.6",
+    "Color": "Blue",
+    "Shape": "Bipedal",
+    "Kind": "Vine",
+    "Pokedex": "Ele captura presas ao estender braços feitos de ervas. Perder braços para predadores não o perturba. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "18",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "22",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it."
+  },
+  {
+    "id": 466,
+    "Name": "Electivire",
+    "InternalName": "ELECTIVIRE",
+    "Type1": "ELÉTRICO",
+    "BaseStats": "75,123,67,95,95,85",
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "243",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "MOTORDRIVE",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "IONDELUGE"
+      },
+      {
+        "level": 1,
+        "move": "FIREPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 1,
+        "move": "LOWKICK"
+      },
+      {
+        "level": 5,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 8,
+        "move": "LOWKICK"
+      },
+      {
+        "level": 12,
+        "move": "SWIFT"
+      },
+      {
+        "level": 15,
+        "move": "SHOCKWAVE"
+      },
+      {
+        "level": 19,
+        "move": "THUNDERWAVE"
+      },
+      {
+        "level": 22,
+        "move": "ELECTROBALL"
+      },
+      {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+      },
+      {
+        "level": 29,
+        "move": "THUNDERPUNCH"
+      },
+      {
+        "level": 36,
+        "move": "DISCHARGE"
+      },
+      {
+        "level": 42,
+        "move": "SCREECH"
+      },
+      {
+        "level": 49,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 55,
+        "move": "THUNDER"
+      },
+      {
+        "level": 62,
+        "move": "GIGAIMPACT"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "DUALCHOP",
+      "EARTHQUAKE",
+      "ELECTROWEB",
+      "FACADE",
+      "FIREPUNCH",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "IRONTAIL",
+      "LIGHTSCREEN",
+      "LOWKICK",
+      "LOWSWEEP",
+      "MAGNETRISE",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SWAGGER",
+      "TAUNT",
+      "THIEF",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "VOLTSWITCH",
+      "WILDCHARGE"
+    ],
+    "Compatibility": "Humanlike",
+    "StepsToHatch": "6400",
+    "Height": "1.8",
+    "Weight": "138.6",
+    "Color": "Yellow",
+    "Shape": "BipedalTail",
+    "Kind": "Thunderbolt",
+    "Pokedex": "Ele empurra as pontas de seus dois caudas contra o inimigo, e depois libera 20.000 volts de poder. \n",
+    "Generation": "4",
+    "WildItemUncommon": "ELECTIRIZER",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "11",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "12",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power."
+  },
+  {
+    "id": 467,
+    "Name": "Magmortar",
+    "InternalName": "MAGMORTAR",
+    "Type1": "FOGO",
+    "BaseStats": "75,95,67,83,125,95",
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "243",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "SMOG"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "EMBER"
+      },
+      {
+        "level": 1,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 5,
+        "move": "EMBER"
+      },
+      {
+        "level": 8,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 12,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 15,
+        "move": "FIRESPIN"
+      },
+      {
+        "level": 19,
+        "move": "CLEARSMOG"
+      },
+      {
+        "level": 22,
+        "move": "FLAMEBURST"
+      },
+      {
+        "level": 26,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 29,
+        "move": "FIREPUNCH"
+      },
+      {
+        "level": 36,
+        "move": "LAVAPLUME"
+      },
+      {
+        "level": 42,
+        "move": "SUNNYDAY"
+      },
+      {
+        "level": 49,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 55,
+        "move": "FIREBLAST"
+      },
+      {
+        "level": 62,
+        "move": "HYPERBEAM"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "DUALCHOP",
+      "EARTHQUAKE",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPUNCH",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HEATWAVE",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "IRONTAIL",
+      "LOWKICK",
+      "LOWSWEEP",
+      "OVERHEAT",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "THIEF",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "TORMENT",
+      "TOXIC",
+      "WILLOWISP"
+    ],
+    "Compatibility": "Humanlike",
+    "StepsToHatch": "6400",
+    "Height": "1.6",
+    "Weight": "68.0",
+    "Color": "Red",
+    "Shape": "BipedalTail",
+    "Kind": "Blast",
+    "Pokedex": "Ele lança bolas de fogo de mais de 3.600 graus F dos extremos de seus braços. Ele vive em crateras vulcânicas. \n",
+    "Generation": "4",
+    "WildItemUncommon": "MAGMARIZER",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "7",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "7",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters."
+  },
+  {
+    "id": 468,
+    "Name": "Togekiss",
+    "InternalName": "TOGEKISS",
+    "Type1": "FADA",
+    "Type2": "VOADOR",
+    "BaseStats": "85,50,95,80,120,115",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Fast",
+    "BaseEXP": "245",
+    "EffortPoints": "0,0,0,0,2,1",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "HUSTLE,SERENEGRACE",
+    "HiddenAbility": "SUPERLUCK",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "AFTERYOU"
+      },
+      {
+        "level": 1,
+        "move": "SKYATTACK"
+      },
+      {
+        "level": 1,
+        "move": "EXTREMESPEED"
+      },
+      {
+        "level": 1,
+        "move": "AURASPHERE"
+      },
+      {
+        "level": 1,
+        "move": "AIRSLASH"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AFTERYOU",
+      "ATTRACT",
+      "BRICKBREAK",
+      "CONFIDE",
+      "COVET",
+      "DAZZLINGGLEAM",
+      "DEFOG",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "DREAMEATER",
+      "ECHOEDVOICE",
+      "ENDEAVOR",
+      "FACADE",
+      "FIREBLAST",
+      "FLAMETHROWER",
+      "FLING",
+      "FLY",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HEALBELL",
+      "HEATWAVE",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROOST",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKYATTACK",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STEELWING",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAILWIND",
+      "TELEKINESIS",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "WATERPULSE",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Flying,Fairy",
+    "StepsToHatch": "2560",
+    "Height": "1.5",
+    "Weight": "38.0",
+    "Color": "White",
+    "Shape": "Winged",
+    "Kind": "Jubilee",
+    "Pokedex": "Ele nunca aparecerá onde há conflito. Seus avistamentos se tornaram raros ultimamente. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "19",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "23",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It will never appear where there is strife. Its sightings have become rare recently."
+  },
+  {
+    "id": 469,
+    "Name": "Yanmega",
+    "InternalName": "YANMEGA",
+    "Type1": "INSETO",
+    "Type2": "VOADOR",
+    "BaseStats": "86,76,86,95,116,56",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "180",
+    "EffortPoints": "0,2,0,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "SPEEDBOOST,TINTEDLENS",
+    "HiddenAbility": "FRISK",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "BUGBUZZ"
+      },
+      {
+        "level": 1,
+        "move": "AIRSLASH"
+      },
+      {
+        "level": 1,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 1,
+        "move": "BUGBITE"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "FORESIGHT"
+      },
+      {
+        "level": 1,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 1,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 6,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 11,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 14,
+        "move": "SONICBOOM"
+      },
+      {
+        "level": 17,
+        "move": "DETECT"
+      },
+      {
+        "level": 22,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 27,
+        "move": "UPROAR"
+      },
+      {
+        "level": 30,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 38,
+        "move": "FEINT"
+      },
+      {
+        "level": 43,
+        "move": "SLASH"
+      },
+      {
+        "level": 46,
+        "move": "SCREECH"
+      },
+      {
+        "level": 49,
+        "move": "UTURN"
+      },
+      {
+        "level": 54,
+        "move": "AIRSLASH"
+      },
+      {
+        "level": 57,
+        "move": "BUGBUZZ"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ATTRACT",
+      "BUGBITE",
+      "CONFIDE",
+      "DEFOG",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "LASERFOCUS",
+      "LEECHLIFE",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "REST",
+      "RETURN",
+      "ROOST",
+      "ROUND",
+      "SHADOWBALL",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STEELWING",
+      "STRUGGLEBUG",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAILWIND",
+      "THIEF",
+      "TOXIC",
+      "UPROAR",
+      "UTURN"
+    ],
+    "Compatibility": "Bug",
+    "StepsToHatch": "5120",
+    "Height": "1.9",
+    "Weight": "51.5",
+    "Color": "Green",
+    "Shape": "MultiWinged",
+    "Kind": "Ogre Darner",
+    "Pokedex": "Ao turbinar suas asas, ele cria ondas de choque que infligem ferimentos internos críticos aos inimigos. \n",
+    "Generation": "4",
+    "WildItemUncommon": "WIDELENS",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "28",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "22",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes."
+  },
+  {
+    "id": 470,
+    "Name": "Leafeon",
+    "InternalName": "LEAFEON",
+    "Type1": "GRAMA",
+    "BaseStats": "65,110,130,95,60,65",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": "0,0,2,0,0,0",
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "LEAFGUARD",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 1,
+        "move": "RAZORLEAF"
+      },
+      {
+        "level": 1,
+        "move": "HELPINGHAND"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 5,
+        "move": "SANDATTACK"
+      },
+      {
+        "level": 9,
+        "move": "BABYDOLLEYES"
+      },
+      {
+        "level": 13,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 17,
+        "move": "GRASSWHISTLE"
+      },
+      {
+        "level": 20,
+        "move": "MAGICALLEAF"
+      },
+      {
+        "level": 25,
+        "move": "GIGADRAIN"
+      },
+      {
+        "level": 29,
+        "move": "SWORDSDANCE"
+      },
+      {
+        "level": 33,
+        "move": "SYNTHESIS"
+      },
+      {
+        "level": 37,
+        "move": "SUNNYDAY"
+      },
+      {
+        "level": 41,
+        "move": "LASTRESORT"
+      },
+      {
+        "level": 45,
+        "move": "LEAFBLADE"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ATTRACT",
+      "CELEBRATE",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HEALBELL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "NATUREPOWER",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSMASH",
+      "ROUND",
+      "SEEDBOMB",
+      "SHADOWBALL",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "WORKUP",
+      "WORRYSEED",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "8960",
+    "Height": "1.0",
+    "Weight": "25.5",
+    "Color": "Green",
+    "Shape": "Quadruped",
+    "Kind": "Verdant",
+    "Pokedex": "Assim como uma planta, ele usa fotossíntese. Como resultado, ele está sempre envolvido em ar claro. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "8",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "6",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air."
+  },
+  {
+    "id": 471,
+    "Name": "Glaceon",
+    "InternalName": "GLACEON",
+    "Type1": "GELO",
+    "BaseStats": "65,60,110,65,130,95",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": "0,0,0,0,2,0",
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "ICEBODY",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 1,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 1,
+        "move": "HELPINGHAND"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 5,
+        "move": "SANDATTACK"
+      },
+      {
+        "level": 9,
+        "move": "BABYDOLLEYES"
+      },
+      {
+        "level": 13,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 17,
+        "move": "BITE"
+      },
+      {
+        "level": 20,
+        "move": "ICEFANG"
+      },
+      {
+        "level": 25,
+        "move": "ICESHARD"
+      },
+      {
+        "level": 29,
+        "move": "BARRIER"
+      },
+      {
+        "level": 33,
+        "move": "MIRRORCOAT"
+      },
+      {
+        "level": 37,
+        "move": "HAIL"
+      },
+      {
+        "level": 41,
+        "move": "LASTRESORT"
+      },
+      {
+        "level": 45,
+        "move": "BLIZZARD"
+      }
+    ],
+    "TutorMoves": [
+      "AQUATAIL",
+      "ATTRACT",
+      "AURORAVEIL",
+      "BLIZZARD",
+      "CELEBRATE",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "FACADE",
+      "FROSTBREATH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HAIL",
+      "HEALBELL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICEBEAM",
+      "ICYWIND",
+      "IRONTAIL",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSMASH",
+      "ROUND",
+      "SHADOWBALL",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TOXIC",
+      "WATERPULSE",
+      "WORKUP"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "8960",
+    "Height": "0.8",
+    "Weight": "25.9",
+    "Color": "Blue",
+    "Shape": "Quadruped",
+    "Kind": "Fresh Snow",
+    "Pokedex": "Como técnica de proteção, ele pode congelar completamente sua pelagem para fazer seus pelos ficarem como agulhas. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "8",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "16",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles."
+  },
+  {
+    "id": 472,
+    "Name": "Gliscor",
+    "InternalName": "GLISCOR",
+    "Type1": "TERRA",
+    "Type2": "VOADOR",
+    "BaseStats": "75,95,125,95,45,75",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": "0,0,2,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "HYPERCUTTER,SANDVEIL",
+    "HiddenAbility": "POISONHEAL",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "GUILLOTINE"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERFANG"
+      },
+      {
+        "level": 1,
+        "move": "ICEFANG"
+      },
+      {
+        "level": 1,
+        "move": "FIREFANG"
+      },
+      {
+        "level": 1,
+        "move": "POISONJAB"
+      },
+      {
+        "level": 1,
+        "move": "SANDATTACK"
+      },
+      {
+        "level": 1,
+        "move": "HARDEN"
+      },
+      {
+        "level": 1,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 4,
+        "move": "SANDATTACK"
+      },
+      {
+        "level": 7,
+        "move": "HARDEN"
+      },
+      {
+        "level": 10,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 13,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 16,
+        "move": "FURYCUTTER"
+      },
+      {
+        "level": 19,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 22,
+        "move": "ACROBATICS"
+      },
+      {
+        "level": 27,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 30,
+        "move": "UTURN"
+      },
+      {
+        "level": 35,
+        "move": "SCREECH"
+      },
+      {
+        "level": 40,
+        "move": "XSCISSOR"
+      },
+      {
+        "level": 45,
+        "move": "SKYUPPERCUT"
+      },
+      {
+        "level": 50,
+        "move": "SWORDSDANCE"
+      },
+      {
+        "level": 55,
+        "move": "GUILLOTINE"
+      }
+    ],
+    "TutorMoves": [
+      "ACROBATICS",
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BRICKBREAK",
+      "BRUTALSWING",
+      "BUGBITE",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DEFOG",
+      "DOUBLETEAM",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "FACADE",
+      "FALSESWIPE",
+      "FLING",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "PAYBACK",
+      "POISONJAB",
+      "PROTECT",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKPOLISH",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROOST",
+      "ROUND",
+      "SANDSTORM",
+      "SKYATTACK",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNORE",
+      "STEALTHROCK",
+      "STEELWING",
+      "STONEEDGE",
+      "STRENGTH",
+      "STRUGGLEBUG",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAILWIND",
+      "TAUNT",
+      "THIEF",
+      "THROATCHOP",
+      "TORMENT",
+      "TOXIC",
+      "UTURN",
+      "VENOSHOCK",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Bug",
+    "StepsToHatch": "5120",
+    "Height": "2.0",
+    "Weight": "42.5",
+    "Color": "Purple",
+    "Shape": "Winged",
+    "Kind": "Fang Scorpion",
+    "Pokedex": "Ele observa presas enquanto se agacha de forma invertida de ramos. Quando a oportunidade se apresenta, ele se precipita! \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "14",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "21",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!"
+  },
+  {
+    "id": 473,
+    "Name": "Mamoswine",
+    "InternalName": "MAMOSWINE",
+    "Type1": "GELO",
+    "Type2": "TERRA",
+    "BaseStats": "110,130,80,80,70,60",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "239",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": "OBLIVIOUS,SNOWCLOAK",
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "FURYATTACK"
+      },
+      {
+        "level": 1,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 1,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 1,
+        "move": "PECK"
+      },
+      {
+        "level": 1,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 1,
+        "move": "MUDSPORT"
+      },
+      {
+        "level": 1,
+        "move": "POWDERSNOW"
+      },
+      {
+        "level": 5,
+        "move": "MUDSPORT"
+      },
+      {
+        "level": 8,
+        "move": "POWDERSNOW"
+      },
+      {
+        "level": 11,
+        "move": "MUDSLAP"
+      },
+      {
+        "level": 14,
+        "move": "ENDURE"
+      },
+      {
+        "level": 18,
+        "move": "MUDBOMB"
+      },
+      {
+        "level": 21,
+        "move": "HAIL"
+      },
+      {
+        "level": 24,
+        "move": "ICEFANG"
+      },
+      {
+        "level": 28,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 33,
+        "move": "DOUBLEHIT"
+      },
+      {
+        "level": 37,
+        "move": "MIST"
+      },
+      {
+        "level": 41,
+        "move": "THRASH"
+      },
+      {
+        "level": 46,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 52,
+        "move": "BLIZZARD"
+      },
+      {
+        "level": 58,
+        "move": "SCARYFACE"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BLIZZARD",
+      "BLOCK",
+      "BULLDOZE",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ENDEAVOR",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "IRONHEAD",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "PROTECT",
+      "RAINDANCE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SANDSTORM",
+      "SLEEPTALK",
+      "SNORE",
+      "STEALTHROCK",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUPERPOWER",
+      "SWAGGER",
+      "TOXIC"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "5120",
+    "Height": "2.5",
+    "Weight": "291.0",
+    "Color": "Brown",
+    "Shape": "Quadruped",
+    "Kind": "Twin Tusk",
+    "Pokedex": "Seus impressionantes dentes de tai são feitos de gelo. A população diminuiu quando ele se aqueceu após a era glacial. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "5",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "10",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age."
+  },
+  {
+    "id": 474,
+    "Name": "Porygon-Z",
+    "InternalName": "PORYGONZ",
+    "Type1": "NORMAL",
+    "BaseStats": "85,80,70,90,135,75",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "241",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "ADAPTABILITY,DOWNLOAD",
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TRICKROOM"
+      },
+      {
+        "level": 1,
+        "move": "ZAPCANNON"
+      },
+      {
+        "level": 1,
+        "move": "MAGICCOAT"
+      },
+      {
+        "level": 1,
+        "move": "CONVERSION2"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "CONVERSION"
+      },
+      {
+        "level": 1,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 7,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 12,
+        "move": "AGILITY"
+      },
+      {
+        "level": 18,
+        "move": "RECOVER"
+      },
+      {
+        "level": 23,
+        "move": "MAGNETRISE"
+      },
+      {
+        "level": 29,
+        "move": "SIGNALBEAM"
+      },
+      {
+        "level": 34,
+        "move": "EMBARGO"
+      },
+      {
+        "level": 40,
+        "move": "DISCHARGE"
+      },
+      {
+        "level": 45,
+        "move": "LOCKON"
+      },
+      {
+        "level": 50,
+        "move": "TRIATTACK"
+      },
+      {
+        "level": 56,
+        "move": "MAGICCOAT"
+      },
+      {
+        "level": 62,
+        "move": "ZAPCANNON"
+      },
+      {
+        "level": 67,
+        "move": "HYPERBEAM"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ALLYSWITCH",
+      "BLIZZARD",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ELECTROWEB",
+      "EMBARGO",
+      "FACADE",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "IRONTAIL",
+      "LASTRESORT",
+      "MAGICCOAT",
+      "MAGNETRISE",
+      "PAINSPLIT",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THIEF",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "UPROAR",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Mineral",
+    "StepsToHatch": "5120",
+    "Height": "0.9",
+    "Weight": "34.0",
+    "Color": "Red",
+    "Shape": "HeadArms",
+    "Kind": "Virtual",
+    "Pokedex": "Software adicional foi instalado para torná-lo um Pokémon melhor. No entanto, começou a agir de forma estranha. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Additional software was installed to make it a better Pokémon. It began acting oddly, however."
+  },
+  {
+    "id": 475,
+    "Name": "Gallade",
+    "InternalName": "GALLADE",
+    "Type1": "PSÍQUICO",
+    "Type2": "LUTADOR",
+    "BaseStats": "68,125,65,80,65,115",
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "233",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "STEADFAST",
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "SLASH"
+      },
+      {
+        "level": 1,
+        "move": "SLASH"
+      },
+      {
+        "level": 1,
+        "move": "STOREDPOWER"
+      },
+      {
+        "level": 1,
+        "move": "CLOSECOMBAT"
+      },
+      {
+        "level": 1,
+        "move": "LEAFBLADE"
+      },
+      {
+        "level": 1,
+        "move": "NIGHTSLASH"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 1,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 1,
+        "move": "TELEPORT"
+      },
+      {
+        "level": 4,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 6,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 9,
+        "move": "TELEPORT"
+      },
+      {
+        "level": 11,
+        "move": "QUICKGUARD"
+      },
+      {
+        "level": 14,
+        "move": "FURYCUTTER"
+      },
+      {
+        "level": 17,
+        "move": "AERIALACE"
+      },
+      {
+        "level": 19,
+        "move": "HEALPULSE"
+      },
+      {
+        "level": 23,
+        "move": "WIDEGUARD"
+      },
+      {
+        "level": 26,
+        "move": "SWORDSDANCE"
+      },
+      {
+        "level": 31,
+        "move": "PSYCHOCUT"
+      },
+      {
+        "level": 35,
+        "move": "HELPINGHAND"
+      },
+      {
+        "level": 40,
+        "move": "FEINT"
+      },
+      {
+        "level": 44,
+        "move": "FALSESWIPE"
+      },
+      {
+        "level": 49,
+        "move": "PROTECT"
+      },
+      {
+        "level": 53,
+        "move": "CLOSECOMBAT"
+      },
+      {
+        "level": 58,
+        "move": "STOREDPOWER"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "ALLYSWITCH",
+      "ATTRACT",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "CUT",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "DREAMEATER",
+      "DUALCHOP",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "FACADE",
+      "FALSESWIPE",
+      "FIREPUNCH",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICEPUNCH",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LIGHTSCREEN",
+      "LOWKICK",
+      "LOWSWEEP",
+      "MAGICCOAT",
+      "MAGICROOM",
+      "PAINSPLIT",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "TELEKINESIS",
+      "THIEF",
+      "THROATCHOP",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "WILLOWISP",
+      "WONDERROOM",
+      "WORKUP",
+      "XSCISSOR",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Amorphous",
+    "StepsToHatch": "5120",
+    "Height": "1.6",
+    "Weight": "52.0",
+    "Color": "White",
+    "Shape": "Bipedal",
+    "Kind": "Blade",
+    "Pokedex": "Um mestre de cortesia e esgrima, ele luta usando espadas que se estendem nos cotovelos. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows."
+  },
+  {
+    "id": 476,
+    "Name": "Probopass",
+    "InternalName": "PROBOPASS",
+    "Type1": "PEDRA",
+    "Type2": "AÇO",
+    "BaseStats": "60,55,145,40,75,150",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": "0,0,1,0,0,2",
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "STURDY,MAGNETPULL",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "TRIATTACK"
+      },
+      {
+        "level": 1,
+        "move": "TRIATTACK"
+      },
+      {
+        "level": 1,
+        "move": "MAGNETICFLUX"
+      },
+      {
+        "level": 1,
+        "move": "MAGNETRISE"
+      },
+      {
+        "level": 1,
+        "move": "GRAVITY"
+      },
+      {
+        "level": 1,
+        "move": "WIDEGUARD"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "IRONDEFENSE"
+      },
+      {
+        "level": 1,
+        "move": "BLOCK"
+      },
+      {
+        "level": 1,
+        "move": "MAGNETBOMB"
+      },
+      {
+        "level": 4,
+        "move": "IRONDEFENSE"
+      },
+      {
+        "level": 7,
+        "move": "BLOCK"
+      },
+      {
+        "level": 10,
+        "move": "MAGNETBOMB"
+      },
+      {
+        "level": 13,
+        "move": "THUNDERWAVE"
+      },
+      {
+        "level": 16,
+        "move": "REST"
+      },
+      {
+        "level": 19,
+        "move": "SPARK"
+      },
+      {
+        "level": 22,
+        "move": "ROCKSLIDE"
+      },
+      {
+        "level": 25,
+        "move": "POWERGEM"
+      },
+      {
+        "level": 28,
+        "move": "ROCKBLAST"
+      },
+      {
+        "level": 31,
+        "move": "DISCHARGE"
+      },
+      {
+        "level": 34,
+        "move": "SANDSTORM"
+      },
+      {
+        "level": 37,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 40,
+        "move": "STONEEDGE"
+      },
+      {
+        "level": 43,
+        "move": "LOCKON"
+      },
+      {
+        "level": 43,
+        "move": "ZAPCANNON"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "ATTRACT",
+      "BLOCK",
+      "BULLDOZE",
+      "CONFIDE",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FACADE",
+      "FIREPUNCH",
+      "FLASHCANNON",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "IRONDEFENSE",
+      "IRONHEAD",
+      "MAGICCOAT",
+      "MAGNETRISE",
+      "PAINSPLIT",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROCKPOLISH",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SANDSTORM",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SMACKDOWN",
+      "SNORE",
+      "STEALTHROCK",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "VOLTSWITCH"
+    ],
+    "Compatibility": "Mineral",
+    "StepsToHatch": "5120",
+    "Height": "1.4",
+    "Weight": "340.0",
+    "Color": "Gray",
+    "Shape": "MultiBody",
+    "Kind": "Compass",
+    "Pokedex": "Ele exala um forte magnetismo por todo o seu corpo. Ele controla três pequenos unidades chamadas Mini-Noses. \n",
+    "Generation": "4",
+    "WildItemUncommon": "MAGNET",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses."
+  },
+  {
+    "id": 477,
+    "Name": "Dusknoir",
+    "InternalName": "DUSKNOIR",
+    "Type1": "FANTASMA",
+    "BaseStats": "45,100,135,45,65,135",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "236",
+    "EffortPoints": "0,0,1,0,0,2",
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "FRISK",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "SHADOWPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 1,
+        "move": "FIREPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "ICEPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "GRAVITY"
+      },
+      {
+        "level": 1,
+        "move": "BIND"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "NIGHTSHADE"
+      },
+      {
+        "level": 1,
+        "move": "DISABLE"
+      },
+      {
+        "level": 1,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 6,
+        "move": "DISABLE"
+      },
+      {
+        "level": 9,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 14,
+        "move": "FORESIGHT"
+      },
+      {
+        "level": 17,
+        "move": "SHADOWSNEAK"
+      },
+      {
+        "level": 22,
+        "move": "PURSUIT"
+      },
+      {
+        "level": 25,
+        "move": "WILLOWISP"
+      },
+      {
+        "level": 30,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 33,
+        "move": "CURSE"
+      },
+      {
+        "level": 40,
+        "move": "HEX"
+      },
+      {
+        "level": 45,
+        "move": "SHADOWBALL"
+      },
+      {
+        "level": 52,
+        "move": "MEANLOOK"
+      },
+      {
+        "level": 57,
+        "move": "PAYBACK"
+      },
+      {
+        "level": 64,
+        "move": "FUTURESIGHT"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "ATTRACT",
+      "BIND",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "EARTHQUAKE",
+      "EMBARGO",
+      "FACADE",
+      "FIREPUNCH",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "INFESTATION",
+      "LASERFOCUS",
+      "PAINSPLIT",
+      "PAYBACK",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SHADOWBALL",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "TELEKINESIS",
+      "THIEF",
+      "THUNDERPUNCH",
+      "TORMENT",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "WILLOWISP",
+      "WONDERROOM"
+    ],
+    "Compatibility": "Amorphous",
+    "StepsToHatch": "6400",
+    "Height": "2.2",
+    "Weight": "106.6",
+    "Color": "Black",
+    "Shape": "HeadArms",
+    "Kind": "Gripper",
+    "Pokedex": "O antena na cabeça captura ondas de rádio do mundo dos espíritos que o comandam a levar pessoas para lá. \n",
+    "Generation": "4",
+    "WildItemUncommon": "SPELLTAG",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "4",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "The antenna on its head captures radio waves from the world of spirits that command it to take people there."
+  },
+  {
+    "id": 478,
+    "Name": "Froslass",
+    "InternalName": "FROSLASS",
+    "Type1": "GELO",
+    "Type2": "FANTASMA",
+    "BaseStats": "70,80,70,110,80,70",
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": "0,0,0,2,0,0",
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "CURSEDBODY",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "OMINOUSWIND"
+      },
+      {
+        "level": 1,
+        "move": "OMINOUSWIND"
+      },
+      {
+        "level": 1,
+        "move": "DESTINYBOND"
+      },
+      {
+        "level": 1,
+        "move": "POWDERSNOW"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 1,
+        "move": "ICESHARD"
+      },
+      {
+        "level": 5,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 10,
+        "move": "ICESHARD"
+      },
+      {
+        "level": 14,
+        "move": "ICYWIND"
+      },
+      {
+        "level": 19,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 23,
+        "move": "DRAININGKISS"
+      },
+      {
+        "level": 28,
+        "move": "WILLOWISP"
+      },
+      {
+        "level": 32,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 37,
+        "move": "WAKEUPSLAP"
+      },
+      {
+        "level": 41,
+        "move": "CAPTIVATE"
+      },
+      {
+        "level": 42,
+        "move": "SHADOWBALL"
+      },
+      {
+        "level": 48,
+        "move": "BLIZZARD"
+      },
+      {
+        "level": 54,
+        "move": "HAIL"
+      },
+      {
+        "level": 61,
+        "move": "DESTINYBOND"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "ATTRACT",
+      "AURORAVEIL",
+      "BLIZZARD",
+      "BLOCK",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "EMBARGO",
+      "FACADE",
+      "FLING",
+      "FROSTBREATH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "LASERFOCUS",
+      "LIGHTSCREEN",
+      "PAINSPLIT",
+      "PAYBACK",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "SUBSTITUTE",
+      "SWAGGER",
+      "TAUNT",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "TRICK",
+      "WATERPULSE",
+      "WILLOWISP"
+    ],
+    "Compatibility": "Fairy,Mineral",
+    "StepsToHatch": "5120",
+    "Height": "1.3",
+    "Weight": "26.6",
+    "Color": "White",
+    "Shape": "HeadArms",
+    "Kind": "Snow Land",
+    "Pokedex": "Ele congela inimigos com um sopro de gelo quase -60 graus F. O que parece ser seu corpo é realmente vazio. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "8",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "12",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow."
+  },
+  {
+    "id": 479,
+    "Name": "Rotom",
+    "InternalName": "ROTOM",
+    "Type1": "ELÉTRICO",
+    "Type2": "FANTASMA",
+    "BaseStats": "50,50,77,91,95,77",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "154",
+    "EffortPoints": "0,0,0,1,1,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "DISCHARGE"
+      },
+      {
+        "level": 1,
+        "move": "CHARGE"
+      },
+      {
+        "level": 1,
+        "move": "TRICK"
+      },
+      {
+        "level": 1,
+        "move": "ASTONISH"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERWAVE"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 8,
+        "move": "UPROAR"
+      },
+      {
+        "level": 15,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 22,
+        "move": "SHOCKWAVE"
+      },
+      {
+        "level": 29,
+        "move": "OMINOUSWIND"
+      },
+      {
+        "level": 36,
+        "move": "SUBSTITUTE"
+      },
+      {
+        "level": 43,
+        "move": "ELECTROBALL"
+      },
+      {
+        "level": 50,
+        "move": "HEX"
+      },
+      {
+        "level": 57,
+        "move": "CHARGE"
+      },
+      {
+        "level": 64,
+        "move": "DISCHARGE"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DARKPULSE",
+      "DEFOG",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ELECTROWEB",
+      "FACADE",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "HIDDENPOWER",
+      "LIGHTSCREEN",
+      "PAINSPLIT",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THIEF",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "UPROAR",
+      "VOLTSWITCH",
+      "WILLOWISP"
+    ],
+    "Compatibility": "Amorphous",
+    "StepsToHatch": "5120",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Red",
+    "Shape": "Head",
+    "Kind": "Plasma",
+    "Pokedex": "Seu corpo é composto por plasma. É conhecido por infiltrar dispositivos eletrônicos e causar caos. \n",
+    "FormName": "Rotom",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "16",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "20",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc."
+  },
+  {
+    "id": 480,
+    "Name": "Uxie",
+    "InternalName": "UXIE",
+    "Type1": "PSÍQUICO",
+    "BaseStats": "75,75,130,95,75,130",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": "0,0,2,0,0,1",
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "MEMENTO"
+      },
+      {
+        "level": 1,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 1,
+        "move": "FLAIL"
+      },
+      {
+        "level": 1,
+        "move": "REST"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 6,
+        "move": "IMPRISON"
+      },
+      {
+        "level": 16,
+        "move": "ENDURE"
+      },
+      {
+        "level": 21,
+        "move": "SWIFT"
+      },
+      {
+        "level": 31,
+        "move": "YAWN"
+      },
+      {
+        "level": 36,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 46,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 50,
+        "move": "EXTRASENSORY"
+      },
+      {
+        "level": 61,
+        "move": "FLAIL"
+      },
+      {
+        "level": 66,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 76,
+        "move": "MEMENTO"
+      }
+    ],
+    "TutorMoves": [
+      "ACROBATICS",
+      "ALLYSWITCH",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ENERGYBALL",
+      "FACADE",
+      "FIREPUNCH",
+      "FLING",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HEALBELL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "MAGICROOM",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STEALTHROCK",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "UTURN",
+      "WATERPULSE",
+      "WONDERROOM",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "20480",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Yellow",
+    "Shape": "BipedalTail",
+    "Kind": "Knowledge",
+    "Pokedex": "Conhecido como \"O Ser do Conhecimento\". Diz-se que ele pode apagar a memória das pessoas que veem seus olhos. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "5",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "10",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes."
+  },
+  {
+    "id": 481,
+    "Name": "Mesprit",
+    "InternalName": "MESPRIT",
+    "Type1": "PSÍQUICO",
+    "BaseStats": "80,105,105,80,105,105",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": "0,1,0,0,1,1",
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "HEALINGWISH"
+      },
+      {
+        "level": 1,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 1,
+        "move": "COPYCAT"
+      },
+      {
+        "level": 1,
+        "move": "REST"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 6,
+        "move": "IMPRISON"
+      },
+      {
+        "level": 16,
+        "move": "PROTECT"
+      },
+      {
+        "level": 21,
+        "move": "SWIFT"
+      },
+      {
+        "level": 31,
+        "move": "LUCKYCHANT"
+      },
+      {
+        "level": 36,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 46,
+        "move": "CHARM"
+      },
+      {
+        "level": 50,
+        "move": "EXTRASENSORY"
+      },
+      {
+        "level": 61,
+        "move": "COPYCAT"
+      },
+      {
+        "level": 66,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 76,
+        "move": "HEALINGWISH"
+      }
+    ],
+    "TutorMoves": [
+      "ACROBATICS",
+      "ALLYSWITCH",
+      "BLIZZARD",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ENERGYBALL",
+      "FACADE",
+      "FIREPUNCH",
+      "FLING",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICEPUNCH",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "MAGICROOM",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "STEALTHROCK",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "UTURN",
+      "WATERPULSE",
+      "WONDERROOM",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "20480",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Pink",
+    "Shape": "BipedalTail",
+    "Kind": "Emotion",
+    "Pokedex": "Conhecido como \"O Ser da Emoção\". Ele ensinou aos humanos a nobreza da tristeza, dor e alegria. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "10",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "15",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy."
+  },
+  {
+    "id": 482,
+    "Name": "Azelf",
+    "InternalName": "AZELF",
+    "Type1": "PSÍQUICO",
+    "BaseStats": "75,125,70,115,125,70",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": "0,2,0,0,1,0",
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 1,
+        "move": "LASTRESORT"
+      },
+      {
+        "level": 1,
+        "move": "REST"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 6,
+        "move": "IMPRISON"
+      },
+      {
+        "level": 16,
+        "move": "DETECT"
+      },
+      {
+        "level": 21,
+        "move": "SWIFT"
+      },
+      {
+        "level": 31,
+        "move": "UPROAR"
+      },
+      {
+        "level": 36,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 46,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 50,
+        "move": "EXTRASENSORY"
+      },
+      {
+        "level": 61,
+        "move": "LASTRESORT"
+      },
+      {
+        "level": 66,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 76,
+        "move": "EXPLOSION"
+      }
+    ],
+    "TutorMoves": [
+      "ACROBATICS",
+      "ALLYSWITCH",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ENERGYBALL",
+      "EXPLOSION",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPUNCH",
+      "FLAMETHROWER",
+      "FLING",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "MAGICROOM",
+      "PAYBACK",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "STEALTHROCK",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "UPROAR",
+      "UTURN",
+      "WATERPULSE",
+      "WONDERROOM",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "20480",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Blue",
+    "Shape": "BipedalTail",
+    "Kind": "Willpower",
+    "Pokedex": "Conhecido como \"O Ser da Força de Vontade\". Ele dorme no fundo de um lago para manter o mundo em equilíbrio. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "27",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "33",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance."
+  },
+  {
+    "id": 483,
+    "Name": "Dialga",
+    "InternalName": "DIALGA",
+    "Type1": "AÇO",
+    "Type2": "DRAGÃO",
+    "BaseStats": "100,120,120,90,150,100",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "DRAGONBREATH"
+      },
+      {
+        "level": 1,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 6,
+        "move": "METALCLAW"
+      },
+      {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 19,
+        "move": "POWERGEM"
+      },
+      {
+        "level": 24,
+        "move": "METALBURST"
+      },
+      {
+        "level": 28,
+        "move": "DRAGONCLAW"
+      },
+      {
+        "level": 33,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 37,
+        "move": "AURASPHERE"
+      },
+      {
+        "level": 42,
+        "move": "IRONTAIL"
+      },
+      {
+        "level": 46,
+        "move": "ROAROFTIME"
+      },
+      {
+        "level": 50,
+        "move": "FLASHCANNON"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DOUBLETEAM",
+      "DRACOMETEOR",
+      "DRAGONCLAW",
+      "DRAGONPULSE",
+      "DRAGONTAIL",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "FACADE",
+      "FIREBLAST",
+      "FLAMETHROWER",
+      "FLASHCANNON",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICEBEAM",
+      "IRONDEFENSE",
+      "IRONHEAD",
+      "IRONTAIL",
+      "MAGNETRISE",
+      "OUTRAGE",
+      "OVERHEAT",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SNORE",
+      "STEALTHROCK",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICKROOM"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "5.4",
+    "Weight": "683.0",
+    "Color": "White",
+    "Shape": "Quadruped",
+    "Kind": "Temporal",
+    "Pokedex": "Ele tem o poder de controlar o tempo. Ele aparece em mitos da região de Sinnoh como uma divindade antiga. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "5",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity."
+  },
+  {
+    "id": 484,
+    "Name": "Palkia",
+    "InternalName": "PALKIA",
+    "Type1": "AGUA",
+    "Type2": "DRAGÃO",
+    "BaseStats": "90,120,100,100,150,120",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "DRAGONBREATH"
+      },
+      {
+        "level": 1,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 6,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 19,
+        "move": "POWERGEM"
+      },
+      {
+        "level": 24,
+        "move": "AQUARING"
+      },
+      {
+        "level": 28,
+        "move": "DRAGONCLAW"
+      },
+      {
+        "level": 33,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 37,
+        "move": "AURASPHERE"
+      },
+      {
+        "level": 42,
+        "move": "AQUATAIL"
+      },
+      {
+        "level": 46,
+        "move": "SPACIALREND"
+      },
+      {
+        "level": 50,
+        "move": "HYDROPUMP"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CONFIDE",
+      "CUT",
+      "DIVE",
+      "DOUBLETEAM",
+      "DRACOMETEOR",
+      "DRAGONCLAW",
+      "DRAGONPULSE",
+      "DRAGONTAIL",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "FACADE",
+      "FIREBLAST",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HAIL",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICEBEAM",
+      "LIQUIDATION",
+      "OUTRAGE",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SNORE",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SURF",
+      "SWAGGER",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICKROOM",
+      "WATERPULSE"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "4.2",
+    "Weight": "336.0",
+    "Color": "Purple",
+    "Shape": "BipedalTail",
+    "Kind": "Spatial",
+    "Pokedex": "Ele tem a capacidade de distorcer o espaço. É descrito como uma divindade na mitologia da região de Sinnoh. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "4",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "9",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology."
+  },
+  {
+    "id": 485,
+    "Name": "Heatran",
+    "InternalName": "HEATRAN",
+    "Type1": "FOGO",
+    "Type2": "AÇO",
+    "BaseStats": "91,90,106,77,130,106",
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": "0,0,0,0,3,0",
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "FLASHFIRE",
+    "HiddenAbility": "FLAMEBODY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "MAGMASTORM"
+      },
+      {
+        "level": 1,
+        "move": "HEATWAVE"
+      },
+      {
+        "level": 1,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 1,
+        "move": "IRONHEAD"
+      },
+      {
+        "level": 1,
+        "move": "FIRESPIN"
+      },
+      {
+        "level": 1,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 9,
+        "move": "LEER"
+      },
+      {
+        "level": 17,
+        "move": "FIREFANG"
+      },
+      {
+        "level": 25,
+        "move": "METALSOUND"
+      },
+      {
+        "level": 33,
+        "move": "CRUNCH"
+      },
+      {
+        "level": 41,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 49,
+        "move": "LAVAPLUME"
+      },
+      {
+        "level": 57,
+        "move": "FIRESPIN"
+      },
+      {
+        "level": 65,
+        "move": "IRONHEAD"
+      },
+      {
+        "level": 73,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 81,
+        "move": "HEATWAVE"
+      },
+      {
+        "level": 88,
+        "move": "STONEEDGE"
+      },
+      {
+        "level": 96,
+        "move": "MAGMASTORM"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BUGBITE",
+      "BULLDOZE",
+      "CONFIDE",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DRAGONPULSE",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FACADE",
+      "FIREBLAST",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FLASHCANNON",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HEATWAVE",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "IRONDEFENSE",
+      "IRONHEAD",
+      "NATUREPOWER",
+      "OVERHEAT",
+      "PAYBACK",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STEALTHROCK",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "TORMENT",
+      "TOXIC",
+      "UPROAR",
+      "WILLOWISP"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "2560",
+    "Height": "1.7",
+    "Weight": "430.0",
+    "Color": "Brown",
+    "Shape": "Quadruped",
+    "Kind": "Lava Dome",
+    "Pokedex": "Ele habita cavernas vulcânicas. Ele escava com suas patas cruzadas para rastejar em tetos e paredes. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "20",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "19",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls."
+  },
+  {
+    "id": 486,
+    "Name": "Regigigas",
+    "InternalName": "REGIGIGAS",
+    "Type1": "NORMAL",
+    "BaseStats": "110,160,110,100,80,110",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "302",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "SLOWSTART",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "HEAVYSLAM"
+      },
+      {
+        "level": 1,
+        "move": "CRUSHGRIP"
+      },
+      {
+        "level": 1,
+        "move": "FIREPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "ICEPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "DIZZYPUNCH"
+      },
+      {
+        "level": 1,
+        "move": "KNOCKOFF"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSERAY"
+      },
+      {
+        "level": 1,
+        "move": "FORESIGHT"
+      },
+      {
+        "level": 25,
+        "move": "REVENGE"
+      },
+      {
+        "level": 40,
+        "move": "WIDEGUARD"
+      },
+      {
+        "level": 50,
+        "move": "ZENHEADBUTT"
+      },
+      {
+        "level": 65,
+        "move": "PAYBACK"
+      },
+      {
+        "level": 75,
+        "move": "CRUSHGRIP"
+      },
+      {
+        "level": 90,
+        "move": "HEAVYSLAM"
+      },
+      {
+        "level": 100,
+        "move": "GIGAIMPACT"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "BLOCK",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "FACADE",
+      "FIREPUNCH",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEPUNCH",
+      "ICYWIND",
+      "IRONHEAD",
+      "KNOCKOFF",
+      "NATUREPOWER",
+      "PAYBACK",
+      "POWERUPPUNCH",
+      "PSYCHUP",
+      "RAINDANCE",
+      "RETURN",
+      "ROCKPOLISH",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SAFEGUARD",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SMACKDOWN",
+      "SNORE",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERPOWER",
+      "SWAGGER",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TOXIC",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "3.7",
+    "Weight": "420.0",
+    "Color": "White",
+    "Shape": "Bipedal",
+    "Kind": "Colossal",
+    "Pokedex": "Há uma lenda duradoura que afirma que este Pokémon puxava continentes com cordas. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "12",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "14",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "There is an enduring legend that states this Pokémon towed continents with ropes."
+  },
+  {
+    "id": 487,
+    "Name": "Giratina",
+    "InternalName": "GIRATINA",
+    "Type1": "FANTASMA",
+    "Type2": "DRAGÃO",
+    "BaseStats": "150,100,120,90,100,120",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "DRAGONBREATH"
+      },
+      {
+        "level": 1,
+        "move": "SCARYFACE"
+      },
+      {
+        "level": 6,
+        "move": "OMINOUSWIND"
+      },
+      {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 19,
+        "move": "SHADOWSNEAK"
+      },
+      {
+        "level": 24,
+        "move": "DESTINYBOND"
+      },
+      {
+        "level": 28,
+        "move": "DRAGONCLAW"
+      },
+      {
+        "level": 33,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 37,
+        "move": "AURASPHERE"
+      },
+      {
+        "level": 42,
+        "move": "SHADOWCLAW"
+      },
+      {
+        "level": 46,
+        "move": "SHADOWFORCE"
+      },
+      {
+        "level": 50,
+        "move": "HEX"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "BRUTALSWING",
+      "BULLDOZE",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DEFOG",
+      "DOUBLETEAM",
+      "DRACOMETEOR",
+      "DRAGONCLAW",
+      "DRAGONPULSE",
+      "DRAGONTAIL",
+      "DREAMEATER",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "ENERGYBALL",
+      "FACADE",
+      "FLY",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRAVITY",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICYWIND",
+      "IRONHEAD",
+      "IRONTAIL",
+      "OUTRAGE",
+      "PAINSPLIT",
+      "PAYBACK",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSMASH",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SNORE",
+      "SPITE",
+      "STEELWING",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "WILLOWISP"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "4.5",
+    "Weight": "750.0",
+    "Color": "Black",
+    "Shape": "Multiped",
+    "Kind": "Renegade",
+    "Pokedex": "Um Pokémon que é dito viver em um mundo no lado oposto do nosso. Ele aparece em um cemitério antigo. \n",
+    "FormName": "Altered Forme",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "10",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "11",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery."
+  },
+  {
+    "id": 488,
+    "Name": "Cresselia",
+    "InternalName": "CRESSELIA",
+    "Type1": "PSÍQUICO",
+    "BaseStats": "120,70,120,85,75,130",
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": "0,0,0,0,0,3",
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "LEVITATE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "LUNARDANCE"
+      },
+      {
+        "level": 1,
+        "move": "PSYCHOSHIFT"
+      },
+      {
+        "level": 1,
+        "move": "PSYCHOCUT"
+      },
+      {
+        "level": 1,
+        "move": "MOONLIGHT"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 1,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 11,
+        "move": "SAFEGUARD"
+      },
+      {
+        "level": 20,
+        "move": "MIST"
+      },
+      {
+        "level": 29,
+        "move": "AURORABEAM"
+      },
+      {
+        "level": 38,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 47,
+        "move": "SLASH"
+      },
+      {
+        "level": 57,
+        "move": "MOONLIGHT"
+      },
+      {
+        "level": 66,
+        "move": "PSYCHOCUT"
+      },
+      {
+        "level": 75,
+        "move": "PSYCHOSHIFT"
+      },
+      {
+        "level": 84,
+        "move": "LUNARDANCE"
+      },
+      {
+        "level": 93,
+        "move": "PSYCHIC"
+      },
+      {
+        "level": 99,
+        "move": "MOONBLAST"
+      }
+    ],
+    "TutorMoves": [
+      "ALLYSWITCH",
+      "ATTRACT",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DOUBLETEAM",
+      "DREAMEATER",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "GRAVITY",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "MAGICROOM",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TELEKINESIS",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "1.5",
+    "Weight": "85.6",
+    "Color": "Yellow",
+    "Shape": "Serpentine",
+    "Kind": "Lunar",
+    "Pokedex": "Partículas brilhantes são liberadas de suas asas como um véu. Diz-se que ele representa a lua crescente. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "10",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "7",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon."
+  },
+  {
+    "id": 489,
+    "Name": "Phione",
+    "InternalName": "PHIONE",
+    "Type1": "AGUA",
+    "BaseStats": "80,80,80,80,80,80",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "216",
+    "EffortPoints": "1,0,0,0,0,0",
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "HYDRATION",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 1,
+        "move": "WATERSPORT"
+      },
+      {
+        "level": 9,
+        "move": "CHARM"
+      },
+      {
+        "level": 16,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 24,
+        "move": "BUBBLEBEAM"
+      },
+      {
+        "level": 31,
+        "move": "ACIDARMOR"
+      },
+      {
+        "level": 39,
+        "move": "WHIRLPOOL"
+      },
+      {
+        "level": 46,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 54,
+        "move": "AQUARING"
+      },
+      {
+        "level": 61,
+        "move": "DIVE"
+      },
+      {
+        "level": 69,
+        "move": "RAINDANCE"
+      }
+    ],
+    "TutorMoves": [
+      "BLIZZARD",
+      "BOUNCE",
+      "CONFIDE",
+      "COVET",
+      "DAZZLINGGLEAM",
+      "DIVE",
+      "DOUBLETEAM",
+      "FACADE",
+      "FLING",
+      "FRUSTRATION",
+      "GRASSKNOT",
+      "HAIL",
+      "HEALBELL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "ICEBEAM",
+      "ICYWIND",
+      "KNOCKOFF",
+      "LASTRESORT",
+      "LIQUIDATION",
+      "PROTECT",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SCALD",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SURF",
+      "SWAGGER",
+      "TOXIC",
+      "UPROAR",
+      "UTURN",
+      "WATERFALL",
+      "WATERPULSE"
+    ],
+    "Compatibility": "Water1,Fairy",
+    "StepsToHatch": "10240",
+    "Height": "0.4",
+    "Weight": "3.1",
+    "Color": "Blue",
+    "Shape": "HeadArms",
+    "Kind": "Sea Drifter",
+    "Pokedex": "Um Pokémon que vive em mares quentes. Ele inflá o saco de natação na cabeça para flutuar e procurar comida. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "8",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "13",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food."
+  },
+  {
+    "id": 490,
+    "Name": "Manaphy",
+    "InternalName": "MANAPHY",
+    "Type1": "AGUA",
+    "BaseStats": "100,100,100,100,100,100",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "3",
+    "Happiness": "70",
+    "Abilities": "HYDRATION",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TAILGLOW"
+      },
+      {
+        "level": 1,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 1,
+        "move": "WATERSPORT"
+      },
+      {
+        "level": 9,
+        "move": "CHARM"
+      },
+      {
+        "level": 16,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 24,
+        "move": "BUBBLEBEAM"
+      },
+      {
+        "level": 31,
+        "move": "ACIDARMOR"
+      },
+      {
+        "level": 39,
+        "move": "WHIRLPOOL"
+      },
+      {
+        "level": 46,
+        "move": "WATERPULSE"
+      },
+      {
+        "level": 54,
+        "move": "AQUARING"
+      },
+      {
+        "level": 61,
+        "move": "DIVE"
+      },
+      {
+        "level": 69,
+        "move": "RAINDANCE"
+      },
+      {
+        "level": 76,
+        "move": "HEARTSWAP"
+      }
+    ],
+    "TutorMoves": [
+      "BLIZZARD",
+      "BOUNCE",
+      "CALMMIND",
+      "CONFIDE",
+      "COVET",
+      "DAZZLINGGLEAM",
+      "DIVE",
+      "DOUBLETEAM",
+      "ENERGYBALL",
+      "FACADE",
+      "FLING",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HAIL",
+      "HEALBELL",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "KNOCKOFF",
+      "LASTRESORT",
+      "LIGHTSCREEN",
+      "LIQUIDATION",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SCALD",
+      "SHADOWBALL",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "SUBSTITUTE",
+      "SURF",
+      "SWAGGER",
+      "TOXIC",
+      "UPROAR",
+      "UTURN",
+      "WATERFALL",
+      "WATERPULSE"
+    ],
+    "Compatibility": "Water1,Fairy",
+    "StepsToHatch": "2560",
+    "Height": "0.3",
+    "Weight": "1.4",
+    "Color": "Blue",
+    "Shape": "Bipedal",
+    "Kind": "Seafaring",
+    "Pokedex": "Nascido em um fundo marinho frio, ele irá nadar grandes distâncias para retornar ao seu berço. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "4",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "8",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "Born on a cold seafloor, it will swim great distances to return to its birthplace."
+  },
+  {
+    "id": 491,
+    "Name": "Darkrai",
+    "InternalName": "DARKRAI",
+    "Type1": "NOTURNO",
+    "BaseStats": "70,90,90,125,135,90",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": "0,0,0,1,2,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "BADDREAMS",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "OMINOUSWIND"
+      },
+      {
+        "level": 1,
+        "move": "DISABLE"
+      },
+      {
+        "level": 11,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 20,
+        "move": "HYPNOSIS"
+      },
+      {
+        "level": 29,
+        "move": "FEINTATTACK"
+      },
+      {
+        "level": 38,
+        "move": "NIGHTMARE"
+      },
+      {
+        "level": 47,
+        "move": "DOUBLETEAM"
+      },
+      {
+        "level": 57,
+        "move": "HAZE"
+      },
+      {
+        "level": 66,
+        "move": "DARKVOID"
+      },
+      {
+        "level": 75,
+        "move": "NASTYPLOT"
+      },
+      {
+        "level": 84,
+        "move": "DREAMEATER"
+      },
+      {
+        "level": 93,
+        "move": "DARKPULSE"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DOUBLETEAM",
+      "DRAINPUNCH",
+      "DREAMEATER",
+      "EMBARGO",
+      "FACADE",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FOULPLAY",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "ICEBEAM",
+      "ICYWIND",
+      "KNOCKOFF",
+      "LASTRESORT",
+      "PAYBACK",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "RAINDANCE",
+      "REST",
+      "RETURN",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SHADOWBALL",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNARL",
+      "SNATCH",
+      "SNORE",
+      "SPITE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAUNT",
+      "THIEF",
+      "THROATCHOP",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TORMENT",
+      "TOXIC",
+      "TRICK",
+      "WILLOWISP",
+      "WONDERROOM",
+      "XSCISSOR"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "1.5",
+    "Weight": "50.5",
+    "Color": "Black",
+    "Shape": "Bipedal",
+    "Kind": "Pitch-Black",
+    "Pokedex": "Ele pode acalmar as pessoas para dormir e fazê-las sonhar. É ativo durante as noites da lua nova. \n",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "18",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "23",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It can lull people to sleep and make them dream. It is active during nights of the new moon."
+  },
+  {
+    "id": 492,
+    "Name": "Shaymin",
+    "InternalName": "SHAYMIN",
+    "Type1": "GRAMA",
+    "BaseStats": "100,100,100,100,100,100",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "270",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "45",
+    "Happiness": "100",
+    "Abilities": "NATURALCURE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "GROWTH"
+      },
+      {
+        "level": 10,
+        "move": "MAGICALLEAF"
+      },
+      {
+        "level": 19,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 28,
+        "move": "SYNTHESIS"
+      },
+      {
+        "level": 37,
+        "move": "SWEETSCENT"
+      },
+      {
+        "level": 46,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 55,
+        "move": "WORRYSEED"
+      },
+      {
+        "level": 64,
+        "move": "AROMATHERAPY"
+      },
+      {
+        "level": 73,
+        "move": "ENERGYBALL"
+      },
+      {
+        "level": 82,
+        "move": "SWEETKISS"
+      },
+      {
+        "level": 91,
+        "move": "HEALINGWISH"
+      },
+      {
+        "level": 100,
+        "move": "SEEDFLARE"
+      }
+    ],
+    "TutorMoves": [
+      "CELEBRATE",
+      "CONFIDE",
+      "COVET",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "EARTHPOWER",
+      "ENDEAVOR",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "NATUREPOWER",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TOXIC",
+      "WORRYSEED",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "0.2",
+    "Weight": "2.1",
+    "Color": "Green",
+    "Shape": "Quadruped",
+    "Kind": "Gratitude",
+    "Pokedex": "Ele vive em manchas de flores e evita a detecção ao se curvar para parecer uma planta em flor. \n",
+    "FormName": "Land Forme",
+    "Generation": "4",
+    "WildItemCommon": "LUMBERRY",
+    "WildItemUncommon": "LUMBERRY",
+    "WildItemRare": "LUMBERRY",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "5",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "6",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It lives in flower patches and avoids detection by curling up to look like a flowering plant."
+  },
+  {
+    "id": 493,
+    "Name": "Arceus",
+    "InternalName": "ARCEUS",
+    "Type1": "NORMAL",
+    "BaseStats": "120,120,120,120,120,120",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "324",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "MULTITYPE",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "SEISMICTOSS"
+      },
+      {
+        "level": 1,
+        "move": "COSMICPOWER"
+      },
+      {
+        "level": 1,
+        "move": "NATURALGIFT"
+      },
+      {
+        "level": 1,
+        "move": "PUNISHMENT"
+      },
+      {
+        "level": 10,
+        "move": "GRAVITY"
+      },
+      {
+        "level": 20,
+        "move": "EARTHPOWER"
+      },
+      {
+        "level": 30,
+        "move": "HYPERVOICE"
+      },
+      {
+        "level": 40,
+        "move": "EXTREMESPEED"
+      },
+      {
+        "level": 50,
+        "move": "REFRESH"
+      },
+      {
+        "level": 60,
+        "move": "FUTURESIGHT"
+      },
+      {
+        "level": 70,
+        "move": "RECOVER"
+      },
+      {
+        "level": 80,
+        "move": "HYPERBEAM"
+      },
+      {
+        "level": 90,
+        "move": "PERISHSONG"
+      },
+      {
+        "level": 100,
+        "move": "JUDGMENT"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "BLIZZARD",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CALMMIND",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "CUT",
+      "DARKPULSE",
+      "DEFOG",
+      "DIVE",
+      "DOUBLETEAM",
+      "DRAGONCLAW",
+      "DRAGONPULSE",
+      "DREAMEATER",
+      "EARTHPOWER",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "ENERGYBALL",
+      "FACADE",
+      "FIREBLAST",
+      "FLAMETHROWER",
+      "FLASHCANNON",
+      "FLY",
+      "FOCUSBLAST",
+      "FRUSTRATION",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "GRAVITY",
+      "HAIL",
+      "HEATWAVE",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "HYPERVOICE",
+      "ICEBEAM",
+      "ICYWIND",
+      "IRONDEFENSE",
+      "IRONHEAD",
+      "IRONTAIL",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "LIGHTSCREEN",
+      "LIQUIDATION",
+      "MAGICCOAT",
+      "OUTRAGE",
+      "OVERHEAT",
+      "PAYBACK",
+      "POISONJAB",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "QUASH",
+      "RAINDANCE",
+      "RECYCLE",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SAFEGUARD",
+      "SANDSTORM",
+      "SHADOWBALL",
+      "SHADOWCLAW",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SLEEPTALK",
+      "SLUDGEBOMB",
+      "SNARL",
+      "SNORE",
+      "SOLARBEAM",
+      "STEALTHROCK",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SURF",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "TAILWIND",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "WATERFALL",
+      "WATERPULSE",
+      "WILLOWISP",
+      "WORKUP",
+      "XSCISSOR",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "3.2",
+    "Weight": "320.0",
+    "Color": "White",
+    "Shape": "Quadruped",
+    "Kind": "Alpha",
+    "Pokedex": "É descrito na mitologia como o Pokémon que moldou o universo com suas 1.000 braços. \n",
+    "FormName": "Normal Type",
+    "Generation": "4",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "6",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms."
+  },
+  {
+    "id": 494,
+    "Name": "Victini",
+    "InternalName": "VICTINI",
+    "Type1": "PSÍQUICO",
+    "Type2": "FOGO",
+    "BaseStats": "100,100,100,100,100,100",
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": "3,0,0,0,0,0",
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "VICTORYSTAR",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "SEARINGSHOT"
+      },
+      {
+        "level": 1,
+        "move": "FOCUSENERGY"
+      },
+      {
+        "level": 1,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 1,
+        "move": "INCINERATE"
+      },
+      {
+        "level": 1,
+        "move": "QUICKATTACK"
+      },
+      {
+        "level": 9,
+        "move": "ENDURE"
+      },
+      {
+        "level": 17,
+        "move": "HEADBUTT"
+      },
+      {
+        "level": 25,
+        "move": "FLAMECHARGE"
+      },
+      {
+        "level": 33,
+        "move": "REVERSAL"
+      },
+      {
+        "level": 41,
+        "move": "FLAMEBURST"
+      },
+      {
+        "level": 49,
+        "move": "ZENHEADBUTT"
+      },
+      {
+        "level": 57,
+        "move": "INFERNO"
+      },
+      {
+        "level": 65,
+        "move": "DOUBLEEDGE"
+      },
+      {
+        "level": 73,
+        "move": "FLAREBLITZ"
+      },
+      {
+        "level": 81,
+        "move": "FINALGAMBIT"
+      },
+      {
+        "level": 89,
+        "move": "STOREDPOWER"
+      },
+      {
+        "level": 97,
+        "move": "OVERHEAT"
+      }
+    ],
+    "TutorMoves": [
+      "BOUNCE",
+      "BRICKBREAK",
+      "CELEBRATE",
+      "CHARGEBEAM",
+      "CONFIDE",
+      "DAZZLINGGLEAM",
+      "DOUBLETEAM",
+      "EMBARGO",
+      "ENERGYBALL",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPUNCH",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "HEATWAVE",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HYPERBEAM",
+      "LASERFOCUS",
+      "LASTRESORT",
+      "LIGHTSCREEN",
+      "MAGICCOAT",
+      "OVERHEAT",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "PSYCHIC",
+      "PSYCHUP",
+      "PSYSHOCK",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROLEPLAY",
+      "ROUND",
+      "SAFEGUARD",
+      "SHADOWBALL",
+      "SHOCKWAVE",
+      "SIGNALBEAM",
+      "SKILLSWAP",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "TAUNT",
+      "TELEKINESIS",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDERPUNCH",
+      "THUNDERWAVE",
+      "TOXIC",
+      "TRICK",
+      "TRICKROOM",
+      "UPROAR",
+      "UTURN",
+      "VCREATE",
+      "WILDCHARGE",
+      "WILLOWISP",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Undiscovered",
+    "StepsToHatch": "30720",
+    "Height": "0.4",
+    "Weight": "4.0",
+    "Color": "Yellow",
+    "Shape": "Bipedal",
+    "Kind": "Victory",
+    "Pokedex": "Este Pokémon traz vitória. Diz-se que os treinadores com Victini sempre vencem, independentemente do tipo de encontro. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "4",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
+  },
+  {
+    "id": 495,
+    "Name": "Snivy",
+    "InternalName": "SNIVY",
+    "Type1": "GRAMA",
+    "BaseStats": "45,45,55,63,45,55",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": "0,0,0,1,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 4,
+        "move": "LEER"
+      },
+      {
+        "level": 7,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 10,
+        "move": "WRAP"
+      },
+      {
+        "level": 13,
+        "move": "GROWTH"
+      },
+      {
+        "level": 16,
+        "move": "LEAFTORNADO"
+      },
+      {
+        "level": 19,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 22,
+        "move": "MEGADRAIN"
+      },
+      {
+        "level": 25,
+        "move": "SLAM"
+      },
+      {
+        "level": 28,
+        "move": "LEAFBLADE"
+      },
+      {
+        "level": 31,
+        "move": "COIL"
+      },
+      {
+        "level": 34,
+        "move": "GIGADRAIN"
+      },
+      {
+        "level": 37,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 40,
+        "move": "GASTROACID"
+      },
+      {
+        "level": 43,
+        "move": "LEAFSTORM"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BIND",
+      "CALMMIND",
+      "CONFIDE",
+      "CUT",
+      "DEFOG",
+      "DOUBLETEAM",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GASTROACID",
+      "GIGADRAIN",
+      "GRASSKNOT",
+      "GRASSPLEDGE",
+      "HIDDENPOWER",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "NATUREPOWER",
+      "PROTECT",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TAUNT",
+      "TORMENT",
+      "TOXIC",
+      "WORKUP",
+      "WORRYSEED"
+    ],
+    "EggMoves": [
+      "CAPTIVATE",
+      "GLARE",
+      "IRONTAIL",
+      "MAGICALLEAF",
+      "MEANLOOK",
+      "MIRRORCOAT",
+      "NATURALGIFT",
+      "PURSUIT",
+      "SWEETSCENT",
+      "TWISTER"
+    ],
+    "Compatibility": "Field,Grass",
+    "StepsToHatch": "5120",
+    "Height": "0.6",
+    "Weight": "8.1",
+    "Color": "Green",
+    "Shape": "BipedalTail",
+    "Kind": "Grass Snake",
+    "Pokedex": "Eles realizam fotossíntese ao banhar suas caudas na luz solar. Quando não estão se sentindo bem, suas caudas despencam. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "4",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "7",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "SERVINE,Level,17",
+    "PokedexEn": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+  },
+  {
+    "id": 496,
+    "Name": "Servine",
+    "InternalName": "SERVINE",
+    "Type1": "GRAMA",
+    "BaseStats": "60,60,75,83,60,75",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "145",
+    "EffortPoints": "0,0,0,2,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 1,
+        "move": "WRAP"
+      },
+      {
+        "level": 4,
+        "move": "LEER"
+      },
+      {
+        "level": 7,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 10,
+        "move": "WRAP"
+      },
+      {
+        "level": 13,
+        "move": "GROWTH"
+      },
+      {
+        "level": 16,
+        "move": "LEAFTORNADO"
+      },
+      {
+        "level": 20,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 24,
+        "move": "MEGADRAIN"
+      },
+      {
+        "level": 28,
+        "move": "SLAM"
+      },
+      {
+        "level": 32,
+        "move": "LEAFBLADE"
+      },
+      {
+        "level": 36,
+        "move": "COIL"
+      },
+      {
+        "level": 40,
+        "move": "GIGADRAIN"
+      },
+      {
+        "level": 44,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 48,
+        "move": "GASTROACID"
+      },
+      {
+        "level": 52,
+        "move": "LEAFSTORM"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BIND",
+      "CALMMIND",
+      "CONFIDE",
+      "CUT",
+      "DEFOG",
+      "DOUBLETEAM",
+      "ENERGYBALL",
+      "FACADE",
+      "FRUSTRATION",
+      "GASTROACID",
+      "GIGADRAIN",
+      "GRASSKNOT",
+      "GRASSPLEDGE",
+      "HIDDENPOWER",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "NATUREPOWER",
+      "PROTECT",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TAUNT",
+      "TORMENT",
+      "TOXIC",
+      "WORKUP",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Field,Grass",
+    "StepsToHatch": "5120",
+    "Height": "0.8",
+    "Weight": "16.0",
+    "Color": "Green",
+    "Shape": "BipedalTail",
+    "Kind": "Grass Snake",
+    "Pokedex": "Eles evitam ataques ao se afundar nas sombras de folhagens densas. Eles retaliam com técnicas de esmagamento majestosas. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "3",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "8",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "SERPERIOR,Level,36",
+    "PokedexEn": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques."
+  },
+  {
+    "id": 497,
+    "Name": "Serperior",
+    "InternalName": "SERPERIOR",
+    "Type1": "GRAMA",
+    "BaseStats": "75,75,95,113,75,95",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "238",
+    "EffortPoints": "0,0,0,3,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "LEER"
+      },
+      {
+        "level": 1,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 1,
+        "move": "WRAP"
+      },
+      {
+        "level": 4,
+        "move": "LEER"
+      },
+      {
+        "level": 7,
+        "move": "VINEWHIP"
+      },
+      {
+        "level": 10,
+        "move": "WRAP"
+      },
+      {
+        "level": 13,
+        "move": "GROWTH"
+      },
+      {
+        "level": 16,
+        "move": "LEAFTORNADO"
+      },
+      {
+        "level": 20,
+        "move": "LEECHSEED"
+      },
+      {
+        "level": 24,
+        "move": "MEGADRAIN"
+      },
+      {
+        "level": 28,
+        "move": "SLAM"
+      },
+      {
+        "level": 32,
+        "move": "LEAFBLADE"
+      },
+      {
+        "level": 38,
+        "move": "COIL"
+      },
+      {
+        "level": 44,
+        "move": "GIGADRAIN"
+      },
+      {
+        "level": 50,
+        "move": "WRINGOUT"
+      },
+      {
+        "level": 56,
+        "move": "GASTROACID"
+      },
+      {
+        "level": 62,
+        "move": "LEAFSTORM"
+      }
+    ],
+    "TutorMoves": [
+      "AERIALACE",
+      "AQUATAIL",
+      "ATTRACT",
+      "BIND",
+      "BRUTALSWING",
+      "CALMMIND",
+      "CONFIDE",
+      "CUT",
+      "DEFOG",
+      "DOUBLETEAM",
+      "DRAGONPULSE",
+      "DRAGONTAIL",
+      "ENERGYBALL",
+      "FACADE",
+      "FRENZYPLANT",
+      "FRUSTRATION",
+      "GASTROACID",
+      "GIGADRAIN",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "GRASSPLEDGE",
+      "HIDDENPOWER",
+      "HOLDBACK",
+      "HYPERBEAM",
+      "IRONTAIL",
+      "KNOCKOFF",
+      "LIGHTSCREEN",
+      "NATUREPOWER",
+      "OUTRAGE",
+      "PROTECT",
+      "REFLECT",
+      "REST",
+      "RETURN",
+      "ROCKSMASH",
+      "ROUND",
+      "SAFEGUARD",
+      "SEEDBOMB",
+      "SLEEPTALK",
+      "SNATCH",
+      "SNORE",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SWAGGER",
+      "SWORDSDANCE",
+      "SYNTHESIS",
+      "TAUNT",
+      "TORMENT",
+      "TOXIC",
+      "WORKUP",
+      "WORRYSEED"
+    ],
+    "Compatibility": "Field,Grass",
+    "StepsToHatch": "5120",
+    "Height": "3.3",
+    "Weight": "63.0",
+    "Color": "Green",
+    "Shape": "Serpentine",
+    "Kind": "Regal",
+    "Pokedex": "Eles erguem a cabeça para intimidar os oponentes, mas só dão o seu melhor quando lutam contra um oponente poderoso. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "12",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "They raise their heads to intimidate opponents, but only give it their all when fighting a powerful opponent."
+  },
+  {
+    "id": 498,
+    "Name": "Tepig",
+    "InternalName": "TEPIG",
+    "Type1": "FOGO",
+    "BaseStats": "65,63,45,45,45,45",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": "1,0,0,0,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 3,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 7,
+        "move": "EMBER"
+      },
+      {
+        "level": 9,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 13,
+        "move": "DEFENSECURL"
+      },
+      {
+        "level": 15,
+        "move": "FLAMECHARGE"
+      },
+      {
+        "level": 19,
+        "move": "SMOG"
+      },
+      {
+        "level": 21,
+        "move": "ROLLOUT"
+      },
+      {
+        "level": 25,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 27,
+        "move": "HEATCRASH"
+      },
+      {
+        "level": 31,
+        "move": "ASSURANCE"
+      },
+      {
+        "level": 33,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 37,
+        "move": "HEADSMASH"
+      },
+      {
+        "level": 39,
+        "move": "ROAR"
+      },
+      {
+        "level": 43,
+        "move": "FLAREBLITZ"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "ENDEAVOR",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPLEDGE",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FRUSTRATION",
+      "GRASSKNOT",
+      "GYROBALL",
+      "HEATWAVE",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "IRONTAIL",
+      "OVERHEAT",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERPOWER",
+      "SWAGGER",
+      "TAUNT",
+      "TOXIC",
+      "WILDCHARGE",
+      "WILLOWISP",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "EggMoves": [
+      "BODYSLAM",
+      "BURNUP",
+      "COVET",
+      "CURSE",
+      "ENDEAVOR",
+      "HEAVYSLAM",
+      "MAGNITUDE",
+      "SLEEPTALK",
+      "SUCKERPUNCH",
+      "SUPERPOWER",
+      "THRASH",
+      "YAWN"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "5120",
+    "Height": "0.5",
+    "Weight": "9.9",
+    "Color": "Red",
+    "Shape": "Quadruped",
+    "Kind": "Fire Pig",
+    "Pokedex": "Ele expulsa fogo através do seu nariz. Quando ele contrai uma gripe, o fogo se torna fumaça preta. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "1",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "6",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "PIGNITE,Level,17",
+    "PokedexEn": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead."
+  },
+  {
+    "id": 499,
+    "Name": "Pignite",
+    "InternalName": "PIGNITE",
+    "Type1": "FOGO",
+    "Type2": "LUTADOR",
+    "BaseStats": "90,93,55,55,70,55",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "146",
+    "EffortPoints": "0,2,0,0,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+      {
+        "level": 0,
+        "move": "ARMTHRUST"
+      },
+      {
+        "level": 1,
+        "move": "ARMTHRUST"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 1,
+        "move": "EMBER"
+      },
+      {
+        "level": 1,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 3,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 7,
+        "move": "EMBER"
+      },
+      {
+        "level": 9,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 13,
+        "move": "DEFENSECURL"
+      },
+      {
+        "level": 15,
+        "move": "FLAMECHARGE"
+      },
+      {
+        "level": 20,
+        "move": "SMOG"
+      },
+      {
+        "level": 23,
+        "move": "ROLLOUT"
+      },
+      {
+        "level": 28,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 31,
+        "move": "HEATCRASH"
+      },
+      {
+        "level": 36,
+        "move": "ASSURANCE"
+      },
+      {
+        "level": 39,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 44,
+        "move": "HEADSMASH"
+      },
+      {
+        "level": 47,
+        "move": "ROAR"
+      },
+      {
+        "level": 52,
+        "move": "FLAREBLITZ"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BRICKBREAK",
+      "BULLDOZE",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "ECHOEDVOICE",
+      "ENDEAVOR",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPLEDGE",
+      "FIREPUNCH",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GRASSKNOT",
+      "GYROBALL",
+      "HEATWAVE",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "IRONTAIL",
+      "LOWKICK",
+      "LOWSWEEP",
+      "OVERHEAT",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SLEEPTALK",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERPOWER",
+      "SWAGGER",
+      "TAUNT",
+      "THUNDERPUNCH",
+      "TOXIC",
+      "WILDCHARGE",
+      "WILLOWISP",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "5120",
+    "Height": "1.0",
+    "Weight": "55.5",
+    "Color": "Red",
+    "Shape": "BipedalTail",
+    "Kind": "Fire Pig",
+    "Pokedex": "O que ele come se torna combustível para a chama no seu estômago. Quando ele fica irritado, a intensidade da chama aumenta. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "3",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "4",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "Evolutions": "EMBOAR,Level,36",
+    "PokedexEn": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases."
+  },
+  {
+    "id": 500,
+    "Name": "Emboar",
+    "InternalName": "EMBOAR",
+    "Type1": "FOGO",
+    "Type2": "LUTADOR",
+    "BaseStats": "110,123,65,65,100,65",
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "238",
+    "EffortPoints": "0,3,0,0,0,0",
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+      {
+        "level": 1,
+        "move": "ARMTHRUST"
+      },
+      {
+        "level": 1,
+        "move": "HAMMERARM"
+      },
+      {
+        "level": 1,
+        "move": "TACKLE"
+      },
+      {
+        "level": 1,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 1,
+        "move": "EMBER"
+      },
+      {
+        "level": 1,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 3,
+        "move": "TAILWHIP"
+      },
+      {
+        "level": 7,
+        "move": "EMBER"
+      },
+      {
+        "level": 9,
+        "move": "ODORSLEUTH"
+      },
+      {
+        "level": 13,
+        "move": "DEFENSECURL"
+      },
+      {
+        "level": 15,
+        "move": "FLAMECHARGE"
+      },
+      {
+        "level": 20,
+        "move": "SMOG"
+      },
+      {
+        "level": 23,
+        "move": "ROLLOUT"
+      },
+      {
+        "level": 28,
+        "move": "TAKEDOWN"
+      },
+      {
+        "level": 31,
+        "move": "HEATCRASH"
+      },
+      {
+        "level": 38,
+        "move": "ASSURANCE"
+      },
+      {
+        "level": 43,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 50,
+        "move": "HEADSMASH"
+      },
+      {
+        "level": 55,
+        "move": "ROAR"
+      },
+      {
+        "level": 62,
+        "move": "FLAREBLITZ"
+      }
+    ],
+    "TutorMoves": [
+      "ATTRACT",
+      "BLASTBURN",
+      "BLOCK",
+      "BRICKBREAK",
+      "BULKUP",
+      "BULLDOZE",
+      "CONFIDE",
+      "COVET",
+      "DOUBLETEAM",
+      "EARTHQUAKE",
+      "ECHOEDVOICE",
+      "ENDEAVOR",
+      "FACADE",
+      "FIREBLAST",
+      "FIREPLEDGE",
+      "FIREPUNCH",
+      "FLAMECHARGE",
+      "FLAMETHROWER",
+      "FLING",
+      "FOCUSBLAST",
+      "FOCUSPUNCH",
+      "FRUSTRATION",
+      "GIGAIMPACT",
+      "GRASSKNOT",
+      "GYROBALL",
+      "HEATWAVE",
+      "HELPINGHAND",
+      "HIDDENPOWER",
+      "HOLDBACK",
+      "HYPERBEAM",
+      "IRONHEAD",
+      "IRONTAIL",
+      "LOWKICK",
+      "LOWSWEEP",
+      "OVERHEAT",
+      "POISONJAB",
+      "POWERUPPUNCH",
+      "PROTECT",
+      "REST",
+      "RETURN",
+      "ROAR",
+      "ROCKSLIDE",
+      "ROCKSMASH",
+      "ROCKTOMB",
+      "ROUND",
+      "SCALD",
+      "SLEEPTALK",
+      "SMACKDOWN",
+      "SNORE",
+      "SOLARBEAM",
+      "STOMPINGTANTRUM",
+      "STONEEDGE",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SUNNYDAY",
+      "SUPERPOWER",
+      "SWAGGER",
+      "TAUNT",
+      "THUNDERPUNCH",
+      "TOXIC",
+      "WILDCHARGE",
+      "WILLOWISP",
+      "WORKUP",
+      "ZENHEADBUTT"
+    ],
+    "Compatibility": "Field",
+    "StepsToHatch": "5120",
+    "Height": "1.6",
+    "Weight": "150.0",
+    "Color": "Red",
+    "Shape": "BipedalTail",
+    "Kind": "Mega Fire Pig",
+    "Pokedex": "Ele pode lançar um soco de fogo ao incendiar seus punhos com sua mandíbula ardente. Ele se preocupa profundamente com seus amigos. \n",
+    "Generation": "5",
+    "BattlerPlayerX": "0",
+    "BattlerPlayerY": "7",
+    "BattlerEnemyX": "0",
+    "BattlerEnemyY": "10",
+    "BattlerShadowX": "0",
+    "BattlerShadowSize": "2",
+    "PokedexEn": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends."
   }
 ]
