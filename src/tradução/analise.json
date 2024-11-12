@@ -4502,5 +4502,320 @@
     ],
     "maxTranslatedTime": 41.831,
     "minTranslatedTime": 28.079
+  },
+  {
+    "date": "2024-11-12T11:48:47.828Z",
+    "totalTranslationTime": 1575.0249999999999,
+    "averageTranslationTime": 31.5005,
+    "p90TranslationTime": 34.656,
+    "translatedPokemonCount": 50,
+    "translationRange": {
+      "min": 701,
+      "max": 750
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+        "Name": "Hawlucha",
+        "PokedexTranslated": "Com suas asas, ele controla sua posição no ar. Ele gosta de atacar de cima, uma manobra difícil de defender. \n",
+        "translatedTime": "28.32"
+      },
+      {
+        "Pokedex": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+        "Name": "Dedenne",
+        "PokedexTranslated": "Seus pelos servem como antenas. Ao enviar e receber ondas elétricas, ele pode se comunicar com outros em grandes distâncias. \n",
+        "translatedTime": "27.494"
+      },
+      {
+        "Pokedex": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
+        "Name": "Carbink",
+        "PokedexTranslated": "Nascido em altas temperaturas e pressões profundas subterrâneas, ele se defende ao disparar faisca de sua parte de joia. \n",
+        "translatedTime": "27.24"
+      },
+      {
+        "Pokedex": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
+        "Name": "Goomy",
+        "PokedexTranslated": "Sua fonte de proteção é sua membrana mucosa pegajosa e repleta de germes. Qualquer pessoa que toque em ela precisa de um bom lavagem de mãos. \n",
+        "translatedTime": "27.377"
+      },
+      {
+        "Pokedex": "This Pokémon's mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they're nicely dissolved, it slurps them up.",
+        "Name": "Sliggoo",
+        "PokedexTranslated": "O muco deste Pokémon pode dissolver qualquer coisa. Sem dentes, ele spray seu muco em sua presa. Uma vez que elas estão bem dissolvidas, ele as engole. \n",
+        "translatedTime": "27.949"
+      },
+      {
+        "Pokedex": "It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
+        "Name": "Goodra",
+        "PokedexTranslated": "É alvo de bullying por ser tímido. Mas então, quem o teasing, sente a força completa de seus chifres e um bom tapa de sua cauda grossa. \n",
+        "translatedTime": "28.046"
+      },
+      {
+        "Pokedex": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+        "Name": "Klefki",
+        "PokedexTranslated": "Ele nunca deixa de lado uma chave que gosta, então as pessoas dão-lhe as chaves de caixas fortes e cofres como forma de prevenir crimes. \n",
+        "translatedTime": "28.02"
+      },
+      {
+        "Pokedex": "These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
+        "Name": "Phantump",
+        "PokedexTranslated": "Estas Pokémon são troncos possuídos pelos espíritos de crianças que morreram na floresta. Seus gritos soam como gritos assustadores. \n",
+        "translatedTime": "28.455"
+      },
+      {
+        "Pokedex": "Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.",
+        "Name": "Trevenant",
+        "PokedexTranslated": "Através de suas raízes, ele exerce controle sobre outros árvores. Uma maldição fatal cai sobre qualquer pessoa que derruba árvores em florestas onde Trevenant residem. \n",
+        "translatedTime": "28.815"
+      },
+      {
+        "Pokedex": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+        "Name": "Pumpkaboo",
+        "PokedexTranslated": "O corpo de abóbora é habitado por um espírito preso neste mundo. À medida que o sol se põe, ele fica inquieto e ativo. \n",
+        "translatedTime": "29.372"
+      },
+      {
+        "Pokedex": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+        "Name": "Gourgeist",
+        "PokedexTranslated": "Cantando em vozes assustadoras, eles perambulam pelas ruas da cidade à noite da lua nova. Qualquer pessoa que ouve sua canção é amaldiçoado. \n",
+        "translatedTime": "29.562"
+      },
+      {
+        "Pokedex": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+        "Name": "Bergmite",
+        "PokedexTranslated": "Ele bloqueia os ataques dos oponentes com o gelo que protege seu corpo. Ele usa ar frio para reparar qualquer rachadura com gelo novo. \n",
+        "translatedTime": "29.201"
+      },
+      {
+        "Pokedex": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+        "Name": "Avalugg",
+        "PokedexTranslated": "Seu corpo coberto de gelo é tão duro quanto aço. Seu corpo volumoso esmaga qualquer coisa que se coloque em seu caminho. \n",
+        "translatedTime": "31.341"
+      },
+      {
+        "Pokedex": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
+        "Name": "Noibat",
+        "PokedexTranslated": "Mesmo um lutador robusto ficará tonto e incapaz de se manter quando exposto às ondas ultrassônicas de 200.000 Hertz. \n",
+        "translatedTime": "32.209"
+      },
+      {
+        "Pokedex": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+        "Name": "Noivern",
+        "PokedexTranslated": "Eles voam em noites sem lua e atacam presas descuidadas. Nada pode vencer eles em uma batalha na escuridão. \n",
+        "translatedTime": "29.618"
+      },
+      {
+        "Pokedex": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+        "Name": "Xerneas",
+        "PokedexTranslated": "Lendas dizem que ele pode compartilhar a vida eterna. Dormiu por mil anos na forma de uma árvore antes de sua revivificação. \n",
+        "translatedTime": "29.4"
+      },
+      {
+        "Pokedex": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+        "Name": "Yveltal",
+        "PokedexTranslated": "Quando sua vida chega ao fim, ele absorve a energia vital de cada ser vivo e se transforma em uma cocoon novamente. \n",
+        "translatedTime": "29.766"
+      },
+      {
+        "Pokedex": "It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
+        "Name": "Zygarde",
+        "PokedexTranslated": "É pensado que está monitorando o ecossistema. Há rumores de que um poder ainda maior se esconde dentro dele. \n",
+        "translatedTime": "29.597"
+      },
+      {
+        "Pokedex": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+        "Name": "Diancie",
+        "PokedexTranslated": "Uma transformação súbita do Carbink, seu corpo rosa e brilhante, é dito ser a mais bela vista do mundo. \n",
+        "translatedTime": "29.47"
+      },
+      {
+        "Pokedex": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+        "Name": "Hoopa",
+        "PokedexTranslated": "Este encrenqueiro envia qualquer coisa e qualquer lugar usando seu laço, que pode distorcer o espaço. \n",
+        "translatedTime": "29.527"
+      },
+      {
+        "Pokedex": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
+        "Name": "Volcanion",
+        "PokedexTranslated": "Ele expõe billows de vapor e desaparece na densa névoa. Diz-se que ele vive nas montanhas onde os humanos não pisam. \n",
+        "translatedTime": "31.002"
+      },
+      {
+        "Pokedex": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+        "Name": "Rowlet",
+        "PokedexTranslated": "Ele envia suas penas, que são tão afiadas como lâminas, em ataque. Seus pés são fortes, então seus chutes também são formidáveis. \n",
+        "translatedTime": "30.597"
+      },
+      {
+        "Pokedex": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+        "Name": "Dartrix",
+        "PokedexTranslated": "Um pouco de um dandy, ele passa seu tempo livre preenchendo suas asas. Sua preocupação com qualquer sujeira em seu plumagem pode deixá-lo incapaz de lutar. \n",
+        "translatedTime": "31.966"
+      },
+      {
+        "Pokedex": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+        "Name": "Decidueye",
+        "PokedexTranslated": "Ele dispara flechas de penas de suas asas com tanta precisão que podem perfurar uma pedrinha a distâncias de mais de cem jardas. \n",
+        "translatedTime": "31.179"
+      },
+      {
+        "Pokedex": "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.",
+        "Name": "Litten",
+        "PokedexTranslated": "Seu pelagem cresce duas vezes por ano. Quando a hora chegar, o Litten acende seu próprio corpo em chamas e queima a pelagem velha. \n",
+        "translatedTime": "31.25"
+      },
+      {
+        "Pokedex": "It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.",
+        "Name": "Torracat",
+        "PokedexTranslated": "Ele pode se comportar mal se crescer perto de seu treinador. Um Pokémon poderoso, suas garras afiadas podem deixar o corpo do treinador coberto de arranhões. \n",
+        "translatedTime": "32.115"
+      },
+      {
+        "Pokedex": "Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
+        "Name": "Incineroar",
+        "PokedexTranslated": "Embora seja rude e egocêntrico, ele acha que bater em oponentes desmerecidos é entediante. Ele se motiva para oponentes mais fortes. \n",
+        "translatedTime": "32.115"
+      },
+      {
+        "Pokedex": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
+        "Name": "Popplio",
+        "PokedexTranslated": "Este Pokémon espirra fluidos corporais do nariz, inflando balões para que explodam em seus inimigos. É famoso por ser um trabalhador duro. \n",
+        "translatedTime": "32.215"
+      },
+      {
+        "Pokedex": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+        "Name": "Brionne",
+        "PokedexTranslated": "Ele fica animado quando vê um baile que não conhece. Este trabalhador dedicado pratica diligentemente até conseguir aprender aquele baile. \n",
+        "translatedTime": "31.392"
+      },
+      {
+        "Pokedex": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
+        "Name": "Primarina",
+        "PokedexTranslated": "Ele controla seus balões de água com música. A melodia é aprendida de outros de sua espécie e passada de geração para geração. \n",
+        "translatedTime": "32.013"
+      },
+      {
+        "Pokedex": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+        "Name": "Pikipek",
+        "PokedexTranslated": "Ele bate nas árvores com seu bico duro. Você pode ter uma ideia do seu humor ou condição a partir do ritmo de seus golpes. \n",
+        "translatedTime": "32.037"
+      },
+      {
+        "Pokedex": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+        "Name": "Trumbeak",
+        "PokedexTranslated": "Ele come frutas e armazena suas sementes no bico. Quando encontra inimigos ou presas, ele dispara todas as sementes em um ataque. \n",
+        "translatedTime": "32.298"
+      },
+      {
+        "Pokedex": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+        "Name": "Toucannon",
+        "PokedexTranslated": "Eles batem os bico uns com os outros para se comunicar. A força e o número de golpes dizem a outro como se sentem. \n",
+        "translatedTime": "32.114"
+      },
+      {
+        "Pokedex": "Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+        "Name": "Yungoos",
+        "PokedexTranslated": "Seu estômago ocupa a maior parte do seu longo torso. É um grande comedor, então a quantidade que os treinadores precisam gastar com sua comida não é uma brincadeira. \n",
+        "translatedTime": "33.18"
+      },
+      {
+        "Pokedex": "When it finds a trace of its prey, it patiently stakes out the location... but it's always snoozing by nightfall.",
+        "Name": "Gumshoos",
+        "PokedexTranslated": "Quando encontra uma pista de sua presa, ele aguarda pacientemente a localização... mas sempre está sonhando até à noite. \n",
+        "translatedTime": "32.36"
+      },
+      {
+        "Pokedex": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+        "Name": "Grubbin",
+        "PokedexTranslated": "Ele esfrega um fio pegajoso para parar os oponentes e, depois, agarra-os com suas mandíbulas afiadas e fortes para os derrubar. \n",
+        "translatedTime": "33.383"
+      },
+      {
+        "Pokedex": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
+        "Name": "Charjabug",
+        "PokedexTranslated": "Ele se esconde nas folhas caídas e se move quase imperceptível, mas se alimentando de húmus. Se você pisar em um, você vai ter uma surpresa! \n",
+        "translatedTime": "34.176"
+      },
+      {
+        "Pokedex": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+        "Name": "Vikavolt",
+        "PokedexTranslated": "Ele se move rapidamente, em busca de uma abertura. Ele concentra energia elétrica dentro de suas grandes mandíbulas e usa-a para zapping seus inimigos. \n",
+        "translatedTime": "33.412"
+      },
+      {
+        "Pokedex": "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
+        "Name": "Crabrawler",
+        "PokedexTranslated": "Ele bate com tanta força que seus pinças muitas vezes se desprendem por excesso de uso, mas crescem rapidamente. O pouco de carne que contém é rico e delicioso. \n",
+        "translatedTime": "33.958"
+      },
+      {
+        "Pokedex": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
+        "Name": "Crabominable",
+        "PokedexTranslated": "Ele almejava o topo, mas se perdeu e acabou em uma montanha nevada. Forçado a suportar o frio, este Pokémon evoluiu e cresceu pelo. \n",
+        "translatedTime": "33.978"
+      },
+      {
+        "Pokedex": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+        "Name": "Oricorio",
+        "PokedexTranslated": "Ele bate suas asas para criar fogo. Ao se mover nos passos de sua bela dança, ele banha seus oponentes em chamas intensas. \n",
+        "translatedTime": "33.964"
+      },
+      {
+        "Pokedex": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
+        "Name": "Cutiefly",
+        "PokedexTranslated": "Ele se alimenta do néctar e pólen de flores. Porque ele consegue sentir auras, ele consegue identificar quais flores estão prestes a florescer. \n",
+        "translatedTime": "34.081"
+      },
+      {
+        "Pokedex": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
+        "Name": "Ribombee",
+        "PokedexTranslated": "Chuva deixa o pólen úmido, então Ribombee odeia a chuva. Quando vê nuvens ominosas, ele encontra um buraco em uma árvore, onde espera imóvel. \n",
+        "translatedTime": "34.607"
+      },
+      {
+        "Pokedex": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
+        "Name": "Rockruff",
+        "PokedexTranslated": "Este Pokémon vive com as pessoas desde tempos muito antigos. Ele consegue sentir quando o seu treinador está triste e ficará perto do lado do seu treinador. \n",
+        "translatedTime": "34.656"
+      },
+      {
+        "Pokedex": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+        "Name": "Lycanroc",
+        "PokedexTranslated": "Seus movimentos rápidos confundam seus inimigos. Bem equipado com garras e dentes, ele também usa as pedras afiadas em sua crinha como armas. \n",
+        "translatedTime": "34.28"
+      },
+      {
+        "Pokedex": "It's awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
+        "Name": "Wishiwashi",
+        "PokedexTranslated": "É muito fraco e notável para ser comido, então todos estão sempre tentando capturá-lo. Como acontece, qualquer um que tente bullying-lo recebe uma lição dolorosa. \n",
+        "translatedTime": "35.51"
+      },
+      {
+        "Pokedex": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+        "Name": "Mareanie",
+        "PokedexTranslated": "Ele lança a ponta venenosa na sua cabeça em sua presa. Quando a presa se weaken, Mareanie realiza o golpe final com suas 10 tentáculos. \n",
+        "translatedTime": "34.847"
+      },
+      {
+        "Pokedex": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+        "Name": "Toxapex",
+        "PokedexTranslated": "Aqueles atacados pela toxina do Toxapex sofrerão dor intensa por três dias e três noites. Após a recuperação, haverá alguns efeitos colaterais. \n",
+        "translatedTime": "35.368"
+      },
+      {
+        "Pokedex": "It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
+        "Name": "Mudbray",
+        "PokedexTranslated": "Ele adora brincar na lama. Se não for banhado de lama diariamente, ele fica estressado e para de ouvir seu treinador. \n",
+        "translatedTime": "34.962"
+      },
+      {
+        "Pokedex": "It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.",
+        "Name": "Mudsdale",
+        "PokedexTranslated": "Ele permanece calmo e imóvel, independentemente da situação. Ele mistura terra com a saliva em sua boca para fazer um tipo especial de lama. \n",
+        "translatedTime": "35.231"
+      }
+    ],
+    "maxTranslatedTime": 35.51,
+    "minTranslatedTime": 27.24
   }
 ]
