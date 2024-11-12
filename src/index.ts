@@ -296,7 +296,6 @@ const main = async (range: { min: number; max: number }) => {
         "./src/tradução/formattedData.json",
         JSON.stringify(existingTranslatedData, null, 2)
     );
-    5;
 
     saveAnalysis(statictics, range);
 };
