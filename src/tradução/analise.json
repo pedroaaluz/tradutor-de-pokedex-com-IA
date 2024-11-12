@@ -4817,5 +4817,374 @@
     ],
     "maxTranslatedTime": 35.51,
     "minTranslatedTime": 27.24
+  },
+  {
+    "date": "2024-11-12T23:34:15.450Z",
+    "totalTranslationTime": 1927.2890000000004,
+    "averageTranslationTime": 32.6659152542373,
+    "p90TranslationTime": 35.843,
+    "translatedPokemonCount": 59,
+    "translationRange": {
+      "min": 751,
+      "max": 809
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.",
+        "Name": "Dewpider",
+        "PokedexTranslated": "Quando dois Dewpider se encontram, eles mostram suas bolhas d'água um para o outro. Então, aquele com a bolha menor sai do caminho do outro. \n",
+        "translatedTime": "28.231"
+      },
+      {
+        "Pokedex": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+        "Name": "Araquanid",
+        "PokedexTranslated": "Ele entrega cabeçadas com a bolha d'água no topo da cabeça. Pokémon pequenos são aspirados na bolha, onde eles afogam. \n",
+        "translatedTime": "27.934"
+      },
+      {
+        "Pokedex": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
+        "Name": "Fomantis",
+        "PokedexTranslated": "Quando o sol nasce, o Fomantis espalha suas quatro folhas e se banha na luz solar. A ponta da cabeça dele tem um aroma agradável. \n",
+        "translatedTime": "27.312"
+      },
+      {
+        "Pokedex": "It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
+        "Name": "Lurantis",
+        "PokedexTranslated": "Manter a cor vibrante do Lurantis exige muito esforço, mas alguns colecionadores gostam dessa tarefa e a consideram um hobby. \n",
+        "translatedTime": "28.496"
+      },
+      {
+        "Pokedex": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+        "Name": "Morelull",
+        "PokedexTranslated": "Ele espalha suas esporos brilhantes ao redor de si. Apesar de serem perigosos, passeios noturnos em florestas onde Morelull vivem são populares. \n",
+        "translatedTime": "29.086"
+      },
+      {
+        "Pokedex": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
+        "Name": "Shiinotic",
+        "PokedexTranslated": "Ele induz a sua presa a dormir e absorve sua vitalidade através da ponta de seus braços. Se um de seus semelhantes estiver fraco, ele ajuda enviando vitalidade. \n",
+        "translatedTime": "35.901"
+      },
+      {
+        "Pokedex": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+        "Name": "Salandit",
+        "PokedexTranslated": "Ele queima seus fluidos corporais para criar um gás venenoso. Quando seus inimigos ficam desorientados ao inalarem o gás, ele ataca-os. \n",
+        "translatedTime": "37.514"
+      },
+      {
+        "Pokedex": "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.",
+        "Name": "Salazzle",
+        "PokedexTranslated": "Cheio de fórmon, seu gás venenoso pode ser diluído para ser usado na produção de perfumes deliciosos. \n",
+        "translatedTime": "33.249"
+      },
+      {
+        "Pokedex": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+        "Name": "Stufful",
+        "PokedexTranslated": "Apesar de sua aparência adorável, quando fica irritado e se agita, seus braços e pernas poderiam derrubar um lutador profissional. \n",
+        "translatedTime": "29.356"
+      },
+      {
+        "Pokedex": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn't run away as fast as possible.",
+        "Name": "Bewear",
+        "PokedexTranslated": "Ele estende as mãos em um movimento frenético de intimidação e advertência. A vida é perdida para qualquer um que não corre o mais rápido possível. \n",
+        "translatedTime": "29.409"
+      },
+      {
+        "Pokedex": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
+        "Name": "Bounsweet",
+        "PokedexTranslated": "Por causa de seu aroma doce e delicioso, os Pokémon de pássaro sempre procuram por ele, mas ele não é inteligente o suficiente para se importar. \n",
+        "translatedTime": "30.088"
+      },
+      {
+        "Pokedex": "It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.",
+        "Name": "Steenee",
+        "PokedexTranslated": "Ele é protegido por suas sepalas duras, então ele brinca com Pokémon de pássaro sem preocupação. Eles o picam incessantemente, mas ele não se importa. \n",
+        "translatedTime": "29.959"
+      },
+      {
+        "Pokedex": "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
+        "Name": "Tsareena",
+        "PokedexTranslated": "Um Pokémon com personalidade agressiva e domínio no chute, ele gargalha cada vez que chuta um oponente. \n",
+        "translatedTime": "29.844"
+      },
+      {
+        "Pokedex": "Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.",
+        "Name": "Comfey",
+        "PokedexTranslated": "Banhos preparados com as flores de sua trepadeira têm um efeito relaxante, então este Pokémon é um sucesso com muitas pessoas. \n",
+        "translatedTime": "30.222"
+      },
+      {
+        "Pokedex": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
+        "Name": "Oranguru",
+        "PokedexTranslated": "Ele normalmente passa seu tempo medita nos troncos das árvores. Ele lança Poké Balls e dá ordens a outros Pokémon conforme sua vontade. \n",
+        "translatedTime": "30.468"
+      },
+      {
+        "Pokedex": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
+        "Name": "Passimian",
+        "PokedexTranslated": "Frutas são suas armas e também a base da sua dieta. O que consegue lançar a fruta mais longe é o chefe da tropa. \n",
+        "translatedTime": "30.803"
+      },
+      {
+        "Pokedex": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+        "Name": "Wimpod",
+        "PokedexTranslated": "Este Pokémon é um covarde. Ao correr desesperadamente, o movimento frenético de suas muitas pernas deixa um caminho brilhante e limpo no seu rastro. \n",
+        "translatedTime": "29.534"
+      },
+      {
+        "Pokedex": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
+        "Name": "Golisopod",
+        "PokedexTranslated": "Ele batalha habilmente com seus seis braços, mas passa a maior parte do tempo meditando pacificamente em cavernas profundas sob o mar. \n",
+        "translatedTime": "31.058"
+      },
+      {
+        "Pokedex": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
+        "Name": "Sandygast",
+        "PokedexTranslated": "Ele gosta da pala na cabeça, então o Sandygast ficará sério e vai lutar contra qualquer criança que tente levá-lo de volta. \n",
+        "translatedTime": "31.383"
+      },
+      {
+        "Pokedex": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
+        "Name": "Palossand",
+        "PokedexTranslated": "Encaixado sob o castelo estão massas de ossos secos de quem teve sua vitalidade esvaída. \n",
+        "translatedTime": "31.501"
+      },
+      {
+        "Pokedex": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+        "Name": "Pyukumuku",
+        "PokedexTranslated": "Ele vive em mares rasos, como áreas próximas a uma praia. Ele pode ejectar seus órgãos internos, que usa para engolir sua presa ou lutar contra inimigos. \n",
+        "translatedTime": "31.908"
+      },
+      {
+        "Pokedex": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+        "Name": "Type: Null",
+        "PokedexTranslated": "A máscara de controle pesada que ele usa supõe suas capacidades intrínsecas. Este Pokémon tem algum poder especial escondido. \n",
+        "translatedTime": "31.357"
+      },
+      {
+        "Pokedex": "Its trust in its partner is what awakens it. This Pokémon is capable of changing its type, a flexibility that is well displayed in battle.",
+        "Name": "Silvally",
+        "PokedexTranslated": "A confiança em seu parceiro é o que o desperta. Este Pokémon é capaz de mudar de tipo, uma flexibilidade bem exibida em batalha. \n",
+        "translatedTime": "31.601"
+      },
+      {
+        "Pokedex": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
+        "Name": "Minior",
+        "PokedexTranslated": "Originariamente, ele habitava na camada de ozônio, mas se desloca para o chão quando a concha que o envolve cresce muito pesada. \n",
+        "translatedTime": "32.013"
+      },
+      {
+        "Pokedex": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
+        "Name": "Komala",
+        "PokedexTranslated": "Ele permanece dormindo desde o nascimento até a morte como resultado das propriedades sedativas das folhas que formam sua dieta. \n",
+        "translatedTime": "31.076"
+      },
+      {
+        "Pokedex": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
+        "Name": "Turtonator",
+        "PokedexTranslated": "Ele vive em vulcões e come enxofre e outros minerais. Os materiais da comida que ele come formam a base de sua casca explosiva. \n",
+        "translatedTime": "31.956"
+      },
+      {
+        "Pokedex": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
+        "Name": "Togedemaru",
+        "PokedexTranslated": "As longas pelos na sua parte de trás atuam como varas de raio. Os raios de raio que ele atrai são armazenados como energia em sua bolsa elétrica. \n",
+        "translatedTime": "32.109"
+      },
+      {
+        "Pokedex": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
+        "Name": "Mimikyu",
+        "PokedexTranslated": "Um Pokémon solitário, ele esconde sua aparência terrível sob uma velha toalha para poder se aproximar de pessoas e outros Pokémon. \n",
+        "translatedTime": "31.565"
+      },
+      {
+        "Pokedex": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+        "Name": "Bruxish",
+        "PokedexTranslated": "Quando ele libera sua força psíquica da protuberância na cabeça, o som de dentes roçando ecoa pela área. \n",
+        "translatedTime": "31.901"
+      },
+      {
+        "Pokedex": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
+        "Name": "Drampa",
+        "PokedexTranslated": "Este Pokémon é amigável com as pessoas e ama crianças principalmente. Ele vem de lugares profundos das montanhas para brincar com crianças que gosta na cidade. \n",
+        "translatedTime": "32.194"
+      },
+      {
+        "Pokedex": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
+        "Name": "Dhelmise",
+        "PokedexTranslated": "A alma do algas marinhas em flutuação nas ondas se renasceu como este Pokémon. Ele se mantém com novas infusões de detritos do fundo do mar e algas marinhas. \n",
+        "translatedTime": "32.967"
+      },
+      {
+        "Pokedex": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+        "Name": "Jangmo-o",
+        "PokedexTranslated": "Ele expressa seus sentimentos batendo suas escamas. Sons metálicos ecoam pelas montanhas altas onde o Jangmo-o vive. \n",
+        "translatedTime": "32.343"
+      },
+      {
+        "Pokedex": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
+        "Name": "Hakamo-o",
+        "PokedexTranslated": "Ele descasca e reveste suas escamas continuamente. As escamas se tornam mais duras e afiadas a cada vez que são recriadas. \n",
+        "translatedTime": "32.641"
+      },
+      {
+        "Pokedex": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
+        "Name": "Kommo-o",
+        "PokedexTranslated": "Suas escamas rígidas funcionam como defesa e ofensiva. No passado, suas escamas foram processadas e usadas para fabricar armas e outros produtos. \n",
+        "translatedTime": "32.725"
+      },
+      {
+        "Pokedex": "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
+        "Name": "Tapu Koko",
+        "PokedexTranslated": "Embora seja chamado de deusa guardiã, se uma pessoa ou Pokémon o colocar em um humor ruim, ele se tornará uma deusa malévola e atacará. \n",
+        "translatedTime": "33.659"
+      },
+      {
+        "Pokedex": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
+        "Name": "Tapu Lele",
+        "PokedexTranslated": "Ao flutuar, ele espalha suas escamas brilhantes de forma estranha. Tocá-las é dito para restaurar a saúde no local. \n",
+        "translatedTime": "33.105"
+      },
+      {
+        "Pokedex": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+        "Name": "Tapu Bulu",
+        "PokedexTranslated": "Ele puxa grandes árvores pelas raízes e as gira. Ele faz crescer a vegetação e, em seguida, absorve energia do crescimento. \n",
+        "translatedTime": "33.299"
+      },
+      {
+        "Pokedex": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
+        "Name": "Tapu Fini",
+        "PokedexTranslated": "A névoa densa que ele cria traz a queda e a destruição de seus inimigos confusos. As correntes oceânicas são a fonte de sua energia. \n",
+        "translatedTime": "33.626"
+      },
+      {
+        "Pokedex": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
+        "Name": "Cosmog",
+        "PokedexTranslated": "Se é um Pokémon deste mundo ou não é um mistério. Quando está em uma situação complicada, ele se desvia para um lugar seguro para se esconder. \n",
+        "translatedTime": "33.963"
+      },
+      {
+        "Pokedex": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+        "Name": "Cosmoem",
+        "PokedexTranslated": "Imóvel como morto, seu corpo é levemente quente ao toque. No passado distante, ele era chamado de cocoon das estrelas. \n",
+        "translatedTime": "33.534"
+      },
+      {
+        "Pokedex": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+        "Name": "Solgaleo",
+        "PokedexTranslated": "Diz-se que ele vive em outro mundo. A intensa luz que ele irradia da superfície do seu corpo pode tornar as noites mais escuras iluminadas como o meio-dia. \n",
+        "translatedTime": "34.488"
+      },
+      {
+        "Pokedex": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
+        "Name": "Lunala",
+        "PokedexTranslated": "Diz-se que ele vive em outro mundo, este Pokémon consome a luz, puxando a cortina escura e sem lua da noite sobre a luminosidade do dia. \n",
+        "translatedTime": "35.234"
+      },
+      {
+        "Pokedex": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+        "Name": "Nihilego",
+        "PokedexTranslated": "Um dos vários monstros misteriosos Ultra. Pessoas na rua relatam observar aqueles infestados por ele se tornando violentos de repente. \n",
+        "translatedTime": "33.922"
+      },
+      {
+        "Pokedex": "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
+        "Name": "Buzzwole",
+        "PokedexTranslated": "Este monstro Ultra surgiu de outro mundo. Ele mostra seu corpo, mas se essa demonstração é um orgulho ou uma ameaça permanece incerto. \n",
+        "translatedTime": "34.342"
+      },
+      {
+        "Pokedex": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+        "Name": "Pheromosa",
+        "PokedexTranslated": "Um dos monstros Ultra. Ele se recusa a tocar qualquer coisa, talvez porque sente alguma impureza neste mundo. \n",
+        "translatedTime": "33.98"
+      },
+      {
+        "Pokedex": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+        "Name": "Xurkitree",
+        "PokedexTranslated": "Um dos seres vivos misteriosos conhecidos como monstros Ultra. Segundo testemunhas, choques elétricos incríveis emanam de todo o seu corpo. \n",
+        "translatedTime": "34.611"
+      },
+      {
+        "Pokedex": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
+        "Name": "Celesteela",
+        "PokedexTranslated": "Um tipo de monstro Ultra. Testemunhas viram-no incendiar uma floresta expelindo gás de suas duas pernas. \n",
+        "translatedTime": "34.239"
+      },
+      {
+        "Pokedex": "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
+        "Name": "Kartana",
+        "PokedexTranslated": "Um dos seres vivos misteriosos Ultra, foi observado cortando uma torre de aço gigantesca com um único golpe de sua lâmina. \n",
+        "translatedTime": "34.381"
+      },
+      {
+        "Pokedex": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
+        "Name": "Guzzlord",
+        "PokedexTranslated": "Um monstro Ultra perigoso, parece estar constantemente se alimentando, mas por algum motivo, seus resíduos nunca foram encontrados. \n",
+        "translatedTime": "34.57"
+      },
+      {
+        "Pokedex": "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.",
+        "Name": "Necrozma",
+        "PokedexTranslated": "A luz é aparentemente a fonte de sua energia. Tem uma disposição extraordinariamente feroz e está constantemente disparando lasers. \n",
+        "translatedTime": "34.752"
+      },
+      {
+        "Pokedex": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
+        "Name": "Magearna",
+        "PokedexTranslated": "Este Pokémon artificial, construído há mais de 500 anos, pode entender a fala humana, mas não pode falar por si só. \n",
+        "translatedTime": "34.946"
+      },
+      {
+        "Pokedex": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
+        "Name": "Marshadow",
+        "PokedexTranslated": "Capazes de se esconder nas sombras, nunca se manifesta diante dos humanos, então sua existência era o assunto de lendas. \n",
+        "translatedTime": "34.768"
+      },
+      {
+        "Pokedex": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
+        "Name": "Poipole",
+        "PokedexTranslated": "Um monstro Ultra que vive em outro mundo, ele gargalha frenéticamente enquanto espalha veneno nas suas vítimas com as agulhas na cabeça. \n",
+        "translatedTime": "35.583"
+      },
+      {
+        "Pokedex": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
+        "Name": "Naganadel",
+        "PokedexTranslated": "Um tipo de monstro Ultra, ele lança um líquido brilhante e venenoso de suas agulhas. Este líquido também é extremamente aderente. \n",
+        "translatedTime": "35.727"
+      },
+      {
+        "Pokedex": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+        "Name": "Stakataka",
+        "PokedexTranslated": "Quando as paredes de pedra começaram a se mover e atacar, a verdadeira identidade do bruto foi revelada, este ser misterioso, que lembra um monstro Ultra. \n",
+        "translatedTime": "35.843"
+      },
+      {
+        "Pokedex": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
+        "Name": "Blacephalon",
+        "PokedexTranslated": "Ele se espreguiça em direção às pessoas. Em seguida, sem aviso prévio, ele aciona a explosão de sua própria cabeça. É aparentemente um tipo de monstro Ultra. \n",
+        "translatedTime": "36.973"
+      },
+      {
+        "Pokedex": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
+        "Name": "Zeraora",
+        "PokedexTranslated": "Ele se aproxima de seus inimigos à velocidade da lightning, e depois os rasgando de limbas com suas garras afiadas. \n",
+        "translatedTime": "35.545"
+      },
+      {
+        "Pokedex": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+        "Name": "Meltan",
+        "PokedexTranslated": "Ele derrete partículas de ferro e outros metais encontrados no subsolo, para que possa absorvê-los em seu corpo de aço fundente. \n",
+        "translatedTime": "35.895"
+      },
+      {
+        "Pokedex": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+        "Name": "Melmetal",
+        "PokedexTranslated": "Reverenciado há muito tempo por sua capacidade de criar ferro de nada, por algum motivo, voltou à vida após 3.000 anos. \n",
+        "translatedTime": "36.6"
+      }
+    ],
+    "maxTranslatedTime": 37.514,
+    "minTranslatedTime": 27.312
   }
 ]
