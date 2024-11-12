@@ -232,7 +232,7 @@ const main = async (range: { min: number; max: number }) => {
 
     const statictics = [];
 
-    let count = range.max - range.min;
+    let count = range.max - range.min + 1;
 
     for (const pokemon of formattedData) {
         const { Pokedex, Name, id } = pokemon as {
@@ -301,4 +301,10 @@ const main = async (range: { min: number; max: number }) => {
     saveAnalysis(statictics, range);
 };
 
-main({ min: 551, max: 600 });
+main({ min: 650, max: 650 });
+
+/**
+ *
+ *
+ *
+ */

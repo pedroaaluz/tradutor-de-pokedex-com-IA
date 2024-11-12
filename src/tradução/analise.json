@@ -3853,5 +3853,339 @@
     ],
     "maxTranslatedTime": 42.911,
     "minTranslatedTime": 26.583
+  },
+  {
+    "date": "2024-11-12T02:18:12.639Z",
+    "totalTranslationTime": 1735.398,
+    "averageTranslationTime": 34.70796,
+    "p90TranslationTime": 38.335,
+    "translatedPokemonCount": 50,
+    "translationRange": {
+      "min": 601,
+      "max": 650
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+        "Name": "Klinklang",
+        "PokedexTranslated": "A peça com o núcleo vermelho é girada a alta velocidade para uma rápida carga de energia. \n",
+        "translatedTime": "36.27"
+      },
+      {
+        "Pokedex": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+        "Name": "Tynamo",
+        "PokedexTranslated": "Pokémon se movem em escolas. Eles possuem um órgão que gera eletricidade, então eles descarregam eletricidade se estiverem em perigo. \n",
+        "translatedTime": "29.781"
+      },
+      {
+        "Pokedex": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+        "Name": "Eelektrik",
+        "PokedexTranslated": "Pokémon têm um grande apetite. Quando eles encontram a presa, atacam-na e a paralisa com eletricidade. \n",
+        "translatedTime": "29.947"
+      },
+      {
+        "Pokedex": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+        "Name": "Eelektross",
+        "PokedexTranslated": "Com suas bocas de suportes, eles aspiram a presa. Em seguida, usam suas incisivos para chocar a presa com eletricidade. \n",
+        "translatedTime": "40.551"
+      },
+      {
+        "Pokedex": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
+        "Name": "Elgyem",
+        "PokedexTranslated": "Este Pokémon nunca foi visto até que apareceu no deserto há 50 anos. \n",
+        "translatedTime": "30.752"
+      },
+      {
+        "Pokedex": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+        "Name": "Beheeyem",
+        "PokedexTranslated": "Ele usa poder psíquico para controlar o cérebro do oponente e interferir em suas memórias. \n",
+        "translatedTime": "31.77"
+      },
+      {
+        "Pokedex": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+        "Name": "Litwick",
+        "PokedexTranslated": "Enquanto brilha uma luz e se apresenta como guia, ele absorve a força vital de qualquer que o siga. \n",
+        "translatedTime": "31.735"
+      },
+      {
+        "Pokedex": "It arrives near the moment of death and steals spirit from the body.",
+        "Name": "Lampent",
+        "PokedexTranslated": "Ele chega perto do momento da morte e rouba a alma do corpo. \n",
+        "translatedTime": "29.319"
+      },
+      {
+        "Pokedex": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+        "Name": "Chandelure",
+        "PokedexTranslated": "Ser consumido pela chama de Chandelure queima a alma, deixando o corpo para trás. \n",
+        "translatedTime": "35.085"
+      },
+      {
+        "Pokedex": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+        "Name": "Axew",
+        "PokedexTranslated": "Eles marcam seu território deixando feridas em árvores com seus dentes. Se um dente quebra, um novo cresce rapidamente. \n",
+        "translatedTime": "35.534"
+      },
+      {
+        "Pokedex": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+        "Name": "Fraxure",
+        "PokedexTranslated": "Seus dentes podem quebrar rochas. Batalhas de território entre Fraxure podem ser intensamente violentas. \n",
+        "translatedTime": "34.836"
+      },
+      {
+        "Pokedex": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+        "Name": "Haxorus",
+        "PokedexTranslated": "Seus dentes resistentes permanecerão afiados mesmo se usados para cortar vigas de aço. Esses Pokémon estão coberto de armadura dura. \n",
+        "translatedTime": "38.756"
+      },
+      {
+        "Pokedex": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+        "Name": "Cubchoo",
+        "PokedexTranslated": "Seu nariz está sempre escorrendo. Ele espirra o muco de volta porque o muco fornece a matéria-prima para seus movimentos. \n",
+        "translatedTime": "36.465"
+      },
+      {
+        "Pokedex": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+        "Name": "Beartic",
+        "PokedexTranslated": "Ele congela sua respiração para criar dentes e garras de gelo para lutar. Áreas do norte frio é seu habitat. \n",
+        "translatedTime": "32.405"
+      },
+      {
+        "Pokedex": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+        "Name": "Cryogonal",
+        "PokedexTranslated": "Eles nascem em nuvens de neve. Eles usam cadeias feitas de cristais de gelo para capturar presas. \n",
+        "translatedTime": "32.531"
+      },
+      {
+        "Pokedex": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+        "Name": "Shelmet",
+        "PokedexTranslated": "Ele evolui quando exposto a uma energia elétrica semelhante ao Karrablast. A razão ainda é desconhecida. \n",
+        "translatedTime": "31.851"
+      },
+      {
+        "Pokedex": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+        "Name": "Accelgor",
+        "PokedexTranslated": "Com a retirada de sua casca pesada, ele se torna muito leve e pode lutar com movimentos ninjas. \n",
+        "translatedTime": "34.323"
+      },
+      {
+        "Pokedex": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of energy.",
+        "Name": "Stunfisk",
+        "PokedexTranslated": "Ele se esconde na lama da praia. Então ele espera. Quando a presa toca nele, ele entrega um choque de energia. \n",
+        "translatedTime": "35.429"
+      },
+      {
+        "Pokedex": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
+        "Name": "Mienfoo",
+        "PokedexTranslated": "Eles dominaram combos elegantes. Ao concentrar, suas técnicas de batalha se tornam mais rápidas e precisas. \n",
+        "translatedTime": "34.208"
+      },
+      {
+        "Pokedex": "They use the long fur on their arms as a whip to strike their opponents.",
+        "Name": "Mienshao",
+        "PokedexTranslated": "Eles usam o pelo longo nas suas mãos como uma vara para atacar seus oponentes. \n",
+        "translatedTime": "36.22"
+      },
+      {
+        "Pokedex": "It races through narrow caves, using its sharp claws to catch prey. Then skin on its face is harder than a rock.",
+        "Name": "Druddigon",
+        "PokedexTranslated": "Ele corre por cavernas estreitas, usando suas garras afiadas para capturar presas. Em seguida, a pele em sua face é mais dura que uma rocha. \n",
+        "translatedTime": "38.198"
+      },
+      {
+        "Pokedex": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+        "Name": "Golett",
+        "PokedexTranslated": "Acreditam-se que esses Pokémon foram criados pela ciência de uma civilização antiga e misteriosa. \n",
+        "translatedTime": "34.582"
+      },
+      {
+        "Pokedex": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+        "Name": "Golurk",
+        "PokedexTranslated": "Diz-se que Golurk foram ordenados para proteger as pessoas e Pokémon pelos antigos que os criaram. \n",
+        "translatedTime": "34.471"
+      },
+      {
+        "Pokedex": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+        "Name": "Pawniard",
+        "PokedexTranslated": "Eles lutam sob comando de Bisharp. Eles se agarram à presa e infligem danos ao mergulhar suas lâminas nela. \n",
+        "translatedTime": "35.485"
+      },
+      {
+        "Pokedex": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+        "Name": "Bisharp",
+        "PokedexTranslated": "Bisharp persegue presas em companhia de um grande grupo de Pawniard. Em seguida, Bisharp termina a presa. \n",
+        "translatedTime": "38.364"
+      },
+      {
+        "Pokedex": "They charge wildly and headbutt everything. They headbutts have enough destructive force to derail a train.",
+        "Name": "Bouffalant",
+        "PokedexTranslated": "Eles se despedem em fúria e cabecem tudo. Os cabeçadas têm a força destrutiva para desviar um trem. \n",
+        "translatedTime": "34.173"
+      },
+      {
+        "Pokedex": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+        "Name": "Rufflet",
+        "PokedexTranslated": "Eles desafiarão qualquer coisa, mesmo oponentes fortes, sem medo. Seus frequentes combates os ajudam a se tornar mais fortes. \n",
+        "translatedTime": "33.594"
+      },
+      {
+        "Pokedex": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+        "Name": "Braviary",
+        "PokedexTranslated": "Quanto mais cicatrizes eles tiverem, mais respeito esses valentes soldados do céu recebem de seus colegas. \n",
+        "translatedTime": "37.041"
+      },
+      {
+        "Pokedex": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+        "Name": "Vullaby",
+        "PokedexTranslated": "Eles tendem a proteger suas traseiras com ossos adequados que encontraram. Eles perseguem Pokémon fracos. \n",
+        "translatedTime": "35.21"
+      },
+      {
+        "Pokedex": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+        "Name": "Mandibuzz",
+        "PokedexTranslated": "Observando do céu, eles se precipitam para atacar Pokémon fracos no chão. Eles se vestem com ossos. \n",
+        "translatedTime": "34.18"
+      },
+      {
+        "Pokedex": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+        "Name": "Heatmor",
+        "PokedexTranslated": "Usando suas bocas, extremamente quentes e cobertas de fogo, eles queimam as correntes de Durant e consomem seus órgãos internos. \n",
+        "translatedTime": "42.732"
+      },
+      {
+        "Pokedex": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
+        "Name": "Durant",
+        "PokedexTranslated": "Durant cria ninhos em montanhas. Eles constroem seus túneis complexos e interconectados em labirintos. \n",
+        "translatedTime": "34.636"
+      },
+      {
+        "Pokedex": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+        "Name": "Deino",
+        "PokedexTranslated": "Eles não podem ver, então eles se agarram e mastigam para aprender sobre seu ambiente. Seus corpos estão cobertos de feridas. \n",
+        "translatedTime": "37.225"
+      },
+      {
+        "Pokedex": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+        "Name": "Zweilous",
+        "PokedexTranslated": "Como seus dois cabeças não se dão bem e competem entre si por comida, eles sempre comem muito. \n",
+        "translatedTime": "37.854"
+      },
+      {
+        "Pokedex": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+        "Name": "Hydreigon",
+        "PokedexTranslated": "As cabeças em seus braços não têm cérebro. Eles usam todos os três cabeças para consumir e destruir tudo. \n",
+        "translatedTime": "37.988"
+      },
+      {
+        "Pokedex": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+        "Name": "Larvesta",
+        "PokedexTranslated": "A base dos vulcões é onde eles fazem suas casas. Eles lançam fogo de seus cinco chifres para repelir inimigos atacantes. \n",
+        "translatedTime": "38.189"
+      },
+      {
+        "Pokedex": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+        "Name": "Volcarona",
+        "PokedexTranslated": "Um mar de fogo engolfam os arredores de suas batalhas, pois eles usam suas seis asas para espalhar suas escamas de brasa. \n",
+        "translatedTime": "36.557"
+      },
+      {
+        "Pokedex": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+        "Name": "Cobalion",
+        "PokedexTranslated": "Tem um corpo e coração de aço. Seu olhar é suficiente para fazer até mesmo um Pokémon descontrolado obedecer a ele. \n",
+        "translatedTime": "36.987"
+      },
+      {
+        "Pokedex": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
+        "Name": "Terrakion",
+        "PokedexTranslated": "Sua carga é forte o suficiente para quebrar uma parede de castelo gigante em um único golpe. Este Pokémon é mencionado em lendas. \n",
+        "translatedTime": "38.335"
+      },
+      {
+        "Pokedex": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
+        "Name": "Virizion",
+        "PokedexTranslated": "Sua cabeça brota chifres tão afiados como lâminas. Usando movimentos de tornado, confunde e corta os oponentes rapidamente. \n",
+        "translatedTime": "36.016"
+      },
+      {
+        "Pokedex": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+        "Name": "Tornadus",
+        "PokedexTranslated": "Tornadus expulsa energia massiva de sua cauda, causando tempestades severas. Seu poder é grande o suficiente para soprar casas para longe. \n",
+        "translatedTime": "34.743"
+      },
+      {
+        "Pokedex": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+        "Name": "Thundurus",
+        "PokedexTranslated": "As espinhas na cauda dele descarregam descargas de raio imensa. Ele voa pela região de Unova disparando descargas de raio. \n",
+        "translatedTime": "34.856"
+      },
+      {
+        "Pokedex": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+        "Name": "Reshiram",
+        "PokedexTranslated": "Quando o cauda de Reshiram acende, a energia térmica move a atmosfera e altera o clima do mundo. \n",
+        "translatedTime": "34.503"
+      },
+      {
+        "Pokedex": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+        "Name": "Zekrom",
+        "PokedexTranslated": "Este Pokémon aparece em lendas. Em sua cauda, possui um gerador gigante que cria eletricidade. \n",
+        "translatedTime": "34.858"
+      },
+      {
+        "Pokedex": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+        "Name": "Landorus",
+        "PokedexTranslated": "A energia que sai da cauda dele aumenta a nutrição no solo, fazendo com que as culturas cresçam em tamanho considerável. \n",
+        "translatedTime": "38.12"
+      },
+      {
+        "Pokedex": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+        "Name": "Kyurem",
+        "PokedexTranslated": "Ele gera uma energia poderosa e congelante dentro de si, mas seu corpo se congelou quando a energia vazou. \n",
+        "translatedTime": "39.23"
+      },
+      {
+        "Pokedex": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+        "Name": "Keldeo",
+        "PokedexTranslated": "Ele atravessa o mundo, correndo sobre as superfícies dos oceanos e rios. Ele aparece em pontos de vista de beira-mar. \n",
+        "translatedTime": "36.609"
+      },
+      {
+        "Pokedex": "Many famous songs have been inspired by the melodies that Meloetta plays.",
+        "Name": "Meloetta",
+        "PokedexTranslated": "Muitas músicas famosas foram inspiradas pelas melodias que Meloetta toca. \n",
+        "translatedTime": "34.911"
+      },
+      {
+        "Pokedex": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+        "Name": "Genesect",
+        "PokedexTranslated": "Este Pokémon inseto antigo foi alterado pelo Team Plasma. Eles melhoraram a canhão na sua parte traseira. \n",
+        "translatedTime": "36.422"
+      },
+      {
+        "PokedexTranslated": "Indefinido. \n",
+        "translatedTime": "1.561"
+      }
+    ],
+    "maxTranslatedTime": 42.732,
+    "minTranslatedTime": 1.561
+  },
+  {
+    "date": "2024-11-12T02:37:10.879Z",
+    "totalTranslationTime": 29.287,
+    "averageTranslationTime": 29.287,
+    "p90TranslationTime": 29.287,
+    "translatedPokemonCount": 1,
+    "translationRange": {
+      "min": 650,
+      "max": 650
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+        "Name": "Chespin",
+        "PokedexTranslated": "As cerdas na sua cabeça são geralmente macias. Quando ele as flexiona, os pontos se tornam tão duros e afiados que podem perfurar rochas. \n",
+        "translatedTime": "29.287"
+      }
+    ],
+    "maxTranslatedTime": 29.287,
+    "minTranslatedTime": 29.287
   }
 ]
