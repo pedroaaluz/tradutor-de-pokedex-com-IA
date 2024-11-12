@@ -21612,38 +21612,6 @@ BattlerEnemyY = 4
 BattlerShadowX = 0
 BattlerShadowSize = 2
 #-------------------------------
-[650]
- Name = MissigNo
- InternalName = MISSIGNO
- Type1 = NORMAL
- BaseStats = 200,200,200,200,200,200
- GenderRate = FemaleOneEighth
- GrowthRate = Parabolic
- BaseEXP = 10
- EffortPoints = 1,1,1,1,1,1
- Rareness = 45
- Happiness = 255
- Abilities = MULTISCALE
- HiddenAbility = MULTITYPE
- Moves = 1,HIDDENPOWER
- TutorMoves = HIDDENPOWER
- EggMoves = HIDDENPOWER
- Compatibility = Field
- StepsToHatch = 10
- Height = 1.0
- Weight = 1.0
- Color = White
- Shape = BipedalTail
- Kind = Spiny Nut
- Pokedex = Error. If you are seeing this please report to a Pokémon Brasil developer.
- Generation = 6
- BattlerPlayerX = 0
- BattlerPlayerY = 0
- BattlerEnemyX = 0
- BattlerEnemyY = 0
- BattlerShadowX = 0
- BattlerShadowSize = 2
-#-------------------------------
 #[650]
 # Name = Chespin
 # InternalName = CHESPIN
