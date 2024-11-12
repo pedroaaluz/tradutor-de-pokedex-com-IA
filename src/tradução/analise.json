@@ -3538,5 +3538,320 @@
     ],
     "maxTranslatedTime": 37.179,
     "minTranslatedTime": 27.262
+  },
+  {
+    "date": "2024-11-12T00:12:30.970Z",
+    "totalTranslationTime": 1701.98,
+    "averageTranslationTime": 34.0396,
+    "p90TranslationTime": 38.048,
+    "translatedPokemonCount": 50,
+    "translationRange": {
+      "min": 551,
+      "max": 600
+    },
+    "translatedPokemon": [
+      {
+        "Pokedex": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+        "Name": "Sandile",
+        "PokedexTranslated": "Ele se move abaixo da superfície da areia, exceto para o nariz e os olhos. Uma membrana escura protege seus olhos do sol. \n",
+        "translatedTime": "26.583"
+      },
+      {
+        "Pokedex": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings, even in darkness.",
+        "Name": "Krokorok",
+        "PokedexTranslated": "A membrana especial que cobre seus olhos pode sentir o calor de objetos, então consegue ver seus arredores, mesmo na escuridão. \n",
+        "translatedTime": "26.735"
+      },
+      {
+        "Pokedex": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.",
+        "Name": "Krookodile",
+        "PokedexTranslated": "Ele pode expandir o foco dos seus olhos, permitindo-lhe ver objetos na distância como se estivesse usando binóculos. \n",
+        "translatedTime": "26.948"
+      },
+      {
+        "Pokedex": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+        "Name": "Darumaka",
+        "PokedexTranslated": "As fezes de Darumaka são quentes, então as pessoas costumavam colocá-las em suas roupas para se aquecer. \n",
+        "translatedTime": "27.988"
+      },
+      {
+        "Pokedex": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+        "Name": "Darmanitan",
+        "PokedexTranslated": "Quando fraco em batalha, ele se transforma em uma estátua de pedra. Então, ele afina sua mente e luta mentalmente. \n",
+        "translatedTime": "28"
+      },
+      {
+        "Pokedex": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+        "Name": "Maractus",
+        "PokedexTranslated": "Regiões áridas são seu habitat. Eles se movem ritmicamente, fazendo um som parecido com maracas. \n",
+        "translatedTime": "27.767"
+      },
+      {
+        "Pokedex": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+        "Name": "Dwebble",
+        "PokedexTranslated": "Ele faz um buraco em uma rocha adequada. Se a rocha se quebrar, o Pokémon permanece agitado até localizar uma substituição. \n",
+        "translatedTime": "28.643"
+      },
+      {
+        "Pokedex": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+        "Name": "Crustle",
+        "PokedexTranslated": "Ele possui pernas de enorme força, permitindo-lhe carregar blocos pesados por muitos dias, mesmo quando atravessando terras áridas. \n",
+        "translatedTime": "28.628"
+      },
+      {
+        "Pokedex": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+        "Name": "Scraggy",
+        "PokedexTranslated": "Ele imediatamente cabeceia para qualquer pessoa que o olhe nos olhos. Sua crânio é massivamente grosso. \n",
+        "translatedTime": "29.033"
+      },
+      {
+        "Pokedex": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+        "Name": "Scrafty",
+        "PokedexTranslated": "Ele pode bater blocos de concreto com seus ataques de chute. O que tem o maior crânio é o líder do grupo. \n",
+        "translatedTime": "31.813"
+      },
+      {
+        "Pokedex": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+        "Name": "Sigilyph",
+        "PokedexTranslated": "Os guardiões de uma cidade antiga, eles usam seu poder psíquico para atacar inimigos que invadem seu território. \n",
+        "translatedTime": "31.265"
+      },
+      {
+        "Pokedex": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+        "Name": "Yamask",
+        "PokedexTranslated": "Pokémon esses Pokémon surgiram dos espíritos de pessoas enterradas em túmulos em épocas passadas. Cada um conserva memórias de sua vida passada. \n",
+        "translatedTime": "30.698"
+      },
+      {
+        "Pokedex": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+        "Name": "Cofagrigus",
+        "PokedexTranslated": "Eles se passam por cofres elaborados para ensinar lições a ladrões de túmulos. Seus corpos estão cobertos de ouro puro. \n",
+        "translatedTime": "31.071"
+      },
+      {
+        "Pokedex": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+        "Name": "Tirtouga",
+        "PokedexTranslated": "Cerca de 100 milhões de anos atrás, esses Pokémon nadavam nos oceanos. É pensado que eles também se aventuraram na terra para atacar presas. \n",
+        "translatedTime": "33.853"
+      },
+      {
+        "Pokedex": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
+        "Name": "Carracosta",
+        "PokedexTranslated": "Força incrível da mandíbula permite que eles mastigam vigas de aço e rochas junto com suas presas. \n",
+        "translatedTime": "42.911"
+      },
+      {
+        "Pokedex": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+        "Name": "Archen",
+        "PokedexTranslated": "Revivido de um fóssil, este Pokémon é considerado o ancestral de todos os Pokémon de pássaro. \n",
+        "translatedTime": "34.273"
+      },
+      {
+        "Pokedex": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+        "Name": "Archeops",
+        "PokedexTranslated": "Ele corre melhor do que voa. Ele captura presas correndo a velocidades comparáveis a aquelas de um automóvel. \n",
+        "translatedTime": "32.095"
+      },
+      {
+        "Pokedex": "The combination of garbage bags and industrial waste caused the chemical reaction that crated this Pokémon.",
+        "Name": "Trubbish",
+        "PokedexTranslated": "A combinação de sacos de lixo e resíduos industriais causou a reação química que criou este Pokémon. \n",
+        "translatedTime": "32.138"
+      },
+      {
+        "Pokedex": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+        "Name": "Garbodor",
+        "PokedexTranslated": "Eles absorvem lixo e o incorporam em seus corpos. Eles lançam um líquido venenoso de suas pontas dos dedos direito. \n",
+        "translatedTime": "36.257"
+      },
+      {
+        "Pokedex": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+        "Name": "Zorua",
+        "PokedexTranslated": "Para se proteger de perigo, eles se escondem de suas identidades reais transformando-se em pessoas e Pokémon. \n",
+        "translatedTime": "34.234"
+      },
+      {
+        "Pokedex": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+        "Name": "Zoroark",
+        "PokedexTranslated": "Cada um tem a capacidade de enganar um grande grupo de pessoas simultaneamente. Eles protegem sua lareira com paisagens ilusórias. \n",
+        "translatedTime": "31.703"
+      },
+      {
+        "Pokedex": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+        "Name": "Minccino",
+        "PokedexTranslated": "Pokémon esses Pokémon preferem um habitat arrumado. Eles estão sempre limpando e espremeando, usando suas caudas como vassouras. \n",
+        "translatedTime": "41.426"
+      },
+      {
+        "Pokedex": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+        "Name": "Cinccino",
+        "PokedexTranslated": "Seu pelo branco é incrível de tocar. Seu pelo repele poeira e previne a acumulação de eletricidade estática. \n",
+        "translatedTime": "35.96"
+      },
+      {
+        "Pokedex": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+        "Name": "Gothita",
+        "PokedexTranslated": "Eles observam intensamente tanto treinadores quanto Pokémon. Aparentemente, eles estão olhando para algo que apenas Gothita pode ver. \n",
+        "translatedTime": "35.176"
+      },
+      {
+        "Pokedex": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+        "Name": "Gothorita",
+        "PokedexTranslated": "A luz das estrelas é a fonte de seu poder. À noite, eles marcam as posições das estrelas usando poder psíquico para flutuar pedras. \n",
+        "translatedTime": "34.854"
+      },
+      {
+        "Pokedex": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+        "Name": "Gothitelle",
+        "PokedexTranslated": "Eles podem prever o futuro a partir do posicionamento e movimento das estrelas. Eles podem ver a expectativa de vida dos treinadores. \n",
+        "translatedTime": "35.804"
+      },
+      {
+        "Pokedex": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+        "Name": "Solosis",
+        "PokedexTranslated": "Por causa de seus corpos sendo envolvidos em um líquido especial, eles podem sobreviver em qualquer ambiente. \n",
+        "translatedTime": "32.626"
+      },
+      {
+        "Pokedex": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+        "Name": "Duosion",
+        "PokedexTranslated": "Quando seus cérebros, agora divididos em duas partes, estão pensando os mesmos pensamentos, esses Pokémon exibem seu poder máximo. \n",
+        "translatedTime": "34.708"
+      },
+      {
+        "Pokedex": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
+        "Name": "Reuniclus",
+        "PokedexTranslated": "Pokémon extraordinariamente inteligentes lutam controlando braços que podem segurar com força de quebrar rochas. \n",
+        "translatedTime": "36.181"
+      },
+      {
+        "Pokedex": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+        "Name": "Ducklett",
+        "PokedexTranslated": "Quando atacado, ele usa suas penas para salpicar água, escapando sob a cobertura do spray. \n",
+        "translatedTime": "33.971"
+      },
+      {
+        "Pokedex": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+        "Name": "Swanna",
+        "PokedexTranslated": "Ele administra picadas afiadas e poderosas com seu bico. Ele estica seu pescoço longo para entregar golpes repetidos fortes. \n",
+        "translatedTime": "34.559"
+      },
+      {
+        "Pokedex": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+        "Name": "Vanillite",
+        "PokedexTranslated": "Este Pokémon formado de gelo aquecido pela energia do sol da manhã. Ele dorme enterrado na neve. \n",
+        "translatedTime": "33.373"
+      },
+      {
+        "Pokedex": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them.",
+        "Name": "Vanillish",
+        "PokedexTranslated": "Ele se esconde dos olhos dos inimigos criando muitas pequenas partículas de gelo e se escondendo entre elas. \n",
+        "translatedTime": "32.267"
+      },
+      {
+        "Pokedex": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.",
+        "Name": "Vanilluxe",
+        "PokedexTranslated": "Se ambas as cabeças ficam irritadas simultaneamente, este Pokémon expulsa uma tempestade de neve, enterrando tudo na neve. \n",
+        "translatedTime": "33.688"
+      },
+      {
+        "Pokedex": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+        "Name": "Deerling",
+        "PokedexTranslated": "A mudança das estações altera a cor e o aroma do pelo deste Pokémon. As pessoas usam-no para marcar as estações. \n",
+        "translatedTime": "34.395"
+      },
+      {
+        "Pokedex": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+        "Name": "Sawsbuck",
+        "PokedexTranslated": "As plantas que crescem em seus chifres mudam de acordo com a estação. Os líderes da manada possuem chifres magníficos. \n",
+        "translatedTime": "34.11"
+      },
+      {
+        "Pokedex": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+        "Name": "Emolga",
+        "PokedexTranslated": "Eles vivem em copas de árvores e deslizam usando o interior de uma membrana semelhante a um manto enquanto descarregam eletricidade. \n",
+        "translatedTime": "34.252"
+      },
+      {
+        "Pokedex": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+        "Name": "Karrablast",
+        "PokedexTranslated": "Quando se sentem ameaçados, eles espirram um líquido ácido para afastar os atacantes. Este Pokémon ataca Shelmet. \n",
+        "translatedTime": "37.597"
+      },
+      {
+        "Pokedex": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+        "Name": "Escavalier",
+        "PokedexTranslated": "Pokémon esses Pokémon evoluem vestindo a concha que cobre um Shelmet. O aço do armamento protege todo o corpo. \n",
+        "translatedTime": "38.387"
+      },
+      {
+        "Pokedex": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+        "Name": "Foongus",
+        "PokedexTranslated": "Por algum motivo, este Pokémon se assemelha a uma Poké Bola. Eles liberam esporos venenosos para repelir aqueles que tentam capturá-los. \n",
+        "translatedTime": "38.048"
+      },
+      {
+        "Pokedex": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+        "Name": "Amoonguss",
+        "PokedexTranslated": "Eles mostram suas bonés de Poké Bola para atrair presas, mas poucos Pokémon são enganados por isso. \n",
+        "translatedTime": "35.877"
+      },
+      {
+        "Pokedex": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+        "Name": "Frillish",
+        "PokedexTranslated": "Eles paralisa a presa com veneno, depois arrastam-nas para seus lares, a cinco milhas abaixo da superfície. \n",
+        "translatedTime": "37.791"
+      },
+      {
+        "Pokedex": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+        "Name": "Jellicent",
+        "PokedexTranslated": "Eles se movem expelindo água do mar absorvida do seu corpo. Seu alimento favorito é energia vital. \n",
+        "translatedTime": "37.51"
+      },
+      {
+        "Pokedex": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+        "Name": "Alomomola",
+        "PokedexTranslated": "Navegando no mar aberto é como eles vivem. Quando encontram um Pokémon ferido, eles o abraçam e o levam para a praia. \n",
+        "translatedTime": "37.226"
+      },
+      {
+        "Pokedex": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+        "Name": "Joltik",
+        "PokedexTranslated": "Eles se fixam em Pokémon de corpo grande e absorvem eletricidade estática, que armazenam em uma bolsa elétrica. \n",
+        "translatedTime": "37.899"
+      },
+      {
+        "Pokedex": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+        "Name": "Galvantula",
+        "PokedexTranslated": "Eles utilizam uma rede eletricamente carregada para capturar suas presas. Enquanto está imerso em choque, eles consomem-na com calma. \n",
+        "translatedTime": "39.673"
+      },
+      {
+        "Pokedex": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
+        "Name": "Ferroseed",
+        "PokedexTranslated": "Eles inserem suas espinhas nas paredes de cavernas e absorvem os minerais que encontram na rocha. \n",
+        "translatedTime": "36.506"
+      },
+      {
+        "Pokedex": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+        "Name": "Ferrothorn",
+        "PokedexTranslated": "Eles se fixam nas vigas das cavernas, disparando hastes de aço em alvos passando abaixo deles. \n",
+        "translatedTime": "37.772"
+      },
+      {
+        "Pokedex": "Interlocking two bodies and spinning around generates the energy they need to live.",
+        "Name": "Klink",
+        "PokedexTranslated": "Interconectando dois corpos e girando em torno deles gera a energia que eles precisam para viver. \n",
+        "translatedTime": "36.578"
+      },
+      {
+        "Pokedex": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+        "Name": "Klang",
+        "PokedexTranslated": "Engrenagens minúsculas são giradas a alta velocidade e disparadas repetidamente. É perigoso se as engrenagens não retornarem. \n",
+        "translatedTime": "41.13"
+      }
+    ],
+    "maxTranslatedTime": 42.911,
+    "minTranslatedTime": 26.583
   }
 ]
